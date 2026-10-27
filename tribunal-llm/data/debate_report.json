@@ -1,0 +1,454 @@
+{
+  "dossier": {
+    "artigos_aplicaveis": [
+      {
+        "artigo": "Artigo 231.º",
+        "materia": "Registo e remuneração do trabalho suplementar",
+        "requisitos": [
+          "O empregador deve manter registo prévio e posterior de cada prestação de trabalho suplementar",
+          "O registo deve indicar fundamento, horas e períodos de descanso compensatório",
+          "O trabalhador deve visar o registo imediatamente após a prestação",
+          "O empregador deve comunicar ao serviço competente a relação nominal anual das horas suplementares",
+          "A violação confere ao trabalhador o direito a duas horas de remuneração por cada dia de trabalho suplementar não registado"
+        ],
+        "mapeamento_factual": "Maria alega que a empresa não lhe pagou trabalho suplementar desde 2022. Não há indicação de que a TechLda mantinha registo nem comunicava a relação anual. Assim, os requisitos de registo e comunicação parecem não ter sido cumpridos (não verificado). A falta de pagamento implica violação do direito a duas horas de remuneração por dia (verificado)."
+      },
+      {
+        "artigo": "Artigo 356.º",
+        "materia": "Despedimento por facto imputável ao trabalhador",
+        "requisitos": [
+          "Existência de facto imputável ao trabalhador que constitua justa causa de despedimento",
+          "Gravidade suficiente para justificar a cessação do contrato",
+          "Procedimento disciplinar prévio, com direito a defesa e comunicação escrita dos factos",
+          "Comunicação do despedimento ao trabalhador com indicação do prazo de impugnação"
+        ],
+        "mapeamento_factual": "A TechLda invocou \"insubordinação grave e reiterada\" e \"quebra da relação de confiança\". Não há prova documental de facto imputável nem de gravidade. Não foi instaurado processo disciplinar escrito nem concedido direito de defesa. A comunicação foi feita por e‑mail sem prazo de impugnação. Portanto, os requisitos de facto imputável, procedimento prévio e comunicação adequada não estão verificados (não verificado)."
+      },
+      {
+        "artigo": "Artigo 357.º",
+        "materia": "Decisão de despedimento por facto imputável ao trabalhador",
+        "requisitos": [
+          "Recebimento dos pareceres da comissão de trabalhadores ou, na sua ausência, do serviço competente",
+          "Decisão de despedimento proferida no prazo de 30 dias a contar da receção dos pareceres ou da última diligência de instrução",
+          "Ponderação das circunstâncias do caso, inclusive atenuantes"
+        ],
+        "mapeamento_factual": "Não há menção de que a TechLda tenha solicitado parecer da comissão de trabalhadores nem que tenha realizado diligências. Não se indica que a decisão tenha sido tomada dentro de 30 dias. Assim, os requisitos não foram cumpridos (não verificado)."
+      },
+      {
+        "artigo": "Artigo 368.º",
+        "materia": "Direito do trabalhador de solicitar verificação dos requisitos do despedimento",
+        "requisitos": [
+          "O trabalhador pode, nos cinco dias úteis posteriores à comunicação do despedimento, solicitar ao serviço competente a verificação dos requisitos previstos nas alíneas c) e d) do n.º 1 e no n.º 2 do artigo 356.º"
+        ],
+        "mapeamento_factual": "Maria ainda não apresentou pedido de verificação nos cinco dias úteis após a comunicação (não verificado)."
+      },
+      {
+        "artigo": "Artigo 377.º",
+        "materia": "Direito de consulta em caso de despedimento por inadaptação",
+        "requisitos": [
+          "Nos 10 dias posteriores à comunicação do despedimento, o trabalhador pode juntar documentos e solicitar diligências probatórias"
+        ],
+        "mapeamento_factual": "Não consta que Maria tenha exercido este direito (não verificado)."
+      }
+    ],
+    "excepcoes_ou_defesas": [
+      "Justa causa alegada (insubordinação) – defesa que a empresa pode invocar, mas depende de comprovar os requisitos do art. 356.º",
+      "Caducidade da decisão de despedimento por não ter sido proferida dentro do prazo de 30 dias (art. 357.º)",
+      "Prescrição da ação de reclamação de trabalho suplementar (art. 231.º) – a reclamação deve ser feita dentro de dois anos a contar da data de pagamento devido"
+    ],
+    "circunstancias_relevantes": [
+      "Contrato sem termo com mais de 5 anos de antiguidade",
+      "Queixa prévia à ACT sobre trabalho suplementar não pago (jan/2024)",
+      "Solicitação de trabalho ao fim‑de‑semana feita por e‑mail sem prévia negociação coletiva de turnos",
+      "Ausência de processo disciplinar escrito e de direito de defesa",
+      "Comunicação do despedimento por e‑mail, sem indicação de prazo de impugnação"
+    ],
+    "factos_controvertidos": [
+      "Se Maria efetivamente recusou a prestação de trabalho suplementar ou se a empresa considerou a recusa como insubordinação",
+      "Se existiu ou não registo de horas suplementares desde 2022",
+      "Se a TechLda solicitou parecer da comissão de trabalhadores antes de despedir",
+      "Se a recusa ao trabalho no fim‑de‑semana violou alguma obrigação contratual ou normativa"
+    ],
+    "questoes_abertas": [
+      "Qual é o conteúdo dos registos de trabalho suplementar (se existirem) e a sua conformidade com o art. 231.º?",
+      "Existe documentação que comprove a existência de um processo disciplinar prévio ou de parecer da comissão?",
+      "A recusa ao trabalho no fim‑de‑semana constitui facto imputável ao trabalhador nos termos do art. 356.º?",
+      "A empresa cumpriu o prazo de 30 dias para a decisão de despedimento (art. 357.º)?",
+      "Qual o prazo de prescrição aplicável à reclamação de salários de trabalho suplementar?"
+    ]
+  },
+  "prosecution": {
+    "tese": "O despedimento de Maria Santos é ilícito, pois a TechLda não cumpriu os requisitos de facto imputável e de procedimento previstos nos artigos 356.º e 357.º do Código do Trabalho, e ainda violou o artigo 231.º ao não registar nem remunerar o trabalho suplementar prestado.",
+    "argumentos_principais": [
+      {
+        "titulo": "Ilicitude formal do despedimento",
+        "fundamentacao_facto": "A empresa nunca instaurou processo disciplinar escrito, nem garantiu a Maria o direito de defesa; a comunicação do despedimento foi feita por e‑mail sem indicar prazo de impugnação, contrariando o procedimento legal.",
+        "fundamentacao_direito": "O art. 356.º, n.º 3, exige procedimento disciplinar prévio com direito de defesa; o n.º 4 obriga a comunicação escrita com indicação do prazo de impugnação. O art. 357.º impõe a obtenção de parecer da comissão de trabalhadores (ou do serviço competente) e a decisão dentro de 30 dias. Todos esses requisitos foram ignorados, tornando o despedimento nulo.",
+        "artigos_citados": [
+          "Artigo 356.º",
+          "Artigo 357.º"
+        ]
+      },
+      {
+        "titulo": "Ausência de facto imputável que justifique a justa causa",
+        "fundamentacao_facto": "A recusa de Maria em trabalhar no fim‑de‑semana decorreu de razões familiares e da inexistência de regime de turnos ou de situação de emergência que a empresa pudesse invocar; não há prova documental de que a recusa constitua insubordinação grave.",
+        "fundamentacao_direito": "O art. 356.º, n.º 1, só admite despedimento por facto imputável ao trabalhador que constitua justa causa. A mera recusa a um pedido de trabalho suplementar, sem que exista obrigação contratual ou normativa de prestação, não configura facto imputável nem quebra de confiança.",
+        "artigos_citados": [
+          "Artigo 356.º"
+        ]
+      },
+      {
+        "titulo": "Violação do direito ao pagamento de trabalho suplementar",
+        "fundamentacao_facto": "Desde 2022 a TechLda não manteve registo das horas suplementares nem pagou a remuneração correspondente, apesar da queixa apresentada à ACT em janeiro de 2024.",
+        "fundamentacao_direito": "O art. 231.º impõe ao empregador a obrigação de registar e remunerar o trabalho suplementar; a falta de registo e de pagamento confere ao trabalhador o direito a duas horas de remuneração por cada dia de trabalho suplementar não registado. A empresa violou claramente este preceito.",
+        "artigos_citados": [
+          "Artigo 231.º"
+        ]
+      }
+    ],
+    "refutacao_antecipada": [
+      {
+        "argumento_previsto_da_defesa": "A empresa alegará que a recusa ao trabalho no fim‑de‑semana constitui insubordinação grave e quebra da relação de confiança.",
+        "resposta": "A recusa não pode ser considerada insubordinação porque não existe obrigação contractual de prestação em fins de semana nem regime de turnos; o pedido foi feito por e‑mail sem fundamento legal, sendo, portanto, ilícito. Não há prova de que a recusa tenha causado prejuízo grave à empresa, inexistindo facto imputável nos termos do art. 356.º."
+      },
+      {
+        "argumento_previsto_da_defesa": "A TechLda sustentará que o despedimento seguiu o procedimento legal, com comunicação ao trabalhador e prazo para impugnação.",
+        "resposta": "A comunicação foi feita por e‑mail sem indicar prazo de impugnação, violando o art. 356.º, n.º 4. Além disso, não houve processo disciplinar prévio nem direito de defesa, requisitos indispensáveis para a validade da decisão."
+      },
+      {
+        "argumento_previsto_da_defesa": "A empresa argumentará que a reclamação de trabalho suplementar está prescrita, pois os fatos remontam a 2022.",
+        "resposta": "O prazo de prescrição de duas anos previsto no art. 231.º começa a correr a partir da data em que o trabalhador tem direito ao pagamento, não da data de prestação da hora suplementar. Como a empresa nunca pagou nem registou as horas, o direito de Maria só se tornou exigível a partir da data da primeira queixa (jan/2024), estando, portanto, dentro do prazo prescricional."
+      }
+    ],
+    "pedido": "Declaração de nulidade do despedimento, reintegração de Maria Santos no seu posto de trabalho com pagamento de todos os salários e demais direitos vencidos, condenação da TechLda ao pagamento de remuneração de trabalho suplementar nos termos do art. 231.º (duas horas por dia de trabalho não registado) acrescida de juros, e indemnização por danos morais e materiais decorrentes do despedimento ilícito."
+  },
+  "defense": {
+    "tese": "A TechLda agiu dentro da legalidade, pois a recusa de Maria Santos a cumprir uma ordem legítima de trabalho suplementar configurou insubordinação grave que justifica a cessação do contrato, e os requisitos formais do despedimento foram observados ou, em caso de eventual deficiência, não anulam a justa causa reconhecida no art.º 356.º.",
+    "refutacao_da_acusacao": [
+      {
+        "argumento_da_acusacao": "A empresa nunca instaurou processo disciplinar escrito, nem garantiu a Maria o direito de defesa; a comunicação do despedimento foi feita por e‑mail sem indicar prazo de impugnação, contrariando o procedimento legal.",
+        "contra_argumento": "A comunicação por e‑mail satisfaz o requisito de forma escrita previsto no n.º 4 do art.º 356.º, pois a lei não exige forma física específica. Além disso, a gravidade da insubordinação autoriza a despedida sumária sem necessidade de processo disciplinar prévio, nos termos do n.º 1 e n.º 2 do art.º 356.º, que admitem a cessação imediata quando o facto é grave e reiterado.",
+        "artigos_citados": [
+          "Artigo 356.º"
+        ]
+      },
+      {
+        "argumento_da_acusacao": "A recusa de Maria em trabalhar no fim‑de‑semana decorreu de razões familiares e da inexistência de regime de turnos ou de situação de emergência; não há prova documental de que a recusa constitua insubordinação grave.",
+        "contra_argumento": "A solicitação de trabalho suplementar foi feita dentro da prerrogativa de organização da produção da empresa. O contrato de trabalho e a prática empresarial impõem ao trabalhador o dever de diligência e colaboração. A recusa injustificada caracteriza facto imputável grave que quebra a confiança, nos termos do n.º 1 do art.º 356.º, independentemente de existir ou não regime de turnos formalizado.",
+        "artigos_citados": [
+          "Artigo 356.º"
+        ]
+      },
+      {
+        "argumento_da_acusacao": "Desde 2022 a TechLda não manteve registo das horas suplementares nem pagou a remuneração correspondente, violando o art.º 231.º.",
+        "contra_argumento": "O ônus da prova das horas suplementares incumbe ao trabalhador (art.º 231.º). A TechLda mantém registo completo das prestações de trabalho suplementar, conforme obrigações legais, e não recebeu qualquer prova documental da reclamante. Assim, não há violação do dever de registo nem de pagamento.",
+        "artigos_citados": [
+          "Artigo 231.º"
+        ]
+      }
+    ],
+    "argumentos_proprios": [
+      {
+        "titulo": "Justa causa por insubordinação grave e quebra de confiança",
+        "fundamentacao_facto": "Maria recusou, por e‑mail, a prestar trabalho suplementar solicitado pelo seu superior hierárquico, sem apresentar justificativa aceita e contrariando a necessidade operacional da empresa.",
+        "fundamentacao_direito": "A recusa constitui facto imputável grave que autoriza a cessação do contrato nos termos do n.º 1 do art.º 356.º. A gravidade da conduta permite a despedida sumária, dispensando a exigência de processo disciplinar prévio, conforme jurisprudência consolidada sobre insubordinação grave.",
+        "artigos_citados": [
+          "Artigo 356.º"
+        ]
+      },
+      {
+        "titulo": "Cumprimento do prazo legal para a decisão de despedimento",
+        "fundamentacao_facto": "A solicitação de trabalho suplementar foi feita a 5 de fevereiro de 2024 e a comunicação de despedimento ocorreu a 12 de fevereiro de 2024, ou seja, dentro do prazo de 30 dias previsto no art.º 357.º.",
+        "fundamentacao_direito": "O art.º 357.º exige que a decisão de despedimento seja proferida no prazo de 30 dias a contar da última diligência de instrução. O intervalo de sete dias entre a solicitação e a comunicação cumpre integralmente esse requisito.",
+        "artigos_citados": [
+          "Artigo 357.º"
+        ]
+      },
+      {
+        "titulo": "Prescrição da pretensão de remuneração de trabalho suplementar",
+        "fundamentacao_facto": "A primeira queixa formal sobre trabalho suplementar foi apresentada à ACT em janeiro de 2024; a pretensão só se tornou exigível a partir da data em que a empresa deveria ter efetuado o pagamento, ou seja, a partir de 2024.",
+        "fundamentacao_direito": "O art.º 231.º estabelece um prazo de prescrição de dois anos a contar da data em que o trabalhador tem direito ao pagamento. Como a reclamação foi feita dentro desse prazo, não há prescrição que impeça a defesa da empresa quanto a eventuais horas não comprovadas.",
+        "artigos_citados": [
+          "Artigo 231.º"
+        ]
+      }
+    ],
+    "pedido": "Improcedência total dos pedidos da autora; declaração de validade do despedimento por justa causa; condenação da autora ao pagamento das custas processuais e honorários de advogado."
+  },
+  "factcheck_prosecution": {
+    "label": "acusação",
+    "citacoes": [
+      {
+        "artigo": "Artigo 356.º, n.º 3",
+        "afirmacao": "exige procedimento disciplinar prévio com direito de defesa",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "Texto não menciona justa causa como requisito para despedimento",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 356.º, n.º 4",
+        "afirmacao": "obriga a comunicação escrita com indicação do prazo de impugnação",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "Texto não menciona justa causa como requisito para despedimento",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 357.º",
+        "afirmacao": "impõe a obtenção de parecer da comissão de trabalhadores (ou do serviço competente) e a decisão dentro de 30 dias",
+        "ref_base": "Artigo 357.º",
+        "existe": true,
+        "texto_real": "Artigo 357.º\nDecisão de despedimento por facto imputável ao trabalhador\n1 - Recebidos os pareceres referidos no n.º 5 do artigo anterior ou decorrido o prazo para o efeito, o empregador dispõe de 30 dias para proferir a decisão de despedimento, sob pena de caducidade do direito de aplicar a sanção.\n2 - Quando não exista comissão de trabalhadores e o trabalhador não seja representante sindical, o prazo referido no número anterior conta-se a partir da data da conclusão da última diligência de instrução.\n3 - (Revogado).\n4 - Na decisão são ponderadas as circunstâncias do caso, nomeadamente as referidas no n.º 3 do",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 356.º, n.º 1",
+        "afirmacao": "só admite despedimento por facto imputável ao trabalhador que constitua justa causa",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "Texto não menciona justa causa como requisito para despedimento",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 231.º",
+        "afirmacao": "impõe ao empregador a obrigação de registar e remunerar o trabalho suplementar",
+        "ref_base": "Artigo 231.º",
+        "existe": true,
+        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1 - O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2 - O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3 - O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4 - Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5 - A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6 - O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem eme",
+        "consistente": false,
+        "problema": "Texto não prevê prazo de prescrição de dois anos nem sua contagem",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 231.º",
+        "afirmacao": "a falta de registo e de pagamento confere ao trabalhador o direito a duas horas de remuneração por cada dia de trabalho suplementar não registado",
+        "ref_base": "Artigo 231.º",
+        "existe": true,
+        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1 - O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2 - O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3 - O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4 - Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5 - A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6 - O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem eme",
+        "consistente": false,
+        "problema": "Texto não prevê prazo de prescrição de dois anos nem sua contagem",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 231.º",
+        "afirmacao": "o prazo de prescrição de duas anos começa a correr a partir da data em que o trabalhador tem direito ao pagamento, não da data de prestação da hora suplementar",
+        "ref_base": "Artigo 231.º",
+        "existe": true,
+        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1 - O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2 - O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3 - O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4 - Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5 - A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6 - O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem eme",
+        "consistente": false,
+        "problema": "Texto não prevê prazo de prescrição de dois anos nem sua contagem",
+        "severidade": "alta"
+      }
+    ],
+    "invalidos": [
+      {
+        "artigo": "Artigo 356.º, n.º 3",
+        "afirmacao": "exige procedimento disciplinar prévio com direito de defesa",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "Texto não menciona justa causa como requisito para despedimento",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 356.º, n.º 4",
+        "afirmacao": "obriga a comunicação escrita com indicação do prazo de impugnação",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "Texto não menciona justa causa como requisito para despedimento",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 356.º, n.º 1",
+        "afirmacao": "só admite despedimento por facto imputável ao trabalhador que constitua justa causa",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "Texto não menciona justa causa como requisito para despedimento",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 231.º",
+        "afirmacao": "impõe ao empregador a obrigação de registar e remunerar o trabalho suplementar",
+        "ref_base": "Artigo 231.º",
+        "existe": true,
+        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1 - O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2 - O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3 - O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4 - Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5 - A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6 - O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem eme",
+        "consistente": false,
+        "problema": "Texto não prevê prazo de prescrição de dois anos nem sua contagem",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 231.º",
+        "afirmacao": "a falta de registo e de pagamento confere ao trabalhador o direito a duas horas de remuneração por cada dia de trabalho suplementar não registado",
+        "ref_base": "Artigo 231.º",
+        "existe": true,
+        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1 - O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2 - O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3 - O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4 - Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5 - A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6 - O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem eme",
+        "consistente": false,
+        "problema": "Texto não prevê prazo de prescrição de dois anos nem sua contagem",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 231.º",
+        "afirmacao": "o prazo de prescrição de duas anos começa a correr a partir da data em que o trabalhador tem direito ao pagamento, não da data de prestação da hora suplementar",
+        "ref_base": "Artigo 231.º",
+        "existe": true,
+        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1 - O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2 - O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3 - O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4 - Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5 - A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6 - O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem eme",
+        "consistente": false,
+        "problema": "Texto não prevê prazo de prescrição de dois anos nem sua contagem",
+        "severidade": "alta"
+      }
+    ],
+    "resumo": "7 referências — 6 com problema (6 de severidade alta)."
+  },
+  "factcheck_defense": {
+    "label": "defesa",
+    "citacoes": [
+      {
+        "artigo": "Artigo 356.º",
+        "afirmacao": "a insubordinação grave justifica a cessação do contrato e os requisitos formais do despedimento foram observados, não anulando a justa causa reconhecida",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "O artigo 356.º não trata de trabalho suplementar; a afirmação está fora do âmbito do texto",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 356.º, n.º 4",
+        "afirmacao": "a comunicação por e‑mail satisfaz o requisito de forma escrita, pois a lei não exige forma física específica",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "O artigo 356.º não trata de trabalho suplementar; a afirmação está fora do âmbito do texto",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 356.º, n.º 1 e n.º 2",
+        "afirmacao": "a gravidade da insubordinação autoriza a despedida sumária sem necessidade de processo disciplinar prévio, permitindo cessação imediata quando o facto é grave e reiterado",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "O artigo 356.º não trata de trabalho suplementar; a afirmação está fora do âmbito do texto",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 356.º, n.º 1",
+        "afirmacao": "a recusa injustificada de trabalho suplementar constitui facto imputável grave que quebra a confiança e autoriza a cessação do contrato",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "O artigo 356.º não trata de trabalho suplementar; a afirmação está fora do âmbito do texto",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 231.º",
+        "afirmacao": "o ônus da prova das horas suplementares incumbe ao trabalhador",
+        "ref_base": "Artigo 231.º",
+        "existe": true,
+        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1 - O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2 - O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3 - O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4 - Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5 - A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6 - O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem eme",
+        "consistente": false,
+        "problema": "O texto não menciona prazo de prescrição de dois anos; a afirmação inventa esse requisito",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 357.º",
+        "afirmacao": "a decisão de despedimento deve ser proferida no prazo de 30 dias a contar da última diligência de instrução",
+        "ref_base": "Artigo 357.º",
+        "existe": true,
+        "texto_real": "Artigo 357.º\nDecisão de despedimento por facto imputável ao trabalhador\n1 - Recebidos os pareceres referidos no n.º 5 do artigo anterior ou decorrido o prazo para o efeito, o empregador dispõe de 30 dias para proferir a decisão de despedimento, sob pena de caducidade do direito de aplicar a sanção.\n2 - Quando não exista comissão de trabalhadores e o trabalhador não seja representante sindical, o prazo referido no número anterior conta-se a partir da data da conclusão da última diligência de instrução.\n3 - (Revogado).\n4 - Na decisão são ponderadas as circunstâncias do caso, nomeadamente as referidas no n.º 3 do",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 231.º",
+        "afirmacao": "estabelece um prazo de prescrição de dois anos a contar da data em que o trabalhador tem direito ao pagamento",
+        "ref_base": "Artigo 231.º",
+        "existe": true,
+        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1 - O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2 - O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3 - O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4 - Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5 - A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6 - O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem eme",
+        "consistente": false,
+        "problema": "O texto não menciona prazo de prescrição de dois anos; a afirmação inventa esse requisito",
+        "severidade": "alta"
+      }
+    ],
+    "invalidos": [
+      {
+        "artigo": "Artigo 356.º",
+        "afirmacao": "a insubordinação grave justifica a cessação do contrato e os requisitos formais do despedimento foram observados, não anulando a justa causa reconhecida",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "O artigo 356.º não trata de trabalho suplementar; a afirmação está fora do âmbito do texto",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 356.º, n.º 4",
+        "afirmacao": "a comunicação por e‑mail satisfaz o requisito de forma escrita, pois a lei não exige forma física específica",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "O artigo 356.º não trata de trabalho suplementar; a afirmação está fora do âmbito do texto",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 356.º, n.º 1 e n.º 2",
+        "afirmacao": "a gravidade da insubordinação autoriza a despedida sumária sem necessidade de processo disciplinar prévio, permitindo cessação imediata quando o facto é grave e reiterado",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "O artigo 356.º não trata de trabalho suplementar; a afirmação está fora do âmbito do texto",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 356.º, n.º 1",
+        "afirmacao": "a recusa injustificada de trabalho suplementar constitui facto imputável grave que quebra a confiança e autoriza a cessação do contrato",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
+        "consistente": false,
+        "problema": "O artigo 356.º não trata de trabalho suplementar; a afirmação está fora do âmbito do texto",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 231.º",
+        "afirmacao": "o ônus da prova das horas suplementares incumbe ao trabalhador",
+        "ref_base": "Artigo 231.º",
+        "existe": true,
+        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1 - O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2 - O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3 - O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4 - Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5 - A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6 - O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem eme",
+        "consistente": false,
+        "problema": "O texto não menciona prazo de prescrição de dois anos; a afirmação inventa esse requisito",
+        "severidade": "alta"
+      },
+      {
+        "artigo": "Artigo 231.º",
+        "afirmacao": "estabelece um prazo de prescrição de dois anos a contar da data em que o trabalhador tem direito ao pagamento",
+        "ref_base": "Artigo 231.º",
+        "existe": true,
+        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1 - O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2 - O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3 - O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4 - Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5 - A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6 - O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem eme",
+        "consistente": false,
+        "problema": "O texto não menciona prazo de prescrição de dois anos; a afirmação inventa esse requisito",
+        "severidade": "alta"
+      }
+    ],
+    "resumo": "7 referências — 6 com problema (6 de severidade alta)."
+  }
+}
