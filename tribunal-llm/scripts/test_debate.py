@@ -39,7 +39,7 @@ def _print_header(title):
 
 def main():
     # 1. Intérprete
-    dossier = interpret_case(CASO, top_k=10)
+    dossier = interpret_case(CASO)
 
     # 2. Acusação
     prosecution = build_prosecution(dossier, CASO)

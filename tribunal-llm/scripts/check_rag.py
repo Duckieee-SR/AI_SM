@@ -32,9 +32,6 @@ def test_article_text():
         if art:
             preview = art["texto"][:180].replace("\n", " ")
             print(f"\n✅ {ref}: {preview}...")
-            # Deteção de índice:
-            if "\t" in art["texto"][:100] and len(art["texto"]) < 300:
-                print("   ⚠️  AINDA PARECE ENTRADA DE ÍNDICE")
         else:
             print(f"\n❌ {ref}: não encontrado")
 

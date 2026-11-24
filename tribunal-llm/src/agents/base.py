@@ -81,7 +81,7 @@ def call_llm(
     max_retries: int = 2,
 ) -> str:
     """Chama o LLM com fallback automático entre providers."""
-    providers = providers or ["gemini", "groq"]
+    providers = providers or ["groq", "gemini"]
     errors = []
 
     for provider in providers:
@@ -104,7 +104,7 @@ def call_llm(
                 err_str = str(e)
                 if "429" in err_str or "rate" in err_str.lower():
                     if attempt < max_retries:
-                        wait = 15 * (attempt + 1)
+                        wait = 1 * (attempt + 1)
                         print(f"  ⏳ Rate limit em {provider}, aguardando {wait}s...")
                         time.sleep(wait)
                         continue

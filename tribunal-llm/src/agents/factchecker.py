@@ -19,20 +19,34 @@ Se o argumento não citar artigos, devolve lista vazia.
 DEVOLVE APENAS JSON: {"citacoes": [{"artigo": "...", "afirmacao": "..."}]}"""
 
 
-VERIFY_SYSTEM = """És um verificador jurídico rigoroso. Recebes uma lista de citações,
-cada uma com a afirmação que o advogado fez e o TEXTO REAL do artigo citado.
+VERIFY_SYSTEM = """És um verificador jurídico rigoroso. Recebes UMA citação com:
+- "artigo": referência legal citada
+- "afirmacao": o que o advogado diz que essa norma estabelece
+- "texto_real": o texto efetivo do artigo
 
-Para cada citação, avalia:
-- "consistente": true se a afirmação está suportada pelo texto real do artigo;
-  false se contradiz o texto ou extrapola claramente o seu conteúdo;
-- "problema": descrição breve do problema (null se consistente);
-- "severidade": "nenhuma" | "baixa" | "media" | "alta"
-  (alta = contradiz o texto / inventa conteúdo / atribui ao artigo algo que ele
-   não diz).
+Avalia APENAS se a "afirmacao" está suportada pelo "texto_real":
 
-DEVOLVE APENAS JSON: {"verificacoes": [
-  {"artigo": "...", "consistente": true, "problema": null, "severidade": "nenhuma"}
-]}"""
+- "consistente": true se a afirmação é diretamente suportada pelo texto, é
+  paráfrase fiel, ou é uma INFERÊNCIA JURÍDICA razoável do texto (ex.: deduzir
+  consequências processuais do silêncio da lei não é inconsistente);
+  false APENAS se:
+    (i)  o texto diz o contrário da afirmação; ou
+    (ii) a afirmação atribui ao artigo matéria que pertence claramente a
+         OUTRO artigo (ex.: atribuir ao art. 357.º a nota de culpa, que
+         está no 353.º); ou
+    (iii) a afirmação inventa um requisito específico que o texto não
+         contém nem sugere.
+
+- "problema": se inconsistente, explica em 1 frase o que falha. Se consistente,
+  null. NUNCA inventes um problema que não esteja relacionado com a afirmação.
+
+- "severidade": "nenhuma" | "baixa" | "media" | "alta".
+  alta  = a afirmação atribui ao artigo matéria de outro artigo OU o contrário
+          do texto (inclui alucinações de citação).
+  media = a afirmação extrapola claramente o texto.
+  baixa = a afirmação é uma interpretação discutível mas não contradiz o texto.
+
+DEVOLVE APENAS JSON: {"verificacao": {"artigo": "...", "consistente": bool, "problema": null|"...", "severidade": "..."}}"""
 
 
 def _extract_citations(argument_text: str) -> list:
@@ -46,15 +60,37 @@ def _extract_citations(argument_text: str) -> list:
 
 
 def _verify_consistency(citacoes: list) -> list:
+    """
+    Verifica cada citação INDIVIDUALMENTE para evitar que o LLM baralhe
+    as afirmações entre citações. Devolve lista com uma verificação por citação.
+    """
     if not citacoes:
         return []
-    raw = call_llm(
-        VERIFY_SYSTEM,
-        json.dumps(citacoes, ensure_ascii=False, indent=2),
-        temperature=0.0,
-        json_mode=True,
-    )
-    return parse_json_safe(raw).get("verificacoes", [])
+
+    verificacoes = []
+    for c in citacoes:
+        raw = call_llm(
+            VERIFY_SYSTEM,
+            json.dumps({
+                "artigo": c["artigo"],
+                "afirmacao": c["afirmacao"],
+                "texto_real": c["texto_real"],
+            }, ensure_ascii=False, indent=2),
+            temperature=0.0,
+            json_mode=True,
+        )
+        try:
+            v = parse_json_safe(raw).get("verificacao")
+        except Exception:
+            v = None
+        if not v or not isinstance(v, dict):
+            v = {
+               "artigo": c["artigo"], "consistente": True,
+                "problema": None, "severidade": "nenhuma",
+            }
+        v.setdefault("artigo", c["artigo"])
+        verificacoes.append(v)
+    return verificacoes
 
 
 def factcheck_argument(argument: dict, label: str = "argumento") -> dict:
@@ -85,9 +121,9 @@ def factcheck_argument(argument: dict, label: str = "argumento") -> dict:
                 "artigo": c["artigo"], "afirmacao": c["afirmacao"],
                 "ref_base": ref,
                 "existe": art is not None,
-                "texto_real": art["texto"][:1500] if art else None,
+                "texto_real": art["texto"][:4000] if art else None,
             })
-
+            
     # Verifica consistência só dos que existem
     existentes = [e for e in expanded if e["existe"]]
     verificacoes = _verify_consistency([
@@ -95,21 +131,15 @@ def factcheck_argument(argument: dict, label: str = "argumento") -> dict:
          "texto_real": e["texto_real"]}
         for e in existentes
     ])
-    vmap = {(v.get("artigo"), v.get("afirmacao", "")[:50]): v for v in verificacoes}
+    
+    # zip preserva ordem e evita colisões quando o mesmo artigo é citado 2x
+    for e, v in zip(existentes, verificacoes):
+        e["consistente"] = v.get("consistente", True)
+        e["problema"] = v.get("problema")
+        e["severidade"] = v.get("severidade", "nenhuma")
 
     for e in expanded:
-        if e["existe"]:
-            # tenta encontrar a verificação correspondente
-            v = None
-            for (art_ref, _), val in vmap.items():
-                if art_ref == e["ref_base"]:
-                    v = val
-                    break
-            v = v or {}
-            e["consistente"] = v.get("consistente", True)
-            e["problema"] = v.get("problema")
-            e["severidade"] = v.get("severidade", "nenhuma")
-        else:
+        if not e["existe"]:
             e["consistente"] = False
             e["problema"] = "Artigo NÃO existe no Código do Trabalho."
             e["severidade"] = "alta"

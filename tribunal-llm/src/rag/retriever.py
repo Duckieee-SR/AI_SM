@@ -10,7 +10,7 @@ from config import CHROMA_DIR, CHROMA_COLLECTION, EMBEDDING_MODEL
 _model = None
 _client = None
 _collection = None
-_REF_RE = re.compile(r"(\d+)\.?\s*º")
+_REF_RE = re.compile(r"(\d+)\.?\s*º(-[A-Z])?", re.IGNORECASE)
 
 def _get_resources():
     """Carrega o modelo e a coleção uma única vez (singleton)."""
@@ -53,21 +53,19 @@ def search_articles(query: str, k: int = 5) -> List[Dict[str, str]]:
 
 def extract_article_refs(text: str) -> list[str]:
     """
-    Extrai referências base 'Artigo N.º' de qualquer string.
-    Exemplos:
-      "Artigo 382.º, n.º 2, alínea a) do Código do Trabalho" -> ["Artigo 382.º"]
-      "Artigos 331.º e 391.º do CT"                          -> ["Artigo 331.º", "Artigo 391.º"]
-      "Artigo 351.º"                                         -> ["Artigo 351.º"]
+    Extrai referências base 'Artigo N.º' (com sub-letra opcional) de qualquer string.
+      "Artigo 382.º, n.º 2, alínea a)"    -> ["Artigo 382.º"]
+      "Artigos 331.º e 391.º"             -> ["Artigo 331.º", "Artigo 391.º"]
+      "Artigo 101.º-G"                    -> ["Artigo 101.º-G"]
     """
-    nums = _REF_RE.findall(text)
+    matches = _REF_RE.findall(text)  # [("382", ""), ("101", "-G"), ...]
     seen, refs = set(), []
-    for n in nums:
-        ref = f"Artigo {n}.º"
+    for num, suffix in matches:
+        ref = f"Artigo {num}.º{suffix or ''}"
         if ref not in seen:
             seen.add(ref)
             refs.append(ref)
     return refs
-
 
 def get_article(article_ref: str) -> Optional[dict]:
     """

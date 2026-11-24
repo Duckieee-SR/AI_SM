@@ -13,9 +13,17 @@ Receberás: (1) a descrição de um caso laboral; (2) os artigos do Código do T
 considerados potencialmente relevantes.
 
 A tua tarefa:
-1. Identifica os artigos efectivamente aplicáveis ao caso (por exemplo: despedimento
-   ilícito, justa causa, poder disciplinar, retaliação, assédio, acidente de trabalho,
-   trabalho suplementar, férias, etc.).
+1. Identifica os artigos efectivamente aplicáveis ao caso. IMPORTANTE: cobre
+   SEMPRE as três camadas seguintes, quando o caso envolva despedimento:
+   a) NORMA SUBSTANTIVA do crime/falta (ex.: art. 351.º, noção de justa causa);
+   b) NORMAS DE PROCEDIMENTO (ex.: arts. 353.º a 357.º, nota de culpa, resposta,
+      instrução, decisão);
+   c) NORMA DE ILICITUDE / CONSEQUÊNCIA (ex.: art. 382.º, ilicitude do
+      despedimento; art. 389.º/391.º, efeitos). NÃO OMITAS a norma de
+      ilicitude só porque o procedimento está falho — é ela que fundamenta
+      o pedido de declaração de ilicitude.
+   Para outros temas (ex.: trabalho suplementar), segue a mesma lógica
+   substância + requisitos + consequência.
 2. Para cada artigo, decompõe os seus REQUISITOS ou PRESSUPOSTOS legais.
 3. Mapeia os factos do caso a cada requisito: "verificado", "não verificado" ou "controvertido".
 4. Identifica EXCEPÇÕES ou DEFESAS que possam ser invocadas (ex.: caducidade do
@@ -43,7 +51,7 @@ DEVOLVE APENAS JSON VÁLIDO, com este esquema exacto:
 }"""
 
 
-def interpret_case(case_description: str, top_k: int = 8) -> dict:
+def interpret_case(case_description: str, top_k: int = 15) -> dict:
     """Corre o agente intérprete e devolve o dossiê como dict."""
     print(f"⚖️  [Intérprete] A analisar o caso laboral e a consultar o RAG (top_k={top_k})...")
 

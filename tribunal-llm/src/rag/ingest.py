@@ -9,14 +9,10 @@ from sentence_transformers import SentenceTransformer
 from config import CODIGO_DO_TRABALHO_PATH, CHROMA_DIR, CHROMA_COLLECTION, EMBEDDING_MODEL
 
 
-ARTICLE_RE = re.compile(r"(Artigo\s+\d+\.º(?:-[A-Z])?)", re.IGNORECASE)
+ARTICLE_RE = re.compile(r"^(Artigo\s+\d+\.º(?:-[A-Z])?)", re.IGNORECASE | re.MULTILINE)
 
 
 def split_into_articles(full_text: str) -> List[Dict[str, str]]:
-    """
-    Divide o texto em blocos, cada um começando por 'Artigo X.º'.
-    Devolve lista de dicts: {'artigo': 'Artigo 131.º', 'texto': '...'}
-    """
     matches = list(ARTICLE_RE.finditer(full_text))
     if not matches:
         raise ValueError("Nenhum 'Artigo X.º' encontrado. Verifica o ficheiro.")

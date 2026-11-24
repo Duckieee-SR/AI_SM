@@ -29,7 +29,7 @@ indicação de prazo de impugnação.
 
 
 def main():
-    dossier = interpret_case(CASO, top_k=10)
+    dossier = interpret_case(CASO)
     print("\n" + "=" * 60)
     print("DOSSIÊ JURÍDICO-LABORAL")
     print("=" * 60)
