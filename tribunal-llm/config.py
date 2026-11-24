@@ -2,8 +2,8 @@
 from pathlib import Path
 from dotenv import load_dotenv
 import os
-
-load_dotenv()
+    
+load_dotenv('C:\\Users\\gonca\\Desktop\\AI_SM\\tribunal-llm\\.env')
 
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "data"
@@ -13,7 +13,7 @@ CODIGO_DO_TRABALHO_PATH = DATA_DIR / "codigo_do_trabalho.txt"
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
-GEMINI_MODEL = "gemini-3.8-flash"          
+GEMINI_MODEL = "gemini-3.5-flash"          
 GROQ_MODEL = "openai/gpt-oss-120b"     
 EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 

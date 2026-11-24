@@ -9,8 +9,7 @@ EXTRACT_SYSTEM = """És um assistente rigoroso de fact-checking jurídico.
 A tua tarefa é EXTRAIR citações a artigos de lei de um texto argumentativo.
 
 Para cada citação, devolve:
-- "artigo": a referência o mais completa possível (ex.: "Artigo 382.º",
-  "Artigo 63.º, n.º 1")
+- "artigo": a referência o mais completa possível;
 - "afirmacao": a afirmação concreta que o autor do texto faz sobre o conteúdo
   desse artigo (o que ele diz que a lei estabelece)
 
@@ -32,8 +31,8 @@ Avalia APENAS se a "afirmacao" está suportada pelo "texto_real":
   false APENAS se:
     (i)  o texto diz o contrário da afirmação; ou
     (ii) a afirmação atribui ao artigo matéria que pertence claramente a
-         OUTRO artigo (ex.: atribuir ao art. 357.º a nota de culpa, que
-         está no 353.º); ou
+         OUTRO artigo (ex.: atribuir ao art. X a nota de culpa, que
+         está no art. Y); ou
     (iii) a afirmação inventa um requisito específico que o texto não
          contém nem sugere.
 

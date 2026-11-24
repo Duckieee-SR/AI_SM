@@ -5,6 +5,7 @@ from typing import List, Dict
 
 import chromadb
 from sentence_transformers import SentenceTransformer
+from src.rag.retriever import extract_article_refs
 
 from config import CODIGO_DO_TRABALHO_PATH, CHROMA_DIR, CHROMA_COLLECTION, EMBEDDING_MODEL
 
@@ -57,13 +58,27 @@ def ingest():
         metadata={"hnsw:space": "cosine"},
     )
 
+    metadatas = []
+    total_com_refs = 0
+    for a in articles:
+        refs = extract_article_refs(a["texto"])
+        # remove autorreferência (o próprio artigo não deve referenciar-se)
+        refs = [r for r in refs if r != a["artigo"]]
+        if refs:
+            total_com_refs += 1
+        metadatas.append({
+            "artigo": a["artigo"],
+            "referencias": "|".join(refs),  # string vazia se não houver
+        })
+
+    print(f"🔗 {total_com_refs}/{len(articles)} artigos têm referências cruzadas.")
+
     collection.add(
         embeddings=[e.tolist() for e in embeddings],
         documents=texts,
-        metadatas=[{"artigo": a["artigo"]} for a in articles],
+        metadatas=metadatas,
         ids=[f"art_{i}" for i in range(len(articles))],
     )
-
     print(f"✅ Ingestão concluída. {len(articles)} artigos no ChromaDB.")
 
 

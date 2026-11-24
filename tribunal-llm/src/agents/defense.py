@@ -32,7 +32,7 @@ DEVOLVE APENAS JSON VÁLIDO com este esquema:
     {
       "argumento_da_acusacao": "...",
       "contra_argumento": "...",
-      "artigos_citados": ["Artigo 351.º"]
+      "artigos_citados": ["Artigo X.º"]
     }
   ],
   "argumentos_proprios": [
@@ -40,7 +40,7 @@ DEVOLVE APENAS JSON VÁLIDO com este esquema:
       "titulo": "...",
       "fundamentacao_facto": "...",
       "fundamentacao_direito": "...",
-      "artigos_citados": ["Artigo 128.º"]
+      "artigos_citados": ["Artigo X.º"]
     }
   ],
   "pedido": "o que a empregadora pretende (ex.: improcedência total, absolvição)"

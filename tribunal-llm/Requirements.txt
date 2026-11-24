@@ -11,4 +11,4 @@ sentence-transformers==3.2.1
 
 # Utilitários
 python-dotenv==1.0.1
-pydantic==2.9.2
+pydantic==2.13.0

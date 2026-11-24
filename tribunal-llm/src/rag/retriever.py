@@ -10,7 +10,7 @@ from config import CHROMA_DIR, CHROMA_COLLECTION, EMBEDDING_MODEL
 _model = None
 _client = None
 _collection = None
-_REF_RE = re.compile(r"(\d+)\.?\s*º(-[A-Z])?", re.IGNORECASE)
+_REF_RE = re.compile(r"(\d+)\.?\s*º(?:-([A-Z]))?")
 
 def _get_resources():
     """Carrega o modelo e a coleção uma única vez (singleton)."""
@@ -43,12 +43,57 @@ def search_articles(query: str, k: int = 5) -> List[Dict[str, str]]:
         results["metadatas"][0],
         results["distances"][0],
     ):
+        refs_str = meta.get("referencias", "") or ""
         hits.append({
             "artigo": meta["artigo"],
             "texto": doc,
             "distancia": round(dist, 4),
+            "referencias": refs_str.split("|") if refs_str else [],
+            "origem": "semantica",
         })
     return hits
+
+def search_with_references(
+    query: str,
+    k: int = 5,
+    max_expansao: int = 15,
+) -> List[Dict[str, str]]:
+    """
+    Pesquisa semântica + expansão por referências cruzadas (1 hop).
+    - Hits semânticos mantêm a ordem e a distância originais.
+    - Artigos referenciados são acrescentados no fim, com distância 99.0
+      e origem='expansao', para não competirem com os hits reais.
+    """
+    hits_iniciais = search_articles(query, k=k)
+    todos = {h["artigo"]: h for h in hits_iniciais}
+
+    # Recolher referências ainda não presentes nos hits iniciais
+    refs_a_adicionar: list[str] = []
+    for h in hits_iniciais:
+        for ref in h.get("referencias", []):
+            if ref in todos or ref in refs_a_adicionar:
+                continue
+            if len(refs_a_adicionar) >= max_expansao:
+                break
+            refs_a_adicionar.append(ref)
+        if len(refs_a_adicionar) >= max_expansao:
+            break
+
+    # Adicionar cada artigo referenciado (usa get_article, que já existe)
+    for ref in refs_a_adicionar:
+        art = get_article(ref)
+        if not art:
+            continue
+        refs_str = ""  # não expandimos 2 hops por omissão
+        todos[ref] = {
+            "artigo": art["artigo"],
+            "texto": art["texto"],
+            "distancia": 99.0,
+            "referencias": refs_str.split("|") if refs_str else [],
+            "origem": "expansao",
+        }
+
+    return list(todos.values())
 
 
 def extract_article_refs(text: str) -> list[str]:
@@ -58,10 +103,10 @@ def extract_article_refs(text: str) -> list[str]:
       "Artigos 331.º e 391.º"             -> ["Artigo 331.º", "Artigo 391.º"]
       "Artigo 101.º-G"                    -> ["Artigo 101.º-G"]
     """
-    matches = _REF_RE.findall(text)  # [("382", ""), ("101", "-G"), ...]
+    matches = _REF_RE.findall(text)
     seen, refs = set(), []
-    for num, suffix in matches:
-        ref = f"Artigo {num}.º{suffix or ''}"
+    for n, letra in matches:
+        ref = f"Artigo {n}.º" + (f"-{letra}" if letra else "")
         if ref not in seen:
             seen.add(ref)
             refs.append(ref)

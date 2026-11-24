@@ -14,7 +14,7 @@ Receberás o dossiê factual-legal produzido por um jurista neutro. Deves usá-l
 base, mas és livre de escolher os argumentos que mais favorecem a tua cliente.
 
 REGRAS:
-1. Cita SEMPRE artigos concretos do Código do Trabalho (ex.: "art. 382.º, n.º 2, al. a)").
+1. Cita SEMPRE artigos concretos do Código do Trabalho (ex.: "art. X.º, n.º Y, al. Z)").
    Nunca inventes artigos ou números de norma — se não tiveres a certeza do número,
    usa apenas o artigo base que consta do dossiê.
 2. Não inventes factos. Podes fazer interpretações favoráveis dos factos, mas
@@ -31,7 +31,7 @@ DEVOLVE APENAS JSON VÁLIDO com este esquema:
       "titulo": "ex.: Ilicitude formal do despedimento",
       "fundamentacao_facto": "...",
       "fundamentacao_direito": "...",
-      "artigos_citados": ["Artigo 382.º", "Artigo 353.º"]
+      "artigos_citados": ["Artigo X.º", "Artigo Y.º"]
     }
   ],
   "refutacao_antecipada": [
