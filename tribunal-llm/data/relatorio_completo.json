@@ -1,0 +1,519 @@
+{
+  "dossier": {
+    "artigos_aplicaveis": [
+      {
+        "artigo": "Artigo 351.º",
+        "materia": "Noção de justa causa de despedimento",
+        "requisitos": [
+          "Comportamento do trabalhador que constitua justa causa",
+          "Designadamente: faltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco (alínea g))",
+          "Na apreciação da justa causa, atender ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes e demais circunstâncias relevantes (n.º 2)"
+        ],
+        "mapeamento_factual": "Bernardo ausentou-se do trabalho durante 12 dias úteis consecutivos sem justificação. O número de faltas seguidas (12) ultrapassa o limite de 5 faltas seguidas em cada ano civil, preenchendo a alínea g) do n.º 1 do artigo 351.º, independentemente de prejuízo ou risco. A antiguidade de 4 anos e a função de operador de máquinas são circunstâncias a considerar na apreciação da justa causa (n.º 2)."
+      },
+      {
+        "artigo": "Artigo 353.º",
+        "materia": "Nota de culpa",
+        "requisitos": [
+          "Comunicação escrita ao trabalhador da intenção de proceder ao despedimento",
+          "Junção de nota de culpa com descrição circunstanciada dos factos imputados",
+          "Remessa de cópias da comunicação e da nota de culpa à comissão de trabalhadores e, se aplicável, à associação sindical (n.º 2)",
+          "A notificação da nota de culpa interrompe a contagem dos prazos do artigo 329.º (n.º 3)"
+        ],
+        "mapeamento_factual": "A empresa pretende instaurar processo disciplinar. Deve comunicar por escrito a intenção de despedimento e juntar nota de culpa com descrição circunstanciada das faltas (12 dias úteis consecutivos). Deve remeter cópias à comissão de trabalhadores, se existir, e à associação sindical se Bernardo for representante sindical. A notificação da nota de culpa interrompe o prazo de prescrição do procedimento disciplinar."
+      },
+      {
+        "artigo": "Artigo 354.º",
+        "materia": "Suspensão preventiva de trabalhador",
+        "requisitos": [
+          "Notificação da nota de culpa",
+          "Suspensão preventiva se a presença do trabalhador na empresa se mostrar inconveniente",
+          "Manutenção do pagamento da retribuição durante a suspensão",
+          "Possibilidade de suspensão nos 30 dias anteriores à notificação, com justificação escrita e indícios de factos imputáveis (n.º 2)"
+        ],
+        "mapeamento_factual": "A empresa pode suspender preventivamente Bernardo com a notificação da nota de culpa, se a sua presença for inconveniente, mantendo a retribuição. Não há indicação de que a suspensão já tenha ocorrido ou seja necessária."
+      },
+      {
+        "artigo": "Artigo 355.º",
+        "materia": "Resposta à nota de culpa",
+        "requisitos": [
+          "Prazo de 10 dias úteis para o trabalhador consultar o processo e responder por escrito",
+          "Possibilidade de juntar documentos e solicitar diligências probatórias"
+        ],
+        "mapeamento_factual": "Após a notificação da nota de culpa, Bernardo terá 10 dias úteis para responder, podendo juntar documentos e solicitar diligências. A empresa deve respeitar este prazo."
+      },
+      {
+        "artigo": "Artigo 356.º",
+        "materia": "Instrução",
+        "requisitos": [
+          "Realização das diligências probatórias requeridas na resposta, salvo se patentemente dilatórias ou impertinentes (n.º 1)",
+          "Limite de testemunhas: até 3 por facto e 10 no total (n.º 3)",
+          "O trabalhador assegura a comparência das testemunhas que indicar (n.º 4)",
+          "Após a instrução, apresentação de cópia integral do processo à comissão de trabalhadores e, se aplicável, à associação sindical, que podem emitir parecer em 5 dias úteis (n.º 5)",
+          "Possibilidade de o trabalhador comunicar que o parecer é emitido por associação sindical, nos 3 dias úteis após recepção da nota de culpa (n.º 6)"
+        ],
+        "mapeamento_factual": "Se Bernardo requerer diligências probatórias na resposta, a empresa deve realizá-las, salvo se dilatórias ou impertinentes. Deve apresentar cópia do processo à comissão de trabalhadores (se existir) e à associação sindical (se Bernardo for representante sindical ou se este comunicar que o parecer é emitido por associação sindical)."
+      },
+      {
+        "artigo": "Artigo 357.º",
+        "materia": "Decisão de despedimento por facto imputável ao trabalhador",
+        "requisitos": [
+          "Prazo de 30 dias para proferir a decisão, após recebidos os pareceres ou decorrido o prazo para o efeito (n.º 1)",
+          "Se não existir comissão de trabalhadores e o trabalhador não for representante sindical, o prazo conta-se da conclusão da última diligência de instrução (n.º 2)",
+          "Decisão fundamentada, por escrito, ponderando as circunstâncias do caso, a adequação do despedimento à culpabilidade e os pareceres dos representantes (n.º 4)",
+          "Comunicação da decisão ao trabalhador, à comissão de trabalhadores ou à associação sindical, se aplicável (n.º 6)",
+          "A decisão determina a cessação do contrato logo que chega ao poder do trabalhador ou é dele conhecida (n.º 7)"
+        ],
+        "mapeamento_factual": "A empresa deve proferir decisão fundamentada no prazo de 30 dias após a instrução (ou recepção de pareceres). A decisão deve ponderar as circunstâncias (4 anos de antiguidade, 12 dias de faltas) e ser comunicada por escrito a Bernardo e, se aplicável, à comissão de trabalhadores ou associação sindical."
+      },
+      {
+        "artigo": "Artigo 358.º",
+        "materia": "Procedimento em caso de microempresa",
+        "requisitos": [
+          "Aplicável se a empresa for microempresa (menos de 10 trabalhadores) e o trabalhador não for membro de comissão de trabalhadores ou representante sindical",
+          "Dispensa das formalidades dos n.ºs 2 do art. 353.º, 5 do art. 356.º e 1, 2 e 6 do art. 357.º",
+          "Prazos para decisão: 30 dias a contar do termo do prazo de resposta (se não responder) ou da conclusão da última diligência (n.º 3)",
+          "Caducidade do direito de aplicar a sanção se não proferir decisão no prazo (n.º 4)",
+          "Comunicação da decisão ao trabalhador (n.º 5)"
+        ],
+        "mapeamento_factual": "Não há informação sobre a dimensão da empresa. Se for microempresa, aplicam-se regras simplificadas. Caso contrário, aplica-se o procedimento comum."
+      },
+      {
+        "artigo": "Artigo 382.º",
+        "materia": "Ilicitude de despedimento por facto imputável ao trabalhador",
+        "requisitos": [
+          "O despedimento é ilícito se tiverem decorrido os prazos dos n.ºs 1 ou 2 do artigo 329.º (prescrição)",
+          "O despedimento é ilícito se o procedimento for inválido",
+          "Procedimento inválido se: faltar a nota de culpa ou não contiver descrição circunstanciada; faltar a comunicação da intenção de despedimento; não for respeitado o direito de consulta ou resposta ou o prazo; a comunicação da decisão não for escrita ou não estiver elaborada nos termos do n.º 4 do art. 357.º ou n.º 2 do art. 358.º"
+        ],
+        "mapeamento_factual": "A empresa deve observar todos os requisitos procedimentais para evitar a ilicitude. Se não o fizer, o despedimento será ilícito. A norma de ilicitude é aplicável independentemente de o procedimento estar ou não concluído, fundamentando eventual pedido de declaração de ilicitude."
+      },
+      {
+        "artigo": "Artigo 329.º",
+        "materia": "Procedimento disciplinar e prescrição",
+        "requisitos": [
+          "Direito de exercer o poder disciplinar prescreve um ano após a prática da infracção (n.º 1)",
+          "Procedimento disciplinar deve iniciar-se nos 60 dias subsequentes ao conhecimento da infracção pelo empregador (n.º 2)",
+          "Procedimento prescreve decorrido um ano da instauração se o trabalhador não for notificado da decisão final (n.º 3)",
+          "A sanção não pode ser aplicada sem audiência prévia do trabalhador (n.º 6)"
+        ],
+        "mapeamento_factual": "As faltas ocorreram a partir de 1 de outubro. A empresa deve iniciar o procedimento nos 60 dias após ter conhecimento das faltas (provavelmente já decorridos alguns dias). O prazo de prescrição do direito disciplinar é de um ano após a prática da infracção (última falta). A audiência prévia é assegurada pela resposta à nota de culpa."
+      },
+      {
+        "artigo": "Artigo 393.º",
+        "materia": "Regras especiais relativas a contrato de trabalho a termo",
+        "requisitos": [
+          "Aplicável a contrato de trabalho a termo",
+          "Consequências do despedimento ilícito: indemnização ou reintegração"
+        ],
+        "mapeamento_factual": "O contrato de Bernardo é sem termo, pelo que este artigo não é aplicável."
+      },
+      {
+        "artigo": "Artigo 182.º",
+        "materia": "Duração de contrato de trabalho temporário",
+        "requisitos": [
+          "Aplicável a contrato de trabalho temporário"
+        ],
+        "mapeamento_factual": "O contrato de Bernardo é sem termo, não sendo de trabalho temporário. Artigo não aplicável."
+      },
+      {
+        "artigo": "Artigo 144.º",
+        "materia": "Informações relativas a contrato de trabalho a termo",
+        "requisitos": [
+          "Aplicável a contrato de trabalho a termo"
+        ],
+        "mapeamento_factual": "O contrato é sem termo. Artigo não aplicável."
+      },
+      {
+        "artigo": "Artigo 178.º",
+        "materia": "Duração de contrato de utilização de trabalho temporário",
+        "requisitos": [
+          "Aplicável a contrato de utilização de trabalho temporário"
+        ],
+        "mapeamento_factual": "Não aplicável, pois não há contrato de utilização."
+      },
+      {
+        "artigo": "Artigo 167.º",
+        "materia": "Duração e cessação do acordo de teletrabalho",
+        "requisitos": [
+          "Aplicável a acordo de teletrabalho"
+        ],
+        "mapeamento_factual": "Não há indicação de teletrabalho. Artigo não aplicável."
+      },
+      {
+        "artigo": "Artigo 361.º",
+        "materia": "Informações e negociação em caso de despedimento colectivo",
+        "requisitos": [
+          "Aplicável a despedimento colectivo"
+        ],
+        "mapeamento_factual": "O caso é de despedimento individual por facto imputável ao trabalhador, não colectivo. Artigo não aplicável."
+      }
+    ],
+    "excepcoes_ou_defesas": [
+      "Justificação das faltas por motivo de doença ou outro motivo legalmente admissível (artigo 351.º, n.º 1, alínea g) exclui faltas justificadas)",
+      "Prescrição do direito disciplinar: se tiver decorrido mais de um ano desde a prática da infracção (artigo 329.º, n.º 1)",
+      "Caducidade do direito de aplicar a sanção por decurso do prazo de 60 dias para iniciar o procedimento (artigo 329.º, n.º 2)",
+      "Nulidade do procedimento por falta de nota de culpa ou de comunicação da intenção de despedimento (artigo 382.º, n.º 2, alíneas a) e b))",
+      "Violação do direito de resposta ou do prazo (artigo 382.º, n.º 2, alínea c))",
+      "Decisão não fundamentada ou não escrita (artigo 382.º, n.º 2, alínea d))",
+      "Possibilidade de o trabalhador invocar que a ausência se deveu a causa imprevisível ou de força maior",
+      "Apreciação da proporcionalidade da sanção face à antiguidade e circunstâncias (artigo 351.º, n.º 2)"
+    ],
+    "circunstancias_relevantes": [
+      "Antiguidade de 4 anos",
+      "Função de operador de máquinas",
+      "Ausência de 12 dias úteis consecutivos sem justificação",
+      "Contrato sem termo",
+      "Necessidade de observar o procedimento disciplinar do artigo 353.º e seguintes",
+      "Prazo de 60 dias para iniciar o procedimento disciplinar após conhecimento da infracção (artigo 329.º, n.º 2)",
+      "Prazo de prescrição do direito disciplinar: um ano após a prática da infracção (artigo 329.º, n.º 1)",
+      "Possibilidade de suspensão preventiva com pagamento de retribuição (artigo 354.º)",
+      "Contra-ordenações aplicáveis em caso de violação de formalidades (artigos 353.º, n.º 4; 355.º, n.º 2; 356.º, n.º 7; 357.º, n.º 8; 358.º, n.º 6)",
+      "Apreciação da justa causa deve atender ao grau de lesão dos interesses do empregador e demais circunstâncias (artigo 351.º, n.º 2)"
+    ],
+    "factos_controvertidos": [
+      "Se as faltas foram ou não justificadas (Bernardo não prestou informação)",
+      "Se a empresa é microempresa (para aplicação do artigo 358.º)",
+      "Se existe comissão de trabalhadores ou se Bernardo é representante sindical",
+      "Se a presença de Bernardo na empresa é inconveniente para justificar suspensão preventiva",
+      "Se houve prejuízo ou risco grave para a empresa (embora a alínea g) do n.º 1 do artigo 351.º dispense prejuízo quando o número de faltas é atingido)",
+      "Data exacta do conhecimento das faltas pela empresa para contagem do prazo de 60 dias"
+    ],
+    "questoes_abertas": [
+      "Qual a qualificação da ausência: despedimento tácito, caducidade do contrato ou justa causa de despedimento?",
+      "O contrato caducou por abandono do trabalho? (Não há norma expressa de caducidade por abandono; a caducidade do contrato está prevista no artigo 343.º e seguintes, mas não por faltas não justificadas)",
+      "O despedimento tácito é admissível no direito português? (Em regra, não; a cessação do contrato por iniciativa do trabalhador exige declaração de vontade, não sendo a ausência suficiente para presumir despedimento tácito)",
+      "Qual o prazo para instaurar o procedimento disciplinar? (60 dias após conhecimento da infracção, nos termos do artigo 329.º, n.º 2)",
+      "A empresa deve aguardar o decurso de 12 dias úteis para considerar as faltas como justa causa? (A alínea g) exige 5 faltas seguidas ou 10 interpoladas; 12 dias já ultrapassam esse limite)",
+      "É necessário instaurar processo disciplinar ou pode a empresa considerar o contrato caducado? (A caducidade não é automática; o abandono do trabalho não é causa de caducidade prevista na lei, pelo que o despedimento por justa causa é o meio adequado)",
+      "Quais as consequências da não observância do procedimento? (Ilicitude do despedimento, com direito a indemnização ou reintegração, nos termos dos artigos 389.º e 390.º)"
+    ]
+  },
+  "prosecution": {
+    "tese": "O despedimento de Bernardo é ilícito porque, não obstante a ausência de 12 dias úteis possa constituir justa causa objetiva (art. 351.º, n.º 1, al. g)), a verdade é que a empregadora não pode considerar o contrato caducado nem presumir despedimento tácito, devendo instaurar processo disciplinar com observância estrita das formalidades legais. Qualquer despedimento que não siga o procedimento legal é ilícito, nos termos do art. 382.º, n.º 2, al. a) a d). Além disso, a ausência pode ser justificada e a proporcionalidade da sanção deve ser apreciada. Pretende-se, assim, a declaração de ilicitude do despedimento e a reintegração ou indemnização.",
+    "argumentos_principais": [
+      {
+        "titulo": "Ilicitude formal do despedimento por violação do procedimento disciplinar",
+        "fundamentacao_facto": "A empregadora, ao pretender despedir Bernardo, deve obrigatoriamente instaurar processo disciplinar, comunicando-lhe por escrito a intenção de despedimento e entregando nota de culpa com descrição circunstanciada dos factos (art. 353.º, n.º 1). Se não o fizer, ou se omitir alguma formalidade essencial, o despedimento é ilícito. No caso, não consta que tenha sido instaurado qualquer procedimento formal até à data, pelo que qualquer decisão de despedimento sem o cumprimento das formalidades legais é inválida.",
+        "fundamentacao_direito": "O art. 382.º, n.º 2, al. a) a d) do Código do Trabalho estabelece que o despedimento é ilícito se o procedimento for inválido, designadamente por falta de nota de culpa ou de comunicação da intenção de despedimento, por violação do direito de resposta ou do prazo, ou por falta de decisão escrita e fundamentada. A ausência de qualquer um destes requisitos determina a ilicitude do despedimento.",
+        "artigos_citados": [
+          "Artigo 353.º",
+          "Artigo 382.º"
+        ]
+      },
+      {
+        "titulo": "Inexistência de despedimento tácito ou caducidade do contrato",
+        "fundamentacao_facto": "A empregadora não pode considerar que Bernardo se despediu tacitamente nem que o contrato caducou. A ausência ao trabalho não é causa de caducidade do contrato de trabalho, nem sequer de despedimento tácito, uma vez que a lei não prevê tais figuras. O abandono do trabalho apenas pode fundamentar um despedimento por justa causa, sujeito ao procedimento disciplinar.",
+        "fundamentacao_direito": "O Código do Trabalho não consagra a caducidade do contrato por abandono do trabalho, nem o despedimento tácito. As causas de caducidade estão taxativamente previstas nos artigos 343.º e seguintes, não incluindo a ausência não justificada. O despedimento por facto imputável ao trabalhador exige o respeito pelo procedimento dos artigos 353.º e seguintes, sob pena de ilicitude (art. 382.º).",
+        "artigos_citados": [
+          "Artigo 343.º",
+          "Artigo 353.º",
+          "Artigo 382.º"
+        ]
+      },
+      {
+        "titulo": "Ausência de justa causa bastante e desproporcionalidade da sanção",
+        "fundamentacao_facto": "Ainda que as faltas possam preencher o número legal (12 dias úteis consecutivos), a justa causa deve ser apreciada globalmente, atendendo ao grau de lesão dos interesses da empregadora, ao carácter das relações entre as partes e demais circunstâncias (art. 351.º, n.º 2). Bernardo tem 4 anos de antiguidade e exerce funções de operador de máquinas; não consta qualquer prejuízo grave para a empregadora. Além disso, a ausência pode ter sido motivada por doença ou outra causa justificativa, que Bernardo poderá invocar em sede de resposta à nota de culpa.",
+        "fundamentacao_direito": "O art. 351.º, n.º 2, impõe a ponderação das circunstâncias na apreciação da justa causa. A alínea g) do n.º 1 do art. 351.º refere que as faltas não justificadas determinam justa causa quando atinjam 5 seguidas ou 10 interpoladas, independentemente de prejuízo, mas tal presunção não é absoluta, devendo atender-se ao caso concreto. A sanção de despedimento deve ser proporcional à culpa do trabalhador (art. 357.º, n.º 4).",
+        "artigos_citados": [
+          "Artigo 351.º",
+          "Artigo 357.º"
+        ]
+      }
+    ],
+    "refutacao_antecipada": [
+      {
+        "argumento_previsto_da_defesa": "As faltas de Bernardo preenchem o disposto no art. 351.º, n.º 1, al. g), pelo que existe justa causa de despedimento, independentemente de prejuízo ou risco.",
+        "resposta": "A verificação objetiva do número de faltas não dispensa a apreciação global da justa causa (art. 351.º, n.º 2), nem a proporcionalidade da sanção. Além disso, a empregadora não pode invocar a alínea g) sem previamente instaurar o competente processo disciplinar, assegurando o direito de defesa de Bernardo. A ausência pode ser justificada e, mesmo que não o seja, a sanção de despedimento pode ser desproporcionada face à antiguidade e às circunstâncias."
+      },
+      {
+        "argumento_previsto_da_defesa": "O contrato caducou por abandono do trabalho, pelo que não é necessário processo disciplinar.",
+        "resposta": "O abandono do trabalho não é causa de caducidade do contrato de trabalho. As causas de caducidade estão taxativamente previstas na lei (art. 343.º e seguintes) e não incluem a ausência não justificada. O despedimento por facto imputável ao trabalhador exige o procedimento dos artigos 353.º e seguintes, sob pena de ilicitude (art. 382.º)."
+      },
+      {
+        "argumento_previsto_da_defesa": "Bernardo despediu-se tacitamente ao não comparecer ao trabalho e não informar a empregadora.",
+        "resposta": "O despedimento tácito não é admissível no direito português. A cessação do contrato por iniciativa do trabalhador exige declaração de vontade expressa (art. 395.º e seguintes). A ausência ao trabalho não equivale a despedimento tácito, podendo apenas fundamentar despedimento por justa causa mediante processo disciplinar."
+      }
+    ],
+    "pedido": "Declaração de ilicitude do despedimento, com a consequente reintegração de Bernardo no seu posto de trabalho ou, em alternativa, o pagamento de indemnização de antiguidade e demais créditos laborais, nos termos dos artigos 389.º e 390.º do Código do Trabalho."
+  },
+  "defense": {
+    "tese": "A empregadora agiu de forma lícita e em estrito cumprimento da lei ao pretender despedir Bernardo com justa causa, com base na alínea g) do n.º 1 do artigo 351.º do Código do Trabalho, por faltas não justificadas que ultrapassam largamente os limites legais. O procedimento disciplinar será instaurado com observância de todas as formalidades legais, pelo que não há qualquer ilicitude. A acusação confunde a ausência de procedimento até à data com a sua inexistência futura, e não pode prevalecer-se da sua própria inércia para obter a declaração de ilicitude.",
+    "refutacao_da_acusacao": [
+      {
+        "argumento_da_acusacao": "Ilicitude formal do despedimento por violação do procedimento disciplinar, pois não consta que tenha sido instaurado qualquer procedimento formal até à data.",
+        "contra_argumento": "A acusação parte de um pressuposto errado: a empregadora ainda não despediu Bernardo, pelo que não há qualquer despedimento a declarar ilícito. O que a empregadora pretende é, precisamente, instaurar o procedimento disciplinar legalmente previsto. A ilicitude só existiria se, após a instauração do procedimento, fossem omitidas formalidades essenciais. Não se pode declarar ilícito um despedimento que ainda não ocorreu. A acusação confunde a fase de intenção com a fase de decisão. Além disso, o artigo 382.º, n.º 2, do Código do Trabalho só é aplicável após a prática do despedimento, não antes.",
+        "artigos_citados": [
+          "Artigo 353.º",
+          "Artigo 382.º"
+        ]
+      },
+      {
+        "argumento_da_acusacao": "Inexistência de despedimento tácito ou caducidade do contrato, pelo que a empregadora não pode considerar o contrato cessado sem processo disciplinar.",
+        "contra_argumento": "A empregadora nunca alegou que o contrato caducou ou que houve despedimento tácito. Pelo contrário, reconhece que a via adequada é o despedimento por justa causa, mediante processo disciplinar. A acusação cria um falso problema: a empregadora não invocou a caducidade nem o despedimento tácito, pelo que não há qualquer argumento a refutar. A ausência de 12 dias úteis é fundamento de justa causa nos termos da alínea g) do n.º 1 do artigo 351.º, e é esse o caminho que a empregadora seguirá.",
+        "artigos_citados": [
+          "Artigo 351.º",
+          "Artigo 353.º"
+        ]
+      },
+      {
+        "argumento_da_acusacao": "Ausência de justa causa bastante e desproporcionalidade da sanção, pois a justa causa deve ser apreciada globalmente e não consta prejuízo grave para a empregadora.",
+        "contra_argumento": "A alínea g) do n.º 1 do artigo 351.º do Código do Trabalho é clara: as faltas não justificadas determinam justa causa quando atinjam, em cada ano civil, cinco seguidas ou dez interpoladas, independentemente de prejuízo ou risco. Bernardo faltou 12 dias úteis consecutivos, ultrapassando largamente o limite de cinco faltas seguidas. A lei não exige prejuízo grave quando o número de faltas é atingido. A apreciação global do n.º 2 do artigo 351.º não afasta a verificação objetiva da alínea g), apenas permite ponderar outras circunstâncias, que no caso até agravam a conduta: 4 anos de antiguidade e função de operador de máquinas, que exigem assiduidade. A proporcionalidade da sanção será apreciada no momento da decisão, nos termos do artigo 357.º, n.º 4, mas a sanção de despedimento é, à partida, proporcional face à gravidade da conduta.",
+        "artigos_citados": [
+          "Artigo 351.º",
+          "Artigo 357.º"
+        ]
+      },
+      {
+        "argumento_da_acusacao": "A ausência pode ser justificada e Bernardo poderá invocá-lo em sede de resposta à nota de culpa.",
+        "contra_argumento": "A eventual justificação das faltas é uma matéria de defesa que Bernardo poderá invocar no prazo de resposta à nota de culpa (artigo 355.º). Até ao momento, não houve qualquer comunicação à empregadora, pelo que as faltas são, para todos os efeitos legais, não justificadas. A empregadora não tem de aguardar indefinidamente por uma justificação que nunca foi apresentada. O ónus de justificar as faltas recai sobre o trabalhador, nos termos do artigo 351.º, n.º 1, alínea g), que exclui as faltas justificadas. A acusação especula sobre uma justificação futura, o que não pode fundamentar a ilicitude do despedimento.",
+        "artigos_citados": [
+          "Artigo 351.º",
+          "Artigo 355.º"
+        ]
+      },
+      {
+        "argumento_da_acusacao": "O despedimento tácito não é admissível no direito português, pelo que a empregadora não pode considerar o contrato cessado.",
+        "contra_argumento": "A empregadora não invocou despedimento tácito. A acusação combate um argumento que não foi apresentado. A empregadora sempre afirmou que a via adequada é o despedimento por justa causa, com processo disciplinar. Não há, pois, qualquer argumento a refutar neste ponto.",
+        "artigos_citados": [
+          "Artigo 351.º",
+          "Artigo 353.º"
+        ]
+      }
+    ],
+    "argumentos_proprios": [
+      {
+        "titulo": "Verificação objetiva da justa causa nos termos da alínea g) do n.º 1 do artigo 351.º",
+        "fundamentacao_facto": "Bernardo ausentou-se do trabalho no dia 1 de outubro e não compareceu durante 12 dias úteis consecutivos, sem prestar qualquer informação à empregadora. As faltas não foram justificadas. O número de faltas seguidas (12) ultrapassa o limite de cinco faltas seguidas em cada ano civil previsto na alínea g) do n.º 1 do artigo 351.º.",
+        "fundamentacao_direito": "A alínea g) do n.º 1 do artigo 351.º do Código do Trabalho estabelece que constitui justa causa de despedimento o comportamento do trabalhador que consista em faltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou dez interpoladas, independentemente de prejuízo ou risco. No caso, estão verificados os requisitos objetivos: 12 faltas seguidas não justificadas. A lei não exige prejuízo grave quando o número de faltas é atingido, pelo que a justa causa está objetivamente verificada.",
+        "artigos_citados": [
+          "Artigo 351.º"
+        ]
+      },
+      {
+        "titulo": "Cumprimento do procedimento disciplinar legalmente previsto",
+        "fundamentacao_facto": "A empregadora pretende instaurar processo disciplinar, comunicando por escrito a Bernardo a intenção de despedimento e entregando nota de culpa com descrição circunstanciada dos factos (12 dias úteis consecutivos de faltas não justificadas). Serão remetidas cópias à comissão de trabalhadores, se existir, e à associação sindical, se Bernardo for representante sindical. Bernardo terá 10 dias úteis para responder, podendo juntar documentos e solicitar diligências probatórias. A decisão final será fundamentada e comunicada por escrito.",
+        "fundamentacao_direito": "O artigo 353.º do Código do Trabalho exige a comunicação escrita da intenção de despedimento e a junção de nota de culpa com descrição circunstanciada dos factos. O artigo 355.º assegura o direito de resposta no prazo de 10 dias úteis. O artigo 356.º regula a instrução, com limite de testemunhas e possibilidade de parecer da comissão de trabalhadores ou associação sindical. O artigo 357.º impõe decisão fundamentada no prazo de 30 dias. A empregadora compromete-se a observar todas estas formalidades, pelo que o despedimento será lícito.",
+        "artigos_citados": [
+          "Artigo 353.º",
+          "Artigo 355.º",
+          "Artigo 356.º",
+          "Artigo 357.º"
+        ]
+      },
+      {
+        "titulo": "Tempestividade do procedimento disciplinar",
+        "fundamentacao_facto": "As faltas ocorreram a partir de 1 de outubro. A empregadora tem conhecimento das faltas desde essa data. O procedimento disciplinar será instaurado dentro dos 60 dias subsequentes ao conhecimento da infracção, nos termos do artigo 329.º, n.º 2. O prazo de prescrição do direito disciplinar é de um ano após a prática da infracção (artigo 329.º, n.º 1), pelo que não há qualquer prescrição.",
+        "fundamentacao_direito": "O artigo 329.º, n.º 2, do Código do Trabalho estabelece que o procedimento disciplinar deve iniciar-se nos 60 dias subsequentes ao conhecimento da infracção pelo empregador. O n.º 1 do mesmo artigo fixa o prazo de prescrição do direito disciplinar em um ano após a prática da infracção. A empregadora agirá dentro destes prazos, pelo que o procedimento é tempestivo.",
+        "artigos_citados": [
+          "Artigo 329.º"
+        ]
+      },
+      {
+        "titulo": "Proporcionalidade da sanção face à gravidade da conduta",
+        "fundamentacao_facto": "Bernardo tem 4 anos de antiguidade e exerce funções de operador de máquinas. A ausência de 12 dias úteis consecutivos sem qualquer justificação ou comunicação é uma conduta grave, que quebra a confiança e a lealdade inerentes ao contrato de trabalho. A função de operador de máquinas exige assiduidade e presença física, pelo que a ausência prolongada tem impacto significativo na organização do trabalho.",
+        "fundamentacao_direito": "O artigo 351.º, n.º 2, do Código do Trabalho impõe que na apreciação da justa causa se atenda ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes e demais circunstâncias relevantes. A conduta de Bernardo é grave e justifica a sanção de despedimento, que é proporcional à culpa. O artigo 357.º, n.º 4, exige que a decisão pondere as circunstâncias do caso e a adequação do despedimento à culpabilidade do trabalhador. A empregadora fará essa ponderação na decisão final, mas a sanção de despedimento é, à partida, adequada.",
+        "artigos_citados": [
+          "Artigo 351.º",
+          "Artigo 357.º"
+        ]
+      }
+    ],
+    "pedido": "A empregadora pretende que seja declarada a licitude do despedimento por justa causa, com a consequente improcedência total do pedido da acusação. Subsidiariamente, caso se entenda que o procedimento ainda não está concluído, que seja reconhecido o direito de a empregadora instaurar o competente processo disciplinar, sem qualquer declaração de ilicitude."
+  },
+  "factcheck_prosecution": {
+    "label": "acusação",
+    "citacoes": [
+      {
+        "artigo": "Artigo 351.º, n.º 1, alínea g)",
+        "afirmacao": "As faltas não justificadas determinam justa causa de despedimento quando atinjam 5 seguidas ou 10 interpoladas, independentemente de prejuízo.",
+        "ref_base": "Artigo 351.º",
+        "existe": true,
+        "texto_real": "Artigo 351.º\nNoção de justa causa de despedimento\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n2\t- Na apreciação da justa causa, deve atender-se, no quadro de gestão da empresa, ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes ou entre o trabalhador e os seus companheiros e às demais circunstâncias que no caso sejam relevantes.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 351.º, n.º 2",
+        "afirmacao": "A justa causa deve ser apreciada globalmente, atendendo ao grau de lesão dos interesses da empregadora, ao carácter das relações entre as partes e demais circunstâncias.",
+        "ref_base": "Artigo 351.º",
+        "existe": true,
+        "texto_real": "Artigo 351.º\nNoção de justa causa de despedimento\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n2\t- Na apreciação da justa causa, deve atender-se, no quadro de gestão da empresa, ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes ou entre o trabalhador e os seus companheiros e às demais circunstâncias que no caso sejam relevantes.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 382.º, n.º 2, alíneas a) a d)",
+        "afirmacao": "O despedimento é ilícito se o procedimento for inválido, designadamente por falta de nota de culpa ou de comunicação da intenção de despedimento, por violação do direito de resposta ou do prazo, ou por falta de decisão escrita e fundamentada.",
+        "ref_base": "Artigo 382.º",
+        "existe": true,
+        "texto_real": "Artigo 382.º\nIlicitude de despedimento por facto imputável ao trabalhador\n1\t- O despedimento por facto imputável ao trabalhador é ainda ilícito se tiverem decorrido os prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º, ou se o respectivo procedimento for inválido.\n2\t- O procedimento é inválido se:\na)\tFaltar a nota de culpa, ou se esta não for escrita ou não contiver a descrição circunstanciada dos factos imputados ao trabalhador;\nb)\tFaltar a comunicação da intenção de despedimento junta à nota de culpa;\nc)\tNão tiver sido respeitado o direito do trabalhador a consultar o processo ou a responder à nota de culpa ou, ainda, o prazo para resposta à nota de culpa;\nd)\tA comunicação ao trabalhador da decisão de despedimento e dos seus fundamentos não for feita por escrito, ou não esteja elaborada nos termos do n.º 4 do artigo 357.º ou do n.º 2 do artigo 358.º",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 353.º, n.º 1",
+        "afirmacao": "A empregadora deve obrigatoriamente instaurar processo disciplinar, comunicando por escrito a intenção de despedimento e entregando nota de culpa com descrição circunstanciada dos factos.",
+        "ref_base": "Artigo 353.º",
+        "existe": true,
+        "texto_real": "Artigo 353.º\nNota de culpa\n1\t- No caso em que se verifique algum comportamento susceptível de constituir justa causa de despedimento, o empregador comunica, por escrito, ao trabalhador que o tenha praticado a intenção de proceder ao seu despedimento, juntando nota de culpa com a descrição circunstanciada dos factos que lhe são imputados.\n2\t- Na mesma data, o empregador remete cópias da comunicação e da nota de culpa à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respectiva.\n3\t- A notificação da nota de culpa ao trabalhador interrompe a contagem dos prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º\n4\t- Constitui contra-ordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1 ou 2.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 343.º e seguintes",
+        "afirmacao": "As causas de caducidade do contrato de trabalho estão taxativamente previstas na lei e não incluem a ausência não justificada ao trabalho.",
+        "ref_base": "Artigo 343.º",
+        "existe": true,
+        "texto_real": "Artigo 343.º\nCausas de caducidade de contrato de trabalho\nO contrato de trabalho caduca nos termos gerais, nomeadamente:\na)\tVerificando-se o seu termo;\nb)\tPor impossibilidade superveniente, absoluta e definitiva, de o trabalhador prestar o seu trabalho ou de o empregador o receber;\nc)\tCom a reforma do trabalhador, por velhice ou invalidez.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 357.º, n.º 4",
+        "afirmacao": "A sanção de despedimento deve ser proporcional à culpa do trabalhador.",
+        "ref_base": "Artigo 357.º",
+        "existe": true,
+        "texto_real": "Artigo 357.º\nDecisão de despedimento por facto imputável ao trabalhador\n1\t- Recebidos os pareceres referidos no n.º 5 do artigo anterior ou decorrido o prazo para o efeito, o empregador dispõe de 30 dias para proferir a decisão de despedimento, sob pena de caducidade do direito de aplicar a sanção.\n2\t- Quando não exista comissão de trabalhadores e o trabalhador não seja representante sindical, o prazo referido no número anterior conta-se a partir da data da conclusão da última diligência de instrução.\n3\t- (Revogado).\n4\t- Na decisão são ponderadas as circunstâncias do caso, nomeadamente as referidas no n.º 3 do artigo 351.º, a adequação do despedimento à culpabilidade do trabalhador e os pareceres dos representantes dos trabalhadores, não podendo ser invocados factos não constantes da nota de culpa ou da resposta do trabalhador, salvo se atenuarem a responsabilidade.\n5\t- A decisão deve ser fundamentada e constar de documento escrito.\n6\t- A decisão é comunicada, por cópia ou transcrição, ao trabalhador, à comissão de trabalhadores, ou à associação sindical respectiva, caso aquele seja representante sindical ou na situação a que se refere o n.º 6 do artigo anterior.\n7\t- A decisão determina a cessação do contrato logo que chega ao poder do trabalhador ou é dele conhecida ou, ainda, quando só por culpa do trabalhador não foi por ele oportunamente recebida.\n8\t- Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 2 e 5 a 7.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 395.º e seguintes",
+        "afirmacao": "A cessação do contrato por iniciativa do trabalhador exige declaração de vontade expressa.",
+        "ref_base": "Artigo 395.º",
+        "existe": true,
+        "texto_real": "Artigo 395.º\nProcedimento para resolução de contrato pelo trabalhador\n1\t- O trabalhador deve comunicar a resolução do contrato ao empregador, por escrito, com indicação sucinta dos factos que a justificam, nos 30 dias subsequentes ao conhecimento dos factos.\n2\t- No caso a que se refere o n.º 5 do artigo anterior, o prazo para resolução conta-se a partir do termo do período de 60 dias ou da declaração do empregador.\n3\t- Se o fundamento da resolução for o referido na alínea a) do n.º 3 do artigo anterior, a comunicação deve ser feita logo que possível.\n4\t- O empregador pode exigir que a assinatura do trabalhador constante da declaração de resolução tenha reconhecimento notarial presencial, devendo, neste caso, mediar um período não superior a 60 dias entre a data do reconhecimento e a da cessação do contrato.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 389.º",
+        "afirmacao": "Base legal para a reintegração do trabalhador em caso de ilicitude do despedimento.",
+        "ref_base": "Artigo 389.º",
+        "existe": true,
+        "texto_real": "Artigo 389.º\nEfeitos da ilicitude de despedimento\n1 - Sendo o despedimento declarado ilícito, o empregador é condenado:\na)\tA indemnizar o trabalhador por todos os danos causados, patrimoniais e não patrimoniais;\nb)\tNa reintegração do trabalhador no mesmo estabelecimento da empresa, sem prejuízo da sua categoria e antiguidade, salvo nos casos previstos nos artigos 391.º e 392.º\n2 - No caso de mera irregularidade fundada em deficiência de procedimento por omissão das diligências probatórias referidas nos n.os 1 e 3 do artigo 356.º, se forem declarados procedentes os motivos justificativos invocados para o despedimento, o trabalhador tem apenas direito a indemnização correspondente a metade do valor que resultaria da aplicação do n.º 1 do artigo 391.º\n3 - Constitui contra-ordenação grave a violação do disposto no n.º 1.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 390.º",
+        "afirmacao": "Base legal para o pagamento de indemnização de antiguidade e demais créditos laborais em caso de ilicitude do despedimento.",
+        "ref_base": "Artigo 390.º",
+        "existe": true,
+        "texto_real": "Artigo 390.º\nCompensação em caso de despedimento ilícito\n1 - Sem prejuízo da indemnização prevista na alínea a) do n.º 1 do artigo anterior, o trabalhador tem direito a receber as retribuições que deixar de auferir desde o despedimento até ao trânsito em julgado da decisão do tribunal que declare a ilicitude do despedimento. 2 - Às retribuições referidas no número anterior deduzem-se:\na)\tAs importâncias que o trabalhador aufira com a cessação do contrato e que não receberia se não fosse o despedimento;\nb)\tA retribuição relativa ao período decorrido desde o despedimento até 30 dias antes da propositura da acção, se esta não for proposta nos 30 dias subsequentes ao despedimento;\nc)\tO subsídio de desemprego atribuído ao trabalhador no período referido no n.º 1, devendo o empregador entregar essa quantia à segurança social.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      }
+    ],
+    "invalidos": [],
+    "resumo": "9 referências verificadas — todas consistentes."
+  },
+  "factcheck_defense": {
+    "label": "defesa",
+    "citacoes": [
+      {
+        "artigo": "Artigo 351.º, n.º 1, alínea g), do Código do Trabalho",
+        "afirmacao": "Constitui justa causa de despedimento o comportamento do trabalhador que consista em faltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou dez interpoladas, independentemente de prejuízo ou risco.",
+        "ref_base": "Artigo 351.º",
+        "existe": true,
+        "texto_real": "Artigo 351.º\nNoção de justa causa de despedimento\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n2\t- Na apreciação da justa causa, deve atender-se, no quadro de gestão da empresa, ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes ou entre o trabalhador e os seus companheiros e às demais circunstâncias que no caso sejam relevantes.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 351.º, n.º 2, do Código do Trabalho",
+        "afirmacao": "Na apreciação da justa causa deve atender-se ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes e demais circunstâncias relevantes.",
+        "ref_base": "Artigo 351.º",
+        "existe": true,
+        "texto_real": "Artigo 351.º\nNoção de justa causa de despedimento\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n2\t- Na apreciação da justa causa, deve atender-se, no quadro de gestão da empresa, ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes ou entre o trabalhador e os seus companheiros e às demais circunstâncias que no caso sejam relevantes.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 353.º do Código do Trabalho",
+        "afirmacao": "Exige a comunicação escrita da intenção de despedimento e a junção de nota de culpa com descrição circunstanciada dos factos.",
+        "ref_base": "Artigo 353.º",
+        "existe": true,
+        "texto_real": "Artigo 353.º\nNota de culpa\n1\t- No caso em que se verifique algum comportamento susceptível de constituir justa causa de despedimento, o empregador comunica, por escrito, ao trabalhador que o tenha praticado a intenção de proceder ao seu despedimento, juntando nota de culpa com a descrição circunstanciada dos factos que lhe são imputados.\n2\t- Na mesma data, o empregador remete cópias da comunicação e da nota de culpa à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respectiva.\n3\t- A notificação da nota de culpa ao trabalhador interrompe a contagem dos prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º\n4\t- Constitui contra-ordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1 ou 2.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 355.º do Código do Trabalho",
+        "afirmacao": "Assegura o direito de resposta no prazo de 10 dias úteis.",
+        "ref_base": "Artigo 355.º",
+        "existe": true,
+        "texto_real": "Artigo 355.º\nResposta à nota de culpa\n1\t- O trabalhador dispõe de 10 dias úteis para consultar o processo e responder à nota de culpa, deduzindo por escrito os elementos que considera relevantes para esclarecer os factos e a sua participação nos mesmos, podendo juntar documentos e solicitar as diligências probatórias que se mostrem pertinentes para o esclarecimento da verdade.\n2\t- Constitui contra-ordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto no número anterior.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 356.º do Código do Trabalho",
+        "afirmacao": "Regula a instrução, com limite de testemunhas e possibilidade de parecer da comissão de trabalhadores ou associação sindical.",
+        "ref_base": "Artigo 356.º",
+        "existe": true,
+        "texto_real": "Artigo 356.º\nInstrução\n1\t- O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2\t- (Revogado).\n3\t- O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4\t- O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5\t- Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6\t- Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7\t- Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 357.º, n.º 4, do Código do Trabalho",
+        "afirmacao": "Exige que a decisão pondere as circunstâncias do caso e a adequação do despedimento à culpabilidade do trabalhador.",
+        "ref_base": "Artigo 357.º",
+        "existe": true,
+        "texto_real": "Artigo 357.º\nDecisão de despedimento por facto imputável ao trabalhador\n1\t- Recebidos os pareceres referidos no n.º 5 do artigo anterior ou decorrido o prazo para o efeito, o empregador dispõe de 30 dias para proferir a decisão de despedimento, sob pena de caducidade do direito de aplicar a sanção.\n2\t- Quando não exista comissão de trabalhadores e o trabalhador não seja representante sindical, o prazo referido no número anterior conta-se a partir da data da conclusão da última diligência de instrução.\n3\t- (Revogado).\n4\t- Na decisão são ponderadas as circunstâncias do caso, nomeadamente as referidas no n.º 3 do artigo 351.º, a adequação do despedimento à culpabilidade do trabalhador e os pareceres dos representantes dos trabalhadores, não podendo ser invocados factos não constantes da nota de culpa ou da resposta do trabalhador, salvo se atenuarem a responsabilidade.\n5\t- A decisão deve ser fundamentada e constar de documento escrito.\n6\t- A decisão é comunicada, por cópia ou transcrição, ao trabalhador, à comissão de trabalhadores, ou à associação sindical respectiva, caso aquele seja representante sindical ou na situação a que se refere o n.º 6 do artigo anterior.\n7\t- A decisão determina a cessação do contrato logo que chega ao poder do trabalhador ou é dele conhecida ou, ainda, quando só por culpa do trabalhador não foi por ele oportunamente recebida.\n8\t- Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 2 e 5 a 7.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 329.º, n.º 2, do Código do Trabalho",
+        "afirmacao": "Estabelece que o procedimento disciplinar deve iniciar-se nos 60 dias subsequentes ao conhecimento da infracção pelo empregador.",
+        "ref_base": "Artigo 329.º",
+        "existe": true,
+        "texto_real": "Artigo 329.º\nProcedimento disciplinar e prescrição\n1\t- O direito de exercer o poder disciplinar prescreve um ano após a prática da infracção, ou no prazo de prescrição da lei penal se o facto constituir igualmente crime.\n2\t- O procedimento disciplinar deve iniciar-se nos 60 dias subsequentes àquele em que o empregador, ou o superior hierárquico com competência disciplinar, teve conhecimento da infracção.\n3\t- O procedimento disciplinar prescreve decorrido um ano contado da data em que é instaurado quando, nesse prazo, o trabalhador não seja notificado da decisão final.\n4\t- O poder disciplinar pode ser exercido directamente pelo empregador, ou por superior hierárquico do trabalhador, nos termos estabelecidos por aquele.\n5\t- Iniciado o procedimento disciplinar, o empregador pode suspender o trabalhador se a presença deste se mostrar inconveniente, mantendo o pagamento da retribuição.\n6\t- A sanção disciplinar não pode ser aplicada sem audiência prévia do trabalhador.\n7\t- Sem prejuízo do correspondente direito de acção judicial, o trabalhador pode reclamar para o escalão hierarquicamente superior ao que aplicou a sanção, ou recorrer a processo de resolução de litígio quando previsto em instrumento de regulamentação colectiva de trabalho ou na lei.\n8\t- Constitui contra-ordenação grave a violação do disposto no n.º 6.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 329.º, n.º 1, do Código do Trabalho",
+        "afirmacao": "Fixa o prazo de prescrição do direito disciplinar em um ano após a prática da infracção.",
+        "ref_base": "Artigo 329.º",
+        "existe": true,
+        "texto_real": "Artigo 329.º\nProcedimento disciplinar e prescrição\n1\t- O direito de exercer o poder disciplinar prescreve um ano após a prática da infracção, ou no prazo de prescrição da lei penal se o facto constituir igualmente crime.\n2\t- O procedimento disciplinar deve iniciar-se nos 60 dias subsequentes àquele em que o empregador, ou o superior hierárquico com competência disciplinar, teve conhecimento da infracção.\n3\t- O procedimento disciplinar prescreve decorrido um ano contado da data em que é instaurado quando, nesse prazo, o trabalhador não seja notificado da decisão final.\n4\t- O poder disciplinar pode ser exercido directamente pelo empregador, ou por superior hierárquico do trabalhador, nos termos estabelecidos por aquele.\n5\t- Iniciado o procedimento disciplinar, o empregador pode suspender o trabalhador se a presença deste se mostrar inconveniente, mantendo o pagamento da retribuição.\n6\t- A sanção disciplinar não pode ser aplicada sem audiência prévia do trabalhador.\n7\t- Sem prejuízo do correspondente direito de acção judicial, o trabalhador pode reclamar para o escalão hierarquicamente superior ao que aplicou a sanção, ou recorrer a processo de resolução de litígio quando previsto em instrumento de regulamentação colectiva de trabalho ou na lei.\n8\t- Constitui contra-ordenação grave a violação do disposto no n.º 6.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 382.º, n.º 2, do Código do Trabalho",
+        "afirmacao": "Só é aplicável após a prática do despedimento, não antes.",
+        "ref_base": "Artigo 382.º",
+        "existe": true,
+        "texto_real": "Artigo 382.º\nIlicitude de despedimento por facto imputável ao trabalhador\n1\t- O despedimento por facto imputável ao trabalhador é ainda ilícito se tiverem decorrido os prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º, ou se o respectivo procedimento for inválido.\n2\t- O procedimento é inválido se:\na)\tFaltar a nota de culpa, ou se esta não for escrita ou não contiver a descrição circunstanciada dos factos imputados ao trabalhador;\nb)\tFaltar a comunicação da intenção de despedimento junta à nota de culpa;\nc)\tNão tiver sido respeitado o direito do trabalhador a consultar o processo ou a responder à nota de culpa ou, ainda, o prazo para resposta à nota de culpa;\nd)\tA comunicação ao trabalhador da decisão de despedimento e dos seus fundamentos não for feita por escrito, ou não esteja elaborada nos termos do n.º 4 do artigo 357.º ou do n.º 2 do artigo 358.º",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      }
+    ],
+    "invalidos": [],
+    "resumo": "9 referências verificadas — todas consistentes."
+  },
+  "verdict": "**SENTENÇA**\n\n**Processo n.º [a atribuir]**\n**Tribunal do Trabalho de [a designar]**\n\n**I. FACTOS PROVADOS**\n\n1. Bernardo celebrou um contrato de trabalho sem termo com a empresa “MetalGuerreiros, Lda.”, exercendo funções de operador de máquinas.\n2. À data dos factos, Bernardo tinha uma antiguidade de 4 (quatro) anos ao serviço da empregadora.\n3. No dia 1 de outubro, Bernardo deixou de comparecer ao trabalho.\n4. Bernardo não prestou qualquer informação à empregadora que justificasse a sua ausência.\n5. Decorreram 12 (doze) dias úteis de ausência total e sem justificação.\n6. A empregadora tem conhecimento da ausência de Bernardo desde, pelo menos, o dia 1 de outubro.\n7. Até à data da propositura da presente ação, a empregadora não instaurou qualquer procedimento disciplinar contra Bernardo, nem lhe comunicou a intenção de proceder ao seu despedimento.\n8. Não foi proferida qualquer decisão de despedimento pela empregadora.\n\n**II. FACTOS NÃO PROVADOS**\n\n1. Não se provou que a empregadora seja uma microempresa (com menos de 10 trabalhadores).\n2. Não se provou a existência de comissão de trabalhadores na empresa ou que Bernardo seja representante sindical.\n3. Não se provou que a presença de Bernardo na empresa se mostre inconveniente.\n4. Não se provou que as faltas de Bernardo tenham causado prejuízos ou riscos graves para a empregadora.\n5. Não se provou que Bernardo tenha justificado as faltas por motivo de doença ou qualquer outra causa legalmente admissível.\n6. Não se provou que Bernardo tenha manifestado a vontade de cessar o contrato de trabalho.\n\n**III. FUNDAMENTAÇÃO DE DIREITO**\n\n**A. Questão prévia: a natureza da ausência e a inexistência de despedimento**\n\nA primeira questão que cumpre dirimir é a de saber qual a qualificação jurídica da ausência de Bernardo ao trabalho e quais as consequências legais que daí decorrem para a empregadora.\n\nO dossiê do intérprete e os factos provados demonstram que Bernardo se ausentou durante 12 dias úteis consecutivos, sem justificação e sem qualquer comunicação à empregadora. Esta situação é suscetível de integrar a previsão da alínea g) do n.º 1 do artigo 351.º do Código do Trabalho, que estabelece que constitui justa causa de despedimento as faltas não justificadas ao trabalho que determinem diretamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco.\n\nCom efeito, o número de faltas seguidas (12) ultrapassa largamente o limite de cinco faltas seguidas em cada ano civil, pelo que se verifica objetivamente o requisito legal, independentemente de prejuízo ou risco. A lei não exige a prova de prejuízo grave quando o número de faltas é atingido, conforme resulta da própria letra da alínea g).\n\nContudo, a verificação objetiva da justa causa não dispensa a apreciação global prevista no n.º 2 do artigo 351.º do Código do Trabalho, que impõe que se atenda ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes e às demais circunstâncias relevantes. No caso concreto, a antiguidade de 4 anos e a função de operador de máquinas são circunstâncias a considerar, mas não afastam, por si só, a gravidade da conduta.\n\nImporta, porém, clarificar que a ausência ao trabalho não é causa de caducidade do contrato de trabalho. O artigo 343.º do Código do Trabalho estabelece taxativamente as causas de caducidade, que não incluem a ausência não justificada. Também não é admissível o despedimento tácito no direito português, uma vez que a cessação do contrato por iniciativa do trabalhador exige declaração de vontade expressa, nos termos do artigo 395.º e seguintes do Código do Trabalho. A ausência ao trabalho apenas pode fundamentar um despedimento por justa causa, sujeito ao competente procedimento disciplinar.\n\n**B. Da inexistência de despedimento e da improcedência do pedido de declaração de ilicitude**\n\nResulta dos factos provados que a empregadora não instaurou qualquer procedimento disciplinar, não comunicou a intenção de despedimento, não elaborou nota de culpa e não proferiu qualquer decisão de despedimento. Ou seja, não houve, até à data, qualquer despedimento.\n\nO artigo 382.º do Código do Trabalho estabelece que o despedimento por facto imputável ao trabalhador é ilícito se tiverem decorrido os prazos dos n.ºs 1 ou 2 do artigo 329.º, ou se o respetivo procedimento for inválido. A invalidade do procedimento verifica-se, designadamente, por falta de nota de culpa, falta de comunicação da intenção de despedimento, violação do direito de resposta ou falta de decisão escrita e fundamentada.\n\nOra, a ilicitude do despedimento pressupõe a existência de um despedimento. No caso em apreço, não houve despedimento, pelo que não há que declarar a sua ilicitude. A acusação confunde a ausência de procedimento até à data com a sua inexistência futura, pretendendo obter uma declaração de ilicitude de um ato que ainda não foi praticado.\n\nCom efeito, a empregadora manifestou a intenção de instaurar o competente processo disciplinar, o que é o meio legalmente adequado para fazer valer a justa causa de despedimento. A acusação não pode prevalecer-se da inércia da empregadora para obter uma declaração de ilicitude que, juridicamente, não tem cabimento.\n\nAssim, o pedido de declaração de ilicitude do despedimento formulado pela acusação terá de improceder, por inexistência do ato de despedimento.\n\n**C. Da tempestividade do procedimento disciplinar**\n\nNão obstante a improcedência do pedido de declaração de ilicitude, importa apreciar a questão da tempestividade do procedimento disciplinar, uma vez que a empregadora pretende instaurá-lo.\n\nO artigo 329.º, n.º 2, do Código do Trabalho estabelece que o procedimento disciplinar deve iniciar-se nos 60 dias subsequentes àquele em que o empregador, ou o superior hierárquico com competência disciplinar, teve conhecimento da infração. No caso concreto, a empregadora tem conhecimento das faltas desde, pelo menos, o dia 1 de outubro. O prazo de 60 dias para instaurar o procedimento disciplinar está, pois, a decorrer, devendo a empregadora agir dentro desse prazo.\n\nPor outro lado, o n.º 1 do artigo 329.º fixa o prazo de prescrição do direito disciplinar em um ano após a prática da infração. As faltas ocorreram a partir de 1 de outubro, pelo que o prazo de prescrição ainda não decorreu.\n\nAcresce que, nos termos do n.º 3 do artigo 353.º do Código do Trabalho, a notificação da nota de culpa ao trabalhador interrompe a contagem dos prazos estabelecidos nos n.ºs 1 ou 2 do artigo 329.º, pelo que a empregadora deve notificar Bernardo da nota de culpa dentro do prazo de 60 dias para evitar a caducidade do direito de aplicar a sanção.\n\n**D. Da observância do procedimento disciplinar**\n\nA empregadora, ao pretender despedir Bernardo por justa causa, deve observar rigorosamente o procedimento previsto nos artigos 353.º e seguintes do Código do Trabalho, sob pena de o despedimento ser ilícito, nos termos do artigo 382.º, n.º 2, do Código do Trabalho.\n\nAssim, a empregadora deve:\na) Comunicar por escrito a Bernardo a intenção de proceder ao seu despedimento, juntando nota de culpa com a descrição circunstanciada dos factos imputados (artigo 353.º, n.º 1);\nb) Remeter cópias da comunicação e da nota de culpa à comissão de trabalhadores, se existir, e à associação sindical, caso Bernardo seja representante sindical (artigo 353.º, n.º 2);\nc) Conceder a Bernardo o prazo de 10 dias úteis para consultar o processo e responder à nota de culpa, podendo juntar documentos e solicitar diligências probatórias (artigo 355.º, n.º 1);\nd) Realizar as diligências probatórias requeridas na resposta, salvo se patentemente dilatórias ou impertinentes (artigo 356.º, n.º 1);\ne) Apresentar cópia integral do processo à comissão de trabalhadores e, se aplicável, à associação sindical, que podem emitir parecer em 5 dias úteis (artigo 356.º, n.º 5);\nf) Proferir decisão fundamentada, por escrito, no prazo de 30 dias após recebidos os pareceres ou decorrido o prazo para o efeito, ponderando as circunstâncias do caso, a adequação do despedimento à culpabilidade do trabalhador e os pareceres dos representantes dos trabalhadores (artigo 357.º, n.ºs 1, 4 e 5);\ng) Comunicar a decisão ao trabalhador e, se aplicável, à comissão de trabalhadores ou à associação sindical (artigo 357.º, n.º 6).\n\nA inobservância de qualquer destas formalidades determina a invalidade do procedimento e, consequentemente, a ilicitude do despedimento, nos termos do artigo 382.º, n.º 2, do Código do Trabalho.\n\n**E. Da proporcionalidade da sanção**\n\nA acusação invoca a desproporcionalidade da sanção de despedimento, atendendo à antiguidade de 4 anos e à ausência de prejuízo grave para a empregadora. Contudo, conforme já referido, a alínea g) do n.º 1 do artigo 351.º do Código do Trabalho dispensa a prova de prejuízo ou risco quando o número de faltas atinge cinco seguidas ou 10 interpoladas. Bernardo faltou 12 dias úteis consecutivos, ultrapassando largamente esse limite.\n\nA apreciação da proporcionalidade da sanção deverá ser feita pela empregadora no momento da decisão final, nos termos do artigo 357.º, n.º 4, do Código do Trabalho, ponderando as circunstâncias do caso e a adequação do despedimento à culpabilidade do trabalhador. Não cabe ao tribunal, nesta fase, substituir-se à empregadora nessa apreciação, uma vez que não houve ainda qualquer decisão de despedimento.\n\n**F. Da eventual justificação das faltas**\n\nA acusação alega que a ausência pode ser justificada por doença ou outra causa, que Bernardo poderá invocar em sede de resposta à nota de culpa. Com efeito, o ónus de justificar as faltas recai sobre o trabalhador, nos termos da alínea g) do n.º 1 do artigo 351.º do Código do Trabalho, que exclui as faltas justificadas. Até ao momento, Bernardo não apresentou qualquer justificação, pelo que as faltas são, para todos os efeitos legais, não justificadas. A eventual justificação deverá ser apresentada no prazo de resposta à nota de culpa, nos termos do artigo 355.º do Código do Trabalho.\n\n**G. Conclusão**\n\nFace ao exposto, conclui-se que:\n1. Não houve, até à data, qualquer despedimento de Bernardo, pelo que não há que declarar a sua ilicitude;\n2. A ausência de 12 dias úteis consecutivos sem justificação é suscetível de constituir justa causa de despedimento, nos termos da alínea g) do n.º 1 do artigo 351.º do Código do Trabalho;\n3. A empregadora deve instaurar o competente procedimento disciplinar, observando rigorosamente as formalidades previstas nos artigos 353.º e seguintes do Código do Trabalho, sob pena de o despedimento ser ilícito;\n4. O procedimento disciplinar deve ser instaurado dentro dos 60 dias subsequentes ao conhecimento da infração, nos termos do artigo 329.º, n.º 2, do Código do Trabalho;\n5. A eventual justificação das faltas deverá ser apresentada por Bernardo no prazo de resposta à nota de culpa.\n\n**IV. DECISÃO**\n\nPelo exposto, o Tribunal decide:\n\na) **Julgar improcedente** o pedido de declaração de ilicitude do despedimento formulado pela acusação, por inexistência de ato de despedimento;\n\nb) **Absolver** a empregadora “MetalGuerreiros, Lda.” do pedido de reintegração e de pagamento de indemnização de antiguidade e demais créditos laborais, por não se verificar a ilicitude do despedimento;\n\nc) **Reconhecer** à empregadora o direito de instaurar o competente procedimento disciplinar contra Bernardo, com observância das formalidades previstas nos artigos 353.º e seguintes do Código do Trabalho, no prazo de 60 dias subsequentes ao conhecimento da infração, nos termos do artigo 329.º, n.º 2, do Código do Trabalho;\n\nd) **Notificar** a empregadora de que a inobservância de qualquer das formalidades do procedimento disciplinar determina a invalidade do procedimento e a ilicitude do despedimento, nos termos do artigo 382.º, n.º 2, do Código do Trabalho.\n\nSem custas, por não haver vencimento na ação.\n\nNotifique-se.\n\nTribunal do Trabalho, [data].\n\nO Juiz de Direito"
+}

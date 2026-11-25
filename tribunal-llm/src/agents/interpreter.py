@@ -13,17 +13,13 @@ Receberás: (1) a descrição de um caso laboral; (2) os artigos do Código do T
 considerados potencialmente relevantes.
 
 A tua tarefa:
-1. Identifica os artigos efectivamente aplicáveis ao caso. IMPORTANTE: cobre
-   SEMPRE as três camadas seguintes, quando o caso envolva despedimento:
-   a) NORMA SUBSTANTIVA do crime/falta;
-   b) NORMAS DE PROCEDIMENTO aplicáveis;
-   c) NORMA DE ILICITUDE / CONSEQUÊNCIA. NÃO OMITAS a norma de
-      ilicitude só porque o procedimento está falho — é ela que fundamenta
-      o pedido de declaração de ilicitude.
-   Para outros temas, segue a mesma lógica substância + requisitos + consequência.
+1. Identifica os artigos efectivamente aplicáveis ao caso (por exemplo: despedimento, 
+   caducidade do contrato, abandono do trabalho, poder disciplinar, retaliação, assédio, 
+   acidente de trabalho, trabalho suplementar, férias, etc.).
 2. Para cada artigo, decompõe os seus REQUISITOS ou PRESSUPOSTOS legais.
 3. Mapeia os factos do caso a cada requisito: "verificado", "não verificado" ou "controvertido".
-4. Identifica EXCEPÇÕES ou DEFESAS que possam ser invocadas.
+4. Identifica EXCEPÇÕES ou DEFESAS que possam ser invocadas (ex.: caducidade do
+   direito, justa causa, caso de força maior, prescrição, etc.).
 5. Lista circunstâncias relevantes (agravantes, atenuantes, contra-ordenações aplicáveis).
 6. Lista factos controvertidos e questões abertas.
 
@@ -34,8 +30,8 @@ DEVOLVE APENAS JSON VÁLIDO, com este esquema exacto:
 {
   "artigos_aplicaveis": [
     {
-      "artigo": "Artigo X.º",
-      "materia": "Matéria do artigo",
+      "artigo": "Artigo [N.º]",
+      "materia": "[matéria do artigo]",
       "requisitos": ["requisito 1", "requisito 2", ...],
       "mapeamento_factual": "explicação de como os factos preenchem (ou não) os requisitos"
     }
@@ -47,7 +43,7 @@ DEVOLVE APENAS JSON VÁLIDO, com este esquema exacto:
 }"""
 
 
-def interpret_case(case_description: str, top_k: int = 15) -> dict:
+def interpret_case(case_description: str, top_k: int = 8) -> dict:
     """Corre o agente intérprete e devolve o dossiê como dict."""
     print(f"⚖️  [Intérprete] A analisar o caso laboral e a consultar o RAG (top_k={top_k})...")
 

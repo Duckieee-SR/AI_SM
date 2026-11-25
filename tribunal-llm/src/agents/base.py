@@ -1,18 +1,21 @@
 # src/agents/base.py
-"""Wrapper unificado para chamadas a LLMs (Gemini com fallback para Groq)."""
+"""Wrapper unificado para chamadas a LLMs"""
 import json
 import time
 from typing import Optional
 
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_groq import ChatGroq
+from langchain_deepseek import ChatDeepSeek
 from langchain_core.messages import SystemMessage, HumanMessage
 
 from config import (
     GEMINI_API_KEY,
     GROQ_API_KEY,
+    DEEPSEEK_API_KEY,
     GEMINI_MODEL,
     GROQ_MODEL,
+    DEEPSEEK_MODEL
 )
 
 
@@ -22,20 +25,31 @@ class LLMError(RuntimeError):
 
 def _get_llm(provider: str, temperature: float, json_mode: bool):
     if provider == "gemini":
+        generation_config = None
+        if json_mode:
+            generation_config = {"response_mime_type": "application/json"}
+            
         llm = ChatGoogleGenerativeAI(
             model=GEMINI_MODEL,
             google_api_key=GEMINI_API_KEY,
             temperature=temperature,
+            generation_config=generation_config,
         )
-        # Gemini não usa response_format (OpenAI); usa response_mime_type
-        if json_mode:
-            llm = llm.bind(response_mime_type="application/json")
     elif provider == "groq":
         llm = ChatGroq(
             model=GROQ_MODEL,
             api_key=GROQ_API_KEY,
             temperature=temperature,
         )
+        if json_mode:
+            llm = llm.bind(response_format={"type": "json_object"})
+    elif provider == "deepseek":
+        llm = ChatDeepSeek(
+            model=DEEPSEEK_MODEL,
+            api_key=DEEPSEEK_API_KEY,
+            temperature=temperature,
+        )
+        # Para JSON mode, o DeepSeek suporta response_format
         if json_mode:
             llm = llm.bind(response_format={"type": "json_object"})
     else:
@@ -81,7 +95,7 @@ def call_llm(
     max_retries: int = 2,
 ) -> str:
     """Chama o LLM com fallback automático entre providers."""
-    providers = providers or ["groq", "gemini"]
+    providers = providers or ["deepseek","groq","gemini"]
     errors = []
 
     for provider in providers:

@@ -4,15 +4,15 @@ import json
 from src.agents.base import call_llm, parse_json_safe
 
 
-DEFENSE_SYSTEM = """És um advogado experiente do lado da EMPREGADORA (parte ré / defesa)
+DEFENSE_SYSTEM = """És um advogado experiente do lado da ENTIDADE EMPREGADORA (parte ré / defesa)
 num litígio laboral português.
 
-O teu dever é construir a defesa mais forte possível A FAVOR DA EMPREGADORA,
-demonstrando que a sua conduta foi LÍCITA (por exemplo, que existia justa causa,
-que o procedimento foi cumprido, ou que a sanção foi proporcional e não retaliatória).
+O teu dever é construir a defesa mais forte possível A FAVOR DA ENTIDADE EMPREGADORA,
+demonstrando que a sua conduta foi LÍCITA (seja para justificar um despedimento,
+para declarar a caducidade do contrato, para validar um processo disciplinar, etc.).
 
 Receberás: (1) o dossiê factual-legal neutro; (2) o argumento já produzido pela
-acusação (advogado da trabalhadora). Deves REFUTAR esse argumento ponto por ponto.
+acusação (advogado do trabalhador). Deves REFUTAR esse argumento ponto por ponto.
 
 REGRAS:
 1. Cita SEMPRE artigos concretos do Código do Trabalho. Nunca inventes artigos
@@ -21,18 +21,18 @@ REGRAS:
 2. Não inventes factos. Podes reinterpretar os factos existentes a favor da tua
    cliente, mas não introduzas factos novos.
 3. Refuta explicitamente cada argumento da acusação — não ignores nenhum.
-4. Se a posição da empregadora for muito frágil em algum ponto, é legítimo (e
-   próprio de um bom advogado) concentrar esforços nos pontos mais fortes e
+4. Se a posição da entidade empregadora for muito frágil em algum ponto, é legítimo
+   (e próprio de um bom advogado) concentrar esforços nos pontos mais fortes e
    adoptar uma posição mais defensiva no resto.
 
 DEVOLVE APENAS JSON VÁLIDO com este esquema:
 {
-  "tese": "síntese da posição da empregadora em 2-3 frases",
+  "tese": "síntese da posição da entidade empregadora em 2-3 frases",
   "refutacao_da_acusacao": [
     {
       "argumento_da_acusacao": "...",
       "contra_argumento": "...",
-      "artigos_citados": ["Artigo X.º"]
+      "artigos_citados": ["Artigo [N.º]"]
     }
   ],
   "argumentos_proprios": [
@@ -40,15 +40,15 @@ DEVOLVE APENAS JSON VÁLIDO com este esquema:
       "titulo": "...",
       "fundamentacao_facto": "...",
       "fundamentacao_direito": "...",
-      "artigos_citados": ["Artigo X.º"]
+      "artigos_citados": ["Artigo [N.º]"]
     }
   ],
-  "pedido": "o que a empregadora pretende (ex.: improcedência total, absolvição)"
+  "pedido": "o que a entidade empregadora pretende (ex.: improcedência total, declaração de caducidade)"
 }"""
 
 
 def build_defense(dossier: dict, prosecution: dict, case_description: str) -> dict:
-    print("🛡️  [Defesa] A construir argumento a favor da empregadora...")
+    print("🛡️  [Defesa] A construir argumento a favor da entidade empregadora...")
 
     user_prompt = f"""CASO:
 {case_description}

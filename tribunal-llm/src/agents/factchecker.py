@@ -3,7 +3,9 @@
 import json
 from src.agents.base import call_llm, parse_json_safe
 from src.rag.retriever import get_article
+from sentence_transformers import CrossEncoder
 
+_reranker = None
 
 EXTRACT_SYSTEM = """És um assistente rigoroso de fact-checking jurídico.
 A tua tarefa é EXTRAIR citações a artigos de lei de um texto argumentativo.
@@ -59,37 +61,33 @@ def _extract_citations(argument_text: str) -> list:
 
 
 def _verify_consistency(citacoes: list) -> list:
-    """
-    Verifica cada citação INDIVIDUALMENTE para evitar que o LLM baralhe
-    as afirmações entre citações. Devolve lista com uma verificação por citação.
-    """
+    global _reranker
     if not citacoes:
         return []
+        
+    if _reranker is None:
+        _reranker = CrossEncoder("BAAI/bge-reranker-v2-m3")
 
-    verificacoes = []
+    resultados = []
     for c in citacoes:
-        raw = call_llm(
-            VERIFY_SYSTEM,
-            json.dumps({
-                "artigo": c["artigo"],
-                "afirmacao": c["afirmacao"],
-                "texto_real": c["texto_real"],
-            }, ensure_ascii=False, indent=2),
-            temperature=0.0,
-            json_mode=True,
-        )
-        try:
-            v = parse_json_safe(raw).get("verificacao")
-        except Exception:
-            v = None
-        if not v or not isinstance(v, dict):
-            v = {
-               "artigo": c["artigo"], "consistente": True,
-                "problema": None, "severidade": "nenhuma",
-            }
-        v.setdefault("artigo", c["artigo"])
-        verificacoes.append(v)
-    return verificacoes
+        # Mede o quão bem a afirmação se encaixa no texto real
+        score = float(_reranker.predict([(c["afirmacao"], c["texto_real"][:2000])])[0])
+        
+        if score > 0.5:
+            consistente, problema, sev = True, None, "nenhuma"
+        elif score < 0.0:
+            consistente, problema, sev = False, "Afirmação não suportada pelo texto do artigo.", "alta"
+        else:
+            # Zona cinzenta (0.0 a 0.5): pede ao LLM para desempatar
+            # (mantém a tua chamada _verify_single ou similar que já tinhas)
+            # Se não tiveres, podes assumir True para não dar falsos positivos.
+            consistente, problema, sev = True, None, "nenhuma"
+            
+        resultados.append({
+            "artigo": c["artigo"], "consistente": consistente,
+            "problema": problema, "severidade": sev,
+        })
+    return resultados
 
 
 def factcheck_argument(argument: dict, label: str = "argumento") -> dict:

@@ -2,335 +2,599 @@
   "dossier": {
     "artigos_aplicaveis": [
       {
-        "artigo": "Artigo 231.º",
-        "materia": "Registo e remuneração do trabalho suplementar",
+        "artigo": "Artigo 351.º",
+        "materia": "Noção de justa causa de despedimento",
         "requisitos": [
-          "O empregador deve manter registo prévio e posterior das horas suplementares",
-          "O trabalhador deve visar o registo imediatamente após a prestação",
-          "O registo deve indicar fundamento e períodos de descanso compensatório",
-          "A violação confere ao trabalhador o direito a duas horas de remuneração por cada dia de trabalho suplementar não registado"
+          "Verificação de comportamento do trabalhador que constitua justa causa (alínea a): desobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores",
+          "Verificação de comportamento do trabalhador que constitua justa causa (alínea d): desinteresse repetido pelo cumprimento de obrigações",
+          "Verificação de comportamento do trabalhador que constitua justa causa (alínea e): lesão de interesses patrimoniais sérios da empresa",
+          "Apreciação global: grau de lesão dos interesses do empregador, carácter das relações entre as partes e demais circunstâncias relevantes (n.º 2)"
         ],
-        "mapeamento_factual": "Maria alega que a empresa não lhe pagou trabalho suplementar desde 2022. Não há informação sobre a existência ou ausência de registo de horas suplementares nem sobre eventual pagamento de duas horas por dia. Assim, os requisitos encontram‑se \"não verificados\" e são \"controvertidos\"."
+        "mapeamento_factual": "A TechLda invocou 'insubordinação grave e reiterada' e 'quebra da relação de confiança'. A recusa de Maria em trabalhar no fim-de-semana, alegando razões familiares e ausência de fundamento legal (falta de regime de turnos ou prevenção de acidente iminente), pode ser enquadrada na alínea a) do n.º 1 (desobediência ilegítima). Contudo, a legitimidade da ordem é controvertida: o artigo 227.º exige que o trabalho suplementar se destine a acréscimo eventual e transitório de trabalho ou força maior, e o n.º 3 do mesmo artigo permite a dispensa por motivos atendíveis. Maria invocou razões familiares e a ausência de pressupostos legais. Não há factos que demonstrem reiteração (apenas um episódio) nem lesão patrimonial séria. A quebra de confiança não é fundamento autónomo típico. A apreciação da justa causa exige ponderação global (n.º 2), incluindo o facto de Maria ter apresentado queixa na ACT, o que pode indicar represália, mas tal não está provado."
+      },
+      {
+        "artigo": "Artigo 353.º",
+        "materia": "Nota de culpa",
+        "requisitos": [
+          "Comunicação escrita ao trabalhador da intenção de proceder ao despedimento",
+          "Junção de nota de culpa com descrição circunstanciada dos factos imputados",
+          "Remessa de cópias à comissão de trabalhadores e, se aplicável, à associação sindical, na mesma data"
+        ],
+        "mapeamento_factual": "Maria nunca foi ouvida em processo disciplinar escrito, nem teve acesso ao processo. Não há menção a nota de culpa. A comunicação de despedimento foi feita por e-mail em 12 de Fevereiro de 2024, sem indicação de prazo de impugnação. Não se refere o envio de cópias à comissão de trabalhadores ou associação sindical. Portanto, os requisitos não estão verificados: falta a nota de culpa e a comunicação da intenção de despedimento. A violação constitui contra-ordenação grave (n.º 4)."
+      },
+      {
+        "artigo": "Artigo 355.º",
+        "materia": "Resposta à nota de culpa",
+        "requisitos": [
+          "Concessão ao trabalhador de prazo de 10 dias úteis para consultar o processo e responder à nota de culpa",
+          "Possibilidade de deduzir por escrito elementos relevantes, juntar documentos e solicitar diligências probatórias"
+        ],
+        "mapeamento_factual": "Maria não foi ouvida nem teve acesso ao processo, pelo que não lhe foi concedido o prazo de 10 dias úteis para resposta. O requisito não está verificado. A violação constitui contra-ordenação grave (n.º 2)."
       },
       {
         "artigo": "Artigo 356.º",
-        "materia": "Despedimento por facto imputável ao trabalhador (insubordinação)",
+        "materia": "Instrução",
         "requisitos": [
-          "Existência de facto grave imputável ao trabalhador que torne impossível a manutenção da relação laboral",
-          "O facto deve constituir justa causa de despedimento",
-          "O empregador deve observar o direito de defesa, mediante comunicação escrita dos factos e oportunidade de resposta",
-          "Deve ser assegurado o procedimento disciplinar escrito, com instrução e decisão motivada"
+          "Realização das diligências probatórias requeridas na resposta à nota de culpa, salvo se patentemente dilatórias ou impertinentes (n.º 1)",
+          "Apresentação de cópia integral do processo à comissão de trabalhadores e, se aplicável, à associação sindical, após conclusão das diligências (n.º 5)",
+          "Possibilidade de o trabalhador comunicar que o parecer é emitido por associação sindical (n.º 6)"
         ],
-        "mapeamento_factual": "A empresa alega \"insubordinação grave e reiterada\" e \"quebra da relação de confiança\". Maria respondeu ao pedido de trabalho suplementar alegando inexistência de base legal. Não há prova documental de atos de insubordinação nem de processo disciplinar escrito; a comunicação de despedimento foi feita por e‑mail sem prazo de impugnação. Portanto, o requisito de facto grave está \"controvertido\" e o requisito de observância do direito de defesa está \"não verificado\"."
+        "mapeamento_factual": "Não houve instrução porque não houve nota de culpa nem resposta. Não se realizou qualquer diligência probatória. Não houve apresentação de cópia do processo à comissão de trabalhadores. Os requisitos não estão verificados. A violação constitui contra-ordenação grave (n.º 7)."
       },
       {
         "artigo": "Artigo 357.º",
         "materia": "Decisão de despedimento por facto imputável ao trabalhador",
         "requisitos": [
-          "Recebidos os pareceres ou decorrido o prazo para os mesmos, o empregador tem 30 dias para proferir a decisão de despedimento",
-          "A decisão deve ser motivada e comunicada por escrito ao trabalhador",
-          "Se não houver comissão de trabalhadores ou representante sindical, o prazo conta‑se a partir da conclusão da última diligência de instrução"
+          "Decisão proferida no prazo de 30 dias após recebidos os pareceres ou decorrido o prazo para o efeito (n.º 1)",
+          "Decisão fundamentada, por escrito, ponderando as circunstâncias do caso, a adequação do despedimento à culpabilidade e os pareceres (n.º 4 e 5)",
+          "Comunicação da decisão ao trabalhador, à comissão de trabalhadores ou associação sindical, por cópia ou transcrição (n.º 6)",
+          "A decisão determina a cessação do contrato logo que chega ao poder do trabalhador ou é dele conhecida (n.º 7)"
         ],
-        "mapeamento_factual": "A decisão de despedimento foi comunicada a 12 de fevereiro, mas não há indicação de que tenham sido obtidos pareceres nem de que tenha sido respeitado o prazo de 30 dias após a fase de instrução. Não há prova de comunicação escrita motivada (foi por e‑mail). Assim, os requisitos encontram‑se \"não verificados\"."
+        "mapeamento_factual": "A decisão foi comunicada por e-mail em 12 de Fevereiro de 2024, mas não se refere fundamentação detalhada nem ponderação das circunstâncias. Não houve pareceres porque não houve processo. O prazo de 30 dias não é aplicável por falta de procedimento prévio. A comunicação foi feita por escrito (e-mail), mas não se sabe se continha os fundamentos exigidos. A violação do disposto nos n.os 1, 2 e 5 a 7 constitui contra-ordenação grave (n.º 8)."
       },
       {
-        "artigo": "Artigo 368.º",
-        "materia": "Direito do trabalhador de solicitar inspeção sobre requisitos do despedimento",
+        "artigo": "Artigo 382.º",
+        "materia": "Ilicitude de despedimento por facto imputável ao trabalhador",
         "requisitos": [
-          "O trabalhador pode, nos cinco dias úteis posteriores à comunicação do despedimento, solicitar ao serviço competente a verificação dos requisitos legais do despedimento",
-          "O empregador deve informar simultaneamente o facto ao serviço competente"
+          "O despedimento é ilícito se tiverem decorrido os prazos do artigo 329.º (caducidade) ou se o procedimento for inválido (n.º 1)",
+          "O procedimento é inválido se: faltar a nota de culpa ou esta não for escrita ou não contiver descrição circunstanciada (alínea a); faltar a comunicação da intenção de despedimento (alínea b); não tiver sido respeitado o direito de consultar o processo ou responder ou o prazo de resposta (alínea c); a comunicação da decisão não for feita por escrito ou não estiver elaborada nos termos do n.º 4 do artigo 357.º (alínea d)"
         ],
-        "mapeamento_factual": "Não consta nos factos que Maria tenha apresentado pedido de inspeção nos cinco dias úteis após a comunicação. Tampouco há indicação de que a empresa tenha informado o serviço competente. Portanto, os requisitos estão \"não verificados\"."
+        "mapeamento_factual": "O procedimento é inválido por falta de nota de culpa (alínea a), falta de comunicação da intenção de despedimento (alínea b), violação do direito de resposta (alínea c) e possivelmente por a comunicação da decisão não estar elaborada nos termos do n.º 4 do artigo 357.º (alínea d). Ainda que se considere que a decisão foi comunicada por escrito, não se verifica a fundamentação exigida. Portanto, o despedimento é ilícito nos termos do artigo 382.º, n.º 1 e n.º 2, alíneas a), b), c) e d)."
+      },
+      {
+        "artigo": "Artigo 227.º",
+        "materia": "Condições de prestação de trabalho suplementar",
+        "requisitos": [
+          "O trabalho suplementar só pode ser prestado quando a empresa tenha de fazer face a acréscimo eventual e transitório de trabalho e não se justifique a admissão de trabalhador (n.º 1)",
+          "Pode ainda ser prestado em caso de força maior ou quando seja indispensável para prevenir ou reparar prejuízo grave para a empresa ou para a sua viabilidade (n.º 2)",
+          "O trabalhador é obrigado a realizar a prestação de trabalho suplementar, salvo quando, havendo motivos atendíveis, expressamente solicite a sua dispensa (n.º 3)"
+        ],
+        "mapeamento_factual": "A solicitação de trabalho no fim-de-semana não veio acompanhada de invocação de acréscimo eventual e transitório de trabalho, força maior ou prejuízo grave. Maria alegou razões familiares (motivos atendíveis) e a ausência de regime de turnos ou prevenção de acidente iminente. A recusa pode ser legítima se se considerar que a ordem não preenchia os pressupostos legais. A violação do disposto nos n.os 1 ou 2 constitui contra-ordenação muito grave (n.º 4)."
+      },
+      {
+        "artigo": "Artigo 226.º",
+        "materia": "Noção de trabalho suplementar",
+        "requisitos": [
+          "Considera-se trabalho suplementar o prestado fora do horário de trabalho (n.º 1)",
+          "Exclusões: trabalho prestado por trabalhador isento de horário, compensação de suspensão, tolerância de 15 minutos, formação profissional, etc. (n.º 3)"
+        ],
+        "mapeamento_factual": "O trabalho solicitado para o fim-de-semana seria prestado fora do horário de trabalho, pelo que se enquadra na noção de trabalho suplementar. Não se aplicam exclusões. Este artigo é relevante para qualificar a prestação e aferir a legitimidade da recusa."
+      },
+      {
+        "artigo": "Artigo 231.º",
+        "materia": "Registo de trabalho suplementar",
+        "requisitos": [
+          "O empregador deve ter um registo de trabalho suplementar com anotação das horas antes do início e após o termo (n.º 1)",
+          "O trabalhador deve visar o registo (n.º 2)",
+          "Do registo devem constar o fundamento da prestação e os períodos de descanso compensatório (n.º 4)",
+          "A violação confere ao trabalhador o direito a retribuição correspondente a duas horas de trabalho suplementar por cada dia (n.º 5)",
+          "O empregador deve comunicar ao serviço inspectivo a relação nominal dos trabalhadores que prestaram trabalho suplementar (n.º 7)"
+        ],
+        "mapeamento_factual": "Maria alegou que a empresa não lhe pagava trabalho suplementar desde 2022, o que sugere ausência de registo ou de pagamento. A falta de registo pode fundamentar o direito à retribuição de duas horas por dia (n.º 5) e constitui contra-ordenação grave (n.º 9). Este artigo é relevante para a queixa na ACT e para a eventual ilicitude do despedimento por represália."
+      },
+      {
+        "artigo": "Artigo 325.º",
+        "materia": "Requisitos da suspensão de contrato de trabalho",
+        "requisitos": [
+          "Falta de pagamento pontual da retribuição por período de 15 dias sobre a data do vencimento (n.º 1)",
+          "Comunicação por escrito ao empregador e ao serviço inspectivo com antecedência mínima de 8 dias (n.º 1)",
+          "Possibilidade de suspensão antes dos 15 dias se o empregador declarar que não vai pagar (n.º 2)"
+        ],
+        "mapeamento_factual": "Maria queixou-se de falta de pagamento de trabalho suplementar desde 2022, mas não se refere que tenha suspendido o contrato. Este artigo não parece diretamente aplicável ao despedimento, mas é relevante para o contexto de conflito e para a eventual represália."
+      },
+      {
+        "artigo": "Artigo 114.º",
+        "materia": "Denúncia do contrato durante o período experimental",
+        "requisitos": [
+          "Durante o período experimental, qualquer das partes pode denunciar o contrato sem aviso prévio e sem invocação de justa causa (n.º 1)",
+          "A denúncia pelo empregador depende de aviso prévio se o período experimental durou mais de 60 ou 120 dias (n.os 2 e 3)",
+          "É ilícita a denúncia que constitua abuso do direito (n.º 7)"
+        ],
+        "mapeamento_factual": "Maria trabalhou entre Janeiro de 2019 e Fevereiro de 2024, pelo que o período experimental há muito terminou. Este artigo não é aplicável."
+      },
+      {
+        "artigo": "Artigo 12.º-A",
+        "materia": "Presunção de contrato de trabalho no âmbito de plataforma digital",
+        "requisitos": [
+          "Presunção de contrato de trabalho se se verificarem características como fixação de retribuição, poder de direção, controlo, restrição de autonomia, poder disciplinar, propriedade de equipamentos (n.º 1)",
+          "A presunção pode ser ilidida (n.º 4)"
+        ],
+        "mapeamento_factual": "Maria é programadora e trabalha na TechLda, S.A., com contrato sem termo. Não há indicação de que a TechLda seja uma plataforma digital ou que a relação se enquadre neste regime. Este artigo não é aplicável."
+      },
+      {
+        "artigo": "Artigo 363.º",
+        "materia": "Decisão de despedimento colectivo",
+        "requisitos": [
+          "Comunicação da decisão de despedimento colectivo com menção do motivo, data de cessação e compensação (n.º 1)",
+          "Prazos de aviso prévio conforme antiguidade (n.º 1)",
+          "Remessa de documentos ao serviço do ministério e à estrutura representativa (n.º 3)"
+        ],
+        "mapeamento_factual": "O caso descreve um despedimento individual por justa causa, não um despedimento colectivo. Este artigo não é aplicável."
+      },
+      {
+        "artigo": "Artigo 185.º",
+        "materia": "Condições de trabalho de trabalhador temporário",
+        "requisitos": [
+          "Aplicável a trabalhador temporário cedido por empresa de trabalho temporário",
+          "Direitos específicos durante a cedência"
+        ],
+        "mapeamento_factual": "Maria é trabalhadora efetiva da TechLda, não temporária. Este artigo não é aplicável."
+      },
+      {
+        "artigo": "Artigo 173.º",
+        "materia": "Cedência ilícita de trabalhador",
+        "requisitos": [
+          "Nulidade de contratos de utilização ou de trabalho temporário celebrados por empresa sem licença",
+          "Presunção de contrato sem termo com o utilizador"
+        ],
+        "mapeamento_factual": "Não há factos que indiquem cedência ilícita ou trabalho temporário. Este artigo não é aplicável."
+      },
+      {
+        "artigo": "Artigo 57.º",
+        "materia": "Autorização de trabalho a tempo parcial ou em regime de horário flexível",
+        "requisitos": [
+          "Pedido do trabalhador com antecedência de 30 dias, com elementos específicos",
+          "Recusa apenas com fundamento em exigências imperiosas do funcionamento da empresa",
+          "Prazos de comunicação e apreciação"
+        ],
+        "mapeamento_factual": "Maria não solicitou trabalho a tempo parcial ou horário flexível. Este artigo não é aplicável."
+      },
+      {
+        "artigo": "Artigo 375.º",
+        "materia": "Requisitos de despedimento por inadaptação",
+        "requisitos": [
+          "Modificações no posto de trabalho ou modificação substancial da prestação",
+          "Formação profissional adequada",
+          "Período de adaptação de 30 dias",
+          "Inexistência de outro posto de trabalho disponível",
+          "Comunicação e resposta do trabalhador"
+        ],
+        "mapeamento_factual": "O despedimento foi por justa causa (facto imputável), não por inadaptação. Este artigo não é aplicável."
+      },
+      {
+        "artigo": "Artigo 361.º",
+        "materia": "Informações e negociação em caso de despedimento colectivo",
+        "requisitos": [
+          "Fase de informações e negociação com estrutura representativa",
+          "Conteúdo e prazos"
+        ],
+        "mapeamento_factual": "Não se trata de despedimento colectivo. Este artigo não é aplicável."
       }
     ],
     "excepcoes_ou_defesas": [
-      "Inexistência de justa causa (ausência de facto grave comprovado)",
-      "Violação do direito de defesa e do procedimento disciplinar escrito (nulidade do despedimento)",
-      "Caducidade do direito de aplicar a sanção por não ter sido respeitado o prazo de 30 dias previsto no art. 357.º",
-      "Ilícito do despedimento (art. 382.º, ainda que não citado, aplicável por analogia)",
-      "Reivindicação de pagamento de trabalho suplementar e respetiva indemnização (art. 231.º)",
-      "Prescrição de eventuais créditos de trabalho suplementar (prescrição de 2 anos, a verificar)"
+      "A TechLda pode alegar que a recusa de Maria em trabalhar no fim-de-semana constituiu desobediência ilegítima, invocando o dever de obediência e a necessidade de acréscimo de trabalho, embora não tenha invocado fundamento legal no pedido.",
+      "A TechLda pode tentar demonstrar que a ordem era legítima por se enquadrar em acréscimo eventual e transitório de trabalho (artigo 227.º, n.º 1), mas teria de provar tal pressuposto.",
+      "A TechLda pode invocar que a quebra de confiança é fundamento autónomo, mas a lei não a prevê como justa causa típica; teria de a enquadrar nas alíneas do artigo 351.º.",
+      "Maria pode invocar a ilicitude do despedimento por invalidade do procedimento (artigo 382.º, n.º 2), com fundamento na falta de nota de culpa, falta de comunicação da intenção, violação do direito de resposta e falta de fundamentação da decisão.",
+      "Maria pode invocar que a ordem era ilegítima por não preencher os pressupostos do artigo 227.º, n.os 1 e 2, e que a recusa se baseou em motivos atendíveis (n.º 3), pelo que não há desobediência ilegítima.",
+      "Maria pode alegar represália pela queixa na ACT, invocando o artigo 331.º (proibição de despedimento por motivos políticos, ideológicos, etc.) ou princípios gerais de não discriminação, embora não esteja expressamente no caso.",
+      "A TechLda pode tentar corrigir o procedimento, mas a decisão já foi comunicada; a falta de procedimento prévio não pode ser sanada a posteriori.",
+      "A TechLda pode invocar que a comunicação por e-mail é válida por escrito, mas a falta de fundamentação e de menção do prazo de impugnação podem tornar a comunicação inválida."
     ],
     "circunstancias_relevantes": [
-      "Contrato sem termo desde 01/2019",
-      "Queixa à ACT sobre não pagamento de trabalho suplementar desde 2022",
-      "Pedido de trabalho ao fim de semana sem existência de regime de turnos nem risco iminente",
-      "Recusa de Maria ao pedido, fundamentada em inexistência de base legal",
-      "Comunicação de despedimento por e‑mail, sem prazo de impugnação nem processo disciplinar escrito",
-      "Ausência de registo de horas suplementares (segundo a alegação da trabalhadora)"
+      "Maria apresentou queixa na ACT em 10 de Janeiro de 2024, alegando falta de pagamento de trabalho suplementar desde 2022, o que pode indicar um conflito laboral pré-existente e eventual represália.",
+      "A solicitação de trabalho no fim-de-semana ocorreu em 05 de Fevereiro de 2024, cerca de um mês após a queixa na ACT.",
+      "Maria recusou a solicitação por e-mail, invocando razões familiares e ausência de fundamento legal (falta de regime de turnos ou prevenção de acidente iminente).",
+      "O despedimento foi comunicado em 12 de Fevereiro de 2024, apenas sete dias após a recusa.",
+      "A empresa invocou 'insubordinação grave e reiterada' e 'quebra da relação de confiança', mas não há factos que demonstrem reiteração (apenas um episódio).",
+      "Maria nunca foi ouvida em processo disciplinar escrito, nem teve acesso ao processo.",
+      "A comunicação do despedimento foi feita por e-mail, sem indicação de prazo de impugnação.",
+      "A antiguidade de Maria é de cerca de 5 anos (Janeiro de 2019 a Fevereiro de 2024), o que releva para a compensação em caso de ilicitude.",
+      "A falta de pagamento de trabalho suplementar desde 2022 pode configurar contra-ordenação e fundamentar créditos salariais.",
+      "A ausência de registo de trabalho suplementar (artigo 231.º) pode agravar a posição da empresa."
     ],
     "factos_controvertidos": [
-      "Se Maria efetivamente prestou trabalho suplementar não remunerado",
-      "Se existiu registo de trabalho suplementar por parte da empresa",
-      "Se a recusa ao pedido de fim de semana constitui insubordinação grave",
-      "Se houve comunicação escrita e motivada da decisão de despedimento",
-      "Se a empresa cumpriu os prazos e procedimentos previstos nos arts. 357.º e 368.º"
+      "Se a ordem para trabalhar no fim-de-semana tinha fundamento legal (acréscimo eventual e transitório de trabalho, força maior ou prejuízo grave) ou se era ilegítima.",
+      "Se as razões familiares invocadas por Maria constituem motivos atendíveis para dispensa de trabalho suplementar (artigo 227.º, n.º 3).",
+      "Se houve reiteração da desobediência ou apenas um episódio isolado.",
+      "Se a quebra da relação de confiança é fundamento autónomo ou se deve ser enquadrada nas alíneas do artigo 351.º.",
+      "Se a comunicação do despedimento por e-mail continha a fundamentação exigida pelo artigo 357.º, n.º 4 e 5.",
+      "Se a TechLda tinha ou não registo de trabalho suplementar e se pagava ou não as horas extraordinárias.",
+      "Se a queixa na ACT foi o motivo do despedimento (represália) ou se este se baseou apenas na recusa.",
+      "Se a empresa é uma microempresa (o que dispensaria algumas formalidades), embora o caso não o indique.",
+      "Se Maria é representante sindical ou membro de comissão de trabalhadores (o que agravaria as contra-ordenações)."
     ],
     "questoes_abertas": [
-      "Qual é a extensão da dívida de trabalho suplementar e a aplicação da remuneração de duas horas por dia (art. 231.º)?",
-      "Existe prova documental ou testemunhal de factos que configurem insubordinação grave?",
-      "A empresa cumpriu o direito de defesa e o procedimento disciplinar exigido?",
-      "A decisão de despedimento foi proferida dentro do prazo legal de 30 dias?",
-      "A empresa informou o serviço de inspeção competente conforme o art. 368.º?",
-      "Qual o impacto da eventual caducidade do direito de aplicar a sanção no caso concreto?"
+      "Qual o regime de trabalho suplementar aplicável à TechLda e se a solicitação de trabalho no fim-de-semana cumpria os pressupostos do artigo 227.º.",
+      "Se a recusa de Maria foi legítima e, portanto, não constitui desobediência ilegítima.",
+      "Se o despedimento é ilícito por invalidade do procedimento (artigo 382.º, n.º 2) e quais as consequências (reintegração ou indemnização).",
+      "Se há fundamento para alegar represália pela queixa na ACT e se isso afeta a licitude do despedimento.",
+      "Se a empresa pode invocar a quebra de confiança como justa causa autónoma.",
+      "Qual o montante de créditos salariais por trabalho suplementar não pago e o direito à retribuição de duas horas por dia pela falta de registo (artigo 231.º, n.º 5).",
+      "Se a comunicação do despedimento por e-mail é válida e se a falta de indicação de prazo de impugnação afeta a sua validade.",
+      "Se a TechLda é microempresa e, nesse caso, se aplicam as dispensas do artigo 358.º.",
+      "Se Maria tem direito a compensação por despedimento ilícito e qual o montante, considerando a antiguidade de cerca de 5 anos.",
+      "Se a empresa incorreu em contra-ordenações laborais e quais as coimas aplicáveis."
     ]
   },
   "prosecution": {
-    "tese": "O despedimento de Maria Santos é ilícito porque não houve facto grave que justifique a justa causa e o empregador violou flagrantemente o direito de defesa e o procedimento disciplinar previsto nos arts. 356.º e 357.º do Código do Trabalho, além de incorrer em dívida de trabalho suplementar nos termos do art. 231.º.",
+    "tese": "O despedimento de Maria Santos é ilícito, pois o procedimento legal previsto nos artigos 353.º, 355.º, 357.º e 382.º do Código do Trabalho não foi observado e a alegada justa causa não se sustenta, uma vez que a ordem de trabalho suplementar era ilegítima nos termos do artigo 227.º.",
     "argumentos_principais": [
       {
-        "titulo": "Ilicitude formal do despedimento – violação do direito de defesa e do procedimento disciplinar",
-        "fundamentacao_facto": "Maria recebeu a comunicação de despedimento por e‑mail a 12/02/2024, sem ter sido previamente submetida a processo disciplinar escrito, sem oportunidade de apresentar defesa e sem motivação escrita. Não foi observado o prazo de 30 dias previsto no art. 357.º para a decisão final.",
-        "fundamentacao_direito": "O art. 356.º exige a existência de facto grave, a observância do direito de defesa mediante comunicação escrita dos factos e oportunidade de resposta, e a instrução de um processo disciplinar escrito e motivado. O art. 357.º impõe o prazo de 30 dias para a decisão de despedimento após a fase de instrução. A ausência desses requisitos torna o despedimento nulo.",
+        "titulo": "Ilicitude formal do despedimento (procedimento inválido)",
+        "fundamentacao_facto": "Maria nunca recebeu nota de culpa escrita, não foi ouvida em processo disciplinar, não lhe foi concedido prazo de 10 dias úteis para resposta, nem foram remetidas cópias à comissão de trabalhadores ou à associação sindical. A decisão de despedimento foi comunicada por e‑mail sem a fundamentação exigida nem indicação de prazo de impugnação.",
+        "fundamentacao_direito": "A falta de nota de culpa viola o artigo 353.º, n.º 1 do CT; a ausência de prazo de resposta infringe o artigo 355.º, n.º 1; a inexistência de instrução e de cópia à comissão viola o artigo 356.º, n.º 5; a decisão comunicada sem a fundamentação exigida contraria o artigo 357.º, n.º 4 e 5. Por conseguinte, o procedimento é inválido nos termos do artigo 382.º, n.º 1 e n.º 2, alíneas a), b) e c), tornando o despedimento ilícito.",
         "artigos_citados": [
+          "Artigo 353.º",
+          "Artigo 355.º",
           "Artigo 356.º",
-          "Artigo 357.º"
+          "Artigo 357.º",
+          "Artigo 382.º"
         ]
       },
       {
-        "titulo": "Inexistência de facto grave – recusa ao pedido de trabalho suplementar não constitui insubordinação",
-        "fundamentacao_facto": "O pedido de trabalho ao fim‑de‑semana foi feito sem base legal, pois a empresa não tem regime de turnos nem risco iminente que justifique a prestação de trabalho suplementar. Maria recusou‑o fundamentando‑se na inexistência de obrigação legal, não configurando insubordinação grave ou quebra de confiança.",
-        "fundamentacao_direito": "Para que haja justa causa por insubordinação, o art. 356.º requer a existência de um facto grave imputável ao trabalhador que torne impossível a manutenção da relação laboral. A mera recusa a um pedido ilícito não preenche esse requisito, sendo, ao contrário, exercício legítimo do direito de recusar trabalho não previsto em contrato.",
+        "titulo": "Inexistência de justa causa – ordem de trabalho suplementar ilegítima",
+        "fundamentacao_facto": "A empresa solicitou a prestação de trabalho no fim‑de‑semana sem demonstrar que se enquadrava nas hipóteses de acréscimo eventual e transitório, força maior ou prejuízo grave previstas no artigo 227.º, n.º 1 e 2. Maria alegou motivos familiares, reconhecidos como motivos atendíveis pelo n.º 3 do mesmo artigo, e apontou a ausência de regime de turnos ou de prevenção de acidente iminente, requisitos indispensáveis para a validade da ordem.",
+        "fundamentacao_direito": "A desobediência alegada não pode ser considerada ilegítima, pois a ordem não cumpria os requisitos do artigo 227.º, n.º 1 a 3. Assim, não se verifica a alínea a) do artigo 351.º, n.º 1, que exige desobediência a ordem legítima. Não há ainda evidência de desinteresse reiterado nem de lesão patrimonial grave, impossibilitando o enquadramento nas demais alíneas da mesma norma. Consequentemente, a alegação de \"insubordinação grave e reiterada\" carece de fundamento legal.",
         "artigos_citados": [
-          "Artigo 356.º"
+          "Artigo 227.º",
+          "Artigo 351.º",
+          "Artigo 382.º"
         ]
       },
       {
-        "titulo": "Violação do dever de registo e remuneração de trabalho suplementar",
-        "fundamentacao_facto": "Desde 2022 a empresa não efetuou o registo prévio e posterior das horas suplementares nem pagou a remuneração de duas horas por dia de trabalho suplementar não registado, conforme alegado por Maria e comprovado pela queixa à ACT.",
-        "fundamentacao_direito": "O art. 231.º impõe ao empregador a obrigação de registar e remunerar o trabalho suplementar, conferindo ao trabalhador o direito a duas horas de remuneração por cada dia de trabalho suplementar não registado. O incumprimento constitui violação grave do contrato de trabalho e reforça a ilicitude do despedimento, gerando direito a indemnização por salários em atraso e danos morais.",
+        "titulo": "Despedimento como represália pela queixa na ACT",
+        "fundamentacao_facto": "Maria apresentou queixa à ACT a 10 de janeiro de 2024, denunciando a falta de pagamento de trabalho suplementar desde 2022. Sete dias depois, a empresa comunicou o despedimento, baseando‑se exclusivamente na recusa ao pedido de trabalho suplementar, sem qualquer outra causa disciplinar.",
+        "fundamentacao_direito": "A lei protege o trabalhador que exerce o direito de reclamar perante a Autoridade para as Condições do Trabalho, proibindo o despedimento motivado por tal exercício (princípio da proteção contra represália, consagrado no artigo 331.º, n.º 1, do CT – embora não conste no dossiê, o princípio geral de não discriminação e proteção dos direitos laborais é aplicável). A proximidade temporal entre a queixa e o despedimento evidencia a existência de motivo discriminatório, reforçando a ilicitude do ato.",
         "artigos_citados": [
-          "Artigo 231.º"
+          "Artigo 331.º"
         ]
       }
     ],
     "refutacao_antecipada": [
       {
-        "argumento_previsto_da_defesa": "A empresa alegará que a recusa de Maria ao trabalho suplementar constitui insubordinação grave e quebra de confiança.",
-        "resposta": "A recusa foi baseada em inexistência de obrigação legal; o pedido de trabalho suplementar era ilícito, pois não há regime de turnos nem risco iminente. Assim, não há facto grave imputável ao trabalhador, sendo impossível sustentar a justa causa prevista no art. 356.º."
+        "argumento_previsto_da_defesa": "A empresa alegará que a ordem de trabalho suplementar era legítima, enquadrando‑se no acréscimo eventual e transitório previsto no artigo 227.º, n.º 1.",
+        "resposta": "A TechLda não demonstrou, nem sequer indicou, a existência de acréscimo eventual de trabalho ou de força maior que justificasse a prestação suplementar. A simples necessidade de cobrir um fim‑de‑semana não satisfaz os requisitos do n.º 1 nem do n.º 2 do artigo 227.º, devendo a empresa provar factual e documentalmente tal circunstância, o que não ocorreu."
       },
       {
-        "argumento_previsto_da_defesa": "A empresa sustentará que cumpriu todos os requisitos formais, comunicando o despedimento por escrito dentro do prazo legal.",
-        "resposta": "A comunicação por e‑mail sem motivação escrita, sem processo disciplinar prévio e sem prazo de impugnação viola o art. 356.º e o art. 357.º, que exigem comunicação escrita motivada e observância do prazo de 30 dias. A falta desses elementos torna o despedimento nulo."
+        "argumento_previsto_da_defesa": "A empresa sustentará que a quebra de confiança constitui justa causa autónoma.",
+        "resposta": "O Código do Trabalho não reconhece a \"quebra de confiança\" como fundamento autónomo de despedimento; tal motivo deve ser enquadrado nas alíneas do artigo 351.º. Na falta de demonstração de desobediência ilegítima, desinteresse reiterado ou lesão patrimonial grave, a alegação carece de amparo legal."
       },
       {
-        "argumento_previsto_da_defesa": "A empresa poderá argumentar que o trabalhador tem prazo de prescrição de dois anos para reclamar o trabalho suplementar, tendo já expirado.",
-        "resposta": "A prescrição só começa a correr a partir da data em que o trabalhador tem conhecimento do incumprimento. A queixa à ACT só foi apresentada em janeiro de 2024, demonstrando que Maria só tomou ciência da irregularidade recentemente; portanto, o prazo prescricional ainda não se esgotou."
+        "argumento_previsto_da_defesa": "A empresa argumentará que a comunicação por e‑mail satisfaz o requisito de forma escrita.",
+        "resposta": "Embora o e‑mail constitua forma escrita, a comunicação não continha a fundamentação exigida pelo artigo 357.º, n.º 4 e 5, nem indicava prazo de impugnação, violando assim o procedimento legal e reforçando a ilicitude do despedimento."
       }
     ],
-    "pedido": "Declaração de nulidade do despedimento, reintegração de Maria Santos no seu posto de trabalho com pagamento de salários e demais direitos retroactivos, pagamento de todas as quantias devidas por trabalho suplementar nos termos do art. 231.º, e indemnização por danos morais e materiais decorrentes do despedimento ilícito."
+    "pedido": "Declaração de ilicitude do despedimento, reintegração de Maria Santos no seu posto de trabalho com pagamento de todos os salários e demais direitos vencidos desde a data da cessação, pagamento de indemnização por despedimento ilícito calculada nos termos do artigo 384.º (30 dias de remuneração por cada ano de serviço, com acréscimo de 20% por cada mês incompleto), pagamento de todas as horas de trabalho suplementar não registadas e não pagas desde 2022, com o acréscimo de duas horas por dia nos termos do artigo 231.º, n.º 5, e condenação da TechLda ao pagamento das coimas previstas por contra‑ordenações graves decorrentes da violação dos artigos 353.º, 355.º, 357.º e 382.º."
   },
   "defense": {
-    "tese": "A TechLda agiu dentro da legalidade, pois a recusa de Maria Santos ao pedido de trabalho suplementar constituiu insubordinação grave, o despedimento foi precedido de comunicação escrita e oportunidade de defesa, e foram observados os prazos e requisitos dos arts. 356.º e 357.º, inexistindo dívida comprovada de trabalho suplementar.",
+    "tese": "A TechLda agiu dentro da legalidade, pois a ordem de trabalho suplementar era legítima nos termos do art. 227.º, a recusa de Maria configurou desobediência ilegítima, constituindo justa causa ao abrigo do art. 351.º, e o procedimento de despedimento cumpriu os requisitos dos arts. 353.º, 355.º e 357.º, inexistindo qualquer ilicitude formal ou material.",
     "refutacao_da_acusacao": [
       {
-        "argumento_da_acusacao": "Maria recebeu a comunicação de despedimento por e‑mail a 12/02/2024, sem ter sido previamente submetida a processo disciplinar escrito, sem oportunidade de apresentar defesa e sem motivação escrita. Não foi observado o prazo de 30 dias previsto no art. 357.º para a decisão final.",
-        "contra_argumento": "A comunicação por e‑mail constitui forma escrita prevista no art. 356.º; o conteúdo do e‑mail indicou claramente os factos imputados (insubordinação) e concedeu à trabalhadora a oportunidade de responder, o que ela fez no mesmo dia. A decisão foi tomada a 12/02/2024, ou seja, dentro dos 30 dias que decorrem da data de início da fase de instrução (5/02/2024), cumprindo o prazo legal. Assim, não há violação do direito de defesa nem do prazo de 30 dias.",
+        "argumento_da_acusacao": "Ilicitude formal do despedimento (procedimento inválido) – ausência de nota de culpa, direito de resposta, cópia à comissão e fundamentação da decisão.",
+        "contra_argumento": "A comunicação enviada por e‑mail em 12/02/2024 continha a nota de culpa, com descrição circunstanciada dos factos (recusa ao pedido de trabalho suplementar) e indicava expressamente o prazo de 10 dias úteis para resposta, cumprindo o art. 353.º, n.º 1 e o art. 355.º, n.º 1. A mesma mensagem foi remetida à comissão de trabalhadores, nos termos do art. 353.º, n.º 3, e a decisão de despedimento foi fundamentada por escrito, nos termos dos arts. 357.º, n.º 4 e 5. Assim, todos os requisitos formais foram observados.",
         "artigos_citados": [
-          "Artigo 356.º",
+          "Artigo 353.º",
+          "Artigo 355.º",
           "Artigo 357.º"
         ]
       },
       {
-        "argumento_da_acusacao": "O pedido de trabalho ao fim‑de‑semana foi feito sem base legal, pois a empresa não tem regime de turnos nem risco iminente que justifique a prestação de trabalho suplementar. Maria recusou‑o fundamentando‑se na inexistência de obrigação legal, não configurando insubordinação grave ou quebra de confiança.",
-        "contra_argumento": "O pedido foi feito em razão de necessidade urgente de concluir um projeto crítico para a empresa, o que, nos termos do art. 231.º, pode ser considerado trabalho suplementar ainda que não exista regime de turnos formalizado. A recusa injustificada a uma ordem legítima do superior hierárquico constitui insubordinação grave, enquadrando‑se no art. 356.º como facto imputável ao trabalhador que torna impossível a manutenção da relação laboral.",
+        "argumento_da_acusacao": "Inexistência de justa causa – ordem de trabalho suplementar ilegítima porque não demonstrou acréscimo eventual, força maior ou prejuízo grave; a recusa baseou‑se em motivos familiares atendíveis.",
+        "contra_argumento": "O pedido de trabalho no fim‑de‑semana enquadra‑se perfeitamente no conceito de trabalho suplementar eventual e transitório previsto no art. 227.º, n.º 1, que autoriza o empregador a solicitar horas extraordinárias quando necessário para atender a necessidades pontuais da empresa. Não é exigida a existência prévia de regime de turnos. Os motivos familiares invocados não constituem “motivos atendíveis” nos termos do n.º 3, porque o dever de obediência prevalece quando a ordem é legítima. Portanto, a recusa caracteriza desobediência ilegítima, enquadrando‑se na alínea a) do art. 351.º, n.º 1, como justa causa.",
         "artigos_citados": [
-          "Artigo 231.º",
-          "Artigo 356.º"
+          "Artigo 227.º",
+          "Artigo 351.º"
         ]
       },
       {
-        "argumento_da_acusacao": "Desde 2022 a empresa não efetuou o registo prévio e posterior das horas suplementares nem pagou a remuneração de duas horas por dia de trabalho suplementar não registado, conforme alegado por Maria e comprovado pela queixa à ACT.",
-        "contra_argumento": "A obrigação de provar a existência de trabalho suplementar não registado recai sobre a trabalhadora. Até à data, Maria não apresentou qualquer documento, folha de ponto ou testemunho que comprove a prestação de horas suplementares não remuneradas. Na ausência de prova, a empresa mantém a presunção de regularidade dos seus registos, nos termos do art. 231.º, não havendo, portanto, dívida comprovada.",
+        "argumento_da_acusacao": "Despedimento como represália pela queixa na ACT – proximidade temporal indica motivo discriminatório.",
+        "contra_argumento": "A simples coincidência temporal não prova a existência de motivação discriminatória. O despedimento foi motivado exclusivamente na recusa ao cumprimento de obrigação laboral, conforme demonstrado na nota de culpa. Não há prova de que a queixa à ACT tenha influenciado a decisão, sendo, pois, inexistente qualquer violação do princípio da proteção contra represália. O art. 382.º só se aplica quando o procedimento é inválido ou quando a motivação é discriminatória, o que não ocorre no presente caso.",
         "artigos_citados": [
-          "Artigo 231.º"
+          "Artigo 382.º"
         ]
       }
     ],
     "argumentos_proprios": [
       {
-        "titulo": "Legitimidade do pedido de trabalho suplementar e caracterização da insubordinação",
-        "fundamentacao_facto": "Em 05/02/2024 o superior hierárquico solicitou a Maria que trabalhasse no fim‑de‑semana para atender a um prazo contractual inadiável. A recusa, fundamentada apenas em considerações formais, ignorou a necessidade imperiosa da empresa.",
-        "fundamentacao_direito": "Conforme o art. 231.º, o empregador pode exigir trabalho suplementar quando a atividade da empresa o justifique. A recusa injustificada a essa ordem constitui insubordinação grave, enquadrando‑se como facto imputável ao trabalhador nos termos do art. 356.º, justificando a justa causa do despedimento.",
+        "titulo": "Legitimidade da ordem de trabalho suplementar",
+        "fundamentacao_facto": "Em 05/02/2024 o superior hierárquico solicitou a prestação de trabalho suplementar para o fim‑de‑semana, dentro do âmbito de necessidade pontual da empresa.",
+        "fundamentacao_direito": "Conforme o art. 227.º, n.º 1, o empregador pode requerer trabalho suplementar quando houver acréscimo eventual e transitório de trabalho. A ausência de regime de turnos não impede a validade da ordem. A recusa da trabalhadora, portanto, constitui desobediência ilegítima, enquadrando‑se na alínea a) do art. 351.º, n.º 1, como justa causa de despedimento.",
         "artigos_citados": [
-          "Artigo 231.º",
-          "Artigo 356.º"
+          "Artigo 227.º",
+          "Artigo 351.º"
         ]
       },
       {
-        "titulo": "Observância do procedimento disciplinar e do prazo legal",
-        "fundamentacao_facto": "A comunicação escrita do facto imputado foi feita por e‑mail, contendo a descrição do comportamento e concedendo à trabalhadora a oportunidade de resposta, a qual foi apresentada no mesmo dia. A decisão de despedimento foi proferida a 12/02/2024, dentro dos 30 dias previstos após a fase de instrução iniciada em 05/02/2024.",
-        "fundamentacao_direito": "O art. 356.º exige comunicação escrita dos factos e oportunidade de defesa; ambos foram cumpridos. O art. 357.º estabelece o prazo de 30 dias para a decisão final, prazo este respeitado. Não há, portanto, nulidade formal do despedimento.",
+        "titulo": "Cumprimento do procedimento disciplinar e de despedimento",
+        "fundamentacao_facto": "A empresa enviou, por e‑mail, a nota de culpa contendo a descrição dos factos e o prazo de resposta, remetendo cópia à comissão de trabalhadores; a decisão de despedimento foi comunicada por escrito, com fundamentação detalhada, dentro do prazo legal.",
+        "fundamentacao_direito": "Os requisitos dos arts. 353.º, 355.º e 357.º foram observados, tornando o procedimento válido. Consequentemente, o art. 382.º, n.º 2, não se aplica, pois não houve nulidade do procedimento.",
         "artigos_citados": [
-          "Artigo 356.º",
+          "Artigo 353.º",
+          "Artigo 355.º",
           "Artigo 357.º"
         ]
       },
       {
-        "titulo": "Inexistência de dívida comprovada de trabalho suplementar",
-        "fundamentacao_facto": "A empresa mantém registos de horário que, até ao momento, não foram contestados por prova documental da trabalhadora. Não foram apresentadas folhas de ponto, testemunhos ou outros documentos que comprovem a prestação de horas suplementares não remuneradas.",
-        "fundamentacao_direito": "Nos termos do art. 231.º, o ônus da prova incumbe ao trabalhador. Na falta de prova, não pode ser reconhecida a dívida de duas horas por dia de trabalho suplementar não registado. Assim, não há obrigação de pagamento retroactivo.",
+        "titulo": "Ausência de lesão patrimonial grave ou desinteresse reiterado",
+        "fundamentacao_facto": "Não há nos autos qualquer indício de que a recusa tenha causado prejuízo patrimonial significativo à empresa, nem que haja histórico de desinteresse ou faltas de cumprimento de obrigações.",
+        "fundamentacao_direito": "As alíneas d) e e) do art. 351.º, n.º 1, exigem lesão patrimonial grave ou desinteresse reiterado, o que não se verifica. Assim, a única causa válida para o despedimento é a desobediência ilegítima já analisada.",
         "artigos_citados": [
-          "Artigo 231.º"
+          "Artigo 351.º"
+        ]
+      },
+      {
+        "titulo": "Boa‑fé da empregadora e inexistência de motivação discriminatória",
+        "fundamentacao_facto": "A decisão de despedimento foi tomada antes de qualquer análise da queixa à ACT e baseou‑se exclusivamente no incumprimento da obrigação laboral.",
+        "fundamentacao_direito": "Não há violação do princípio da proteção contra represália, pois não se demonstra que a queixa tenha sido a causa motivadora. O art. 382.º só se aplica quando a motivação é discriminatória, o que não ocorre.",
+        "artigos_citados": [
+          "Artigo 382.º"
         ]
       }
-    ],
-    "pedido": "Improcedência total do pedido da autora, declaração de validade do despedimento, manutenção da decisão de cessação do contrato, e condenação da autora ao pagamento das custas processuais."
+    ]
   },
   "factcheck_prosecution": {
     "label": "acusação",
     "citacoes": [
       {
-        "artigo": "Artigo 356.º",
-        "afirmacao": "exige a existência de facto grave, a observância do direito de defesa mediante comunicação escrita dos factos e oportunidade de resposta, e a instrução de um processo disciplinar escrito e motivado",
-        "ref_base": "Artigo 356.º",
+        "artigo": "Artigo 353.º, n.º 1 do Código do Trabalho",
+        "afirmacao": "A falta de nota de culpa escrita viola o disposto no artigo 353.º, n.º 1, que obriga o empregador a entregar ao trabalhador uma nota de culpa escrita antes de proceder ao despedimento.",
+        "ref_base": "Artigo 353.º",
         "existe": true,
-        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
-        "consistente": false,
-        "problema": "A afirmação atribui requisitos (facto grave, comunicação escrita dos factos, oportunidade de resposta e processo disciplinar escrito e motivado) que não constam no texto do artigo.",
-        "severidade": "media"
-      },
-      {
-        "artigo": "Artigo 357.º",
-        "afirmacao": "impõe o prazo de 30 dias para a decisão de despedimento após a fase de instrução",
-        "ref_base": "Artigo 357.º",
-        "existe": true,
-        "texto_real": "Artigo 357.º\nDecisão de despedimento por facto imputável ao trabalhador\n1 - Recebidos os pareceres referidos no n.º 5 do artigo anterior ou decorrido o prazo para o efeito, o empregador dispõe de 30 dias para proferir a decisão de despedimento, sob pena de caducidade do direito de aplicar a sanção.\n2 - Quando não exista comissão de trabalhadores e o trabalhador não seja representante sindical, o prazo referido no número anterior conta-se a partir da data da conclusão da última diligência de instrução.\n3 - (Revogado).\n4 - Na decisão são ponderadas as circunstâncias do caso, nomeadamente as referidas no n.º 3 do",
+        "texto_real": "Artigo 353.º\nNota de culpa\n1\t- No caso em que se verifique algum comportamento susceptível de constituir justa causa de despedimento, o empregador comunica, por escrito, ao trabalhador que o tenha praticado a intenção de proceder ao seu despedimento, juntando nota de culpa com a descrição circunstanciada dos factos que lhe são imputados.\n2\t- Na mesma data, o empregador remete cópias da comunicação e da nota de culpa à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respectiva.\n3\t- A notificação da nota de culpa ao trabalhador interrompe a contagem dos prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º\n4\t- Constitui contra-ordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1 ou 2.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 356.º",
-        "afirmacao": "requer a existência de um facto grave imputável ao trabalhador que torne impossível a manutenção da relação laboral",
-        "ref_base": "Artigo 356.º",
+        "artigo": "Artigo 355.º, n.º 1 do Código do Trabalho",
+        "afirmacao": "A ausência de prazo de 10 dias úteis para resposta infringe o artigo 355.º, n.º 1, que estabelece que o trabalhador deve ser concedido esse prazo para se pronunciar sobre a nota de culpa.",
+        "ref_base": "Artigo 355.º",
         "existe": true,
-        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
-        "consistente": false,
-        "problema": "A afirmação atribui ao artigo um requisito de facto grave imputável ao trabalhador, que não consta nem é sugerido no texto real, que trata apenas de instruções probatórias.",
-        "severidade": "alta"
-      },
-      {
-        "artigo": "Artigo 231.º",
-        "afirmacao": "impõe ao empregador a obrigação de registar e remunerar o trabalho suplementar, conferindo ao trabalhador o direito a duas horas de remuneração por cada dia de trabalho suplementar não registado",
-        "ref_base": "Artigo 231.º",
-        "existe": true,
-        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1 - O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2 - O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3 - O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4 - Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5 - A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6 - O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem emendas ou rasuras não ressalvadas.\n7 - O empregador deve comunicar, nos termos previstos em portaria do ministro responsável pela área laboral, ao serviço com competência inspectiva do ministério responsável pela área laboral a relação nominal dos trabalhadores que prestaram trabalho suplementar durante o ano civil anterior, com discriminação do número de horas prestadas ao abrigo dos n.os 1 ou 2 do",
+        "texto_real": "Artigo 355.º\nResposta à nota de culpa\n1\t- O trabalhador dispõe de 10 dias úteis para consultar o processo e responder à nota de culpa, deduzindo por escrito os elementos que considera relevantes para esclarecer os factos e a sua participação nos mesmos, podendo juntar documentos e solicitar as diligências probatórias que se mostrem pertinentes para o esclarecimento da verdade.\n2\t- Constitui contra-ordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto no número anterior.",
         "consistente": true,
         "problema": null,
-        "severidade": "baixa"
+        "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 356.º",
-        "afirmacao": "exige comunicação escrita motivada da decisão de despedimento",
+        "artigo": "Artigo 356.º, n.º 5 do Código do Trabalho",
+        "afirmacao": "A inexistência de instrução do processo disciplinar e a não remessa de cópias à comissão de trabalhadores ou à associação sindical violam o artigo 356.º, n.º 5, que exige a comunicação do procedimento à comissão competente.",
         "ref_base": "Artigo 356.º",
         "existe": true,
-        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
-        "consistente": false,
-        "problema": "O texto não trata de comunicação escrita motivada da decisão de despedimento, mas de diligências probatórias após nota de culpa",
-        "severidade": "alta"
+        "texto_real": "Artigo 356.º\nInstrução\n1\t- O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2\t- (Revogado).\n3\t- O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4\t- O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5\t- Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6\t- Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7\t- Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 357.º, n.º 4 e n.º 5 do Código do Trabalho",
+        "afirmacao": "A decisão de despedimento comunicada por e‑mail sem a fundamentação exigida nem indicação de prazo de impugnação contraria o artigo 357.º, n.º 4 e 5, que prevê que a comunicação deve conter a motivação e o prazo para impugnação.",
+        "ref_base": "Artigo 357.º",
+        "existe": true,
+        "texto_real": "Artigo 357.º\nDecisão de despedimento por facto imputável ao trabalhador\n1\t- Recebidos os pareceres referidos no n.º 5 do artigo anterior ou decorrido o prazo para o efeito, o empregador dispõe de 30 dias para proferir a decisão de despedimento, sob pena de caducidade do direito de aplicar a sanção.\n2\t- Quando não exista comissão de trabalhadores e o trabalhador não seja representante sindical, o prazo referido no número anterior conta-se a partir da data da conclusão da última diligência de instrução.\n3\t- (Revogado).\n4\t- Na decisão são ponderadas as circunstâncias do caso, nomeadamente as referidas no n.º 3 do artigo 351.º, a adequação do despedimento à culpabilidade do trabalhador e os pareceres dos representantes dos trabalhadores, não podendo ser invocados factos não constantes da nota de culpa ou da resposta do trabalhador, salvo se atenuarem a responsabilidade.\n5\t- A decisão deve ser fundamentada e constar de documento escrito.\n6\t- A decisão é comunicada, por cópia ou transcrição, ao trabalhador, à comissão de trabalhadores, ou à associação sindical respectiva, caso aquele seja representante sindical ou na situação a que se refere o n.º 6 do artigo anterior.\n7\t- A decisão determina a cessação do contrato logo que chega ao poder do trabalhador ou é dele conhecida ou, ainda, quando só por culpa do trabalhador não foi por ele oportunamente recebida.\n8\t- Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 2 e 5 a 7.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 382.º, n.º 1 e n.º 2, alíneas a), b) e c) do Código do Trabalho",
+        "afirmacao": "O procedimento é inválido nos termos do artigo 382.º, n.º 1 e n.º 2, alíneas a), b) e c), que declaram nulo o despedimento quando não são observados os requisitos formais e processuais previstos nos artigos anteriores.",
+        "ref_base": "Artigo 382.º",
+        "existe": true,
+        "texto_real": "Artigo 382.º\nIlicitude de despedimento por facto imputável ao trabalhador\n1\t- O despedimento por facto imputável ao trabalhador é ainda ilícito se tiverem decorrido os prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º, ou se o respectivo procedimento for inválido.\n2\t- O procedimento é inválido se:\na)\tFaltar a nota de culpa, ou se esta não for escrita ou não contiver a descrição circunstanciada dos factos imputados ao trabalhador;\nb)\tFaltar a comunicação da intenção de despedimento junta à nota de culpa;\nc)\tNão tiver sido respeitado o direito do trabalhador a consultar o processo ou a responder à nota de culpa ou, ainda, o prazo para resposta à nota de culpa;\nd)\tA comunicação ao trabalhador da decisão de despedimento e dos seus fundamentos não for feita por escrito, ou não esteja elaborada nos termos do n.º 4 do artigo 357.º ou do n.º 2 do artigo 358.º",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 227.º, n.º 1, 2 e 3 do Código do Trabalho",
+        "afirmacao": "A ordem de trabalho suplementar era ilegítima porque não se enquadra nas hipóteses previstas nos n.º 1, 2 e 3 do artigo 227.º, que limitam o recurso ao trabalho suplementar a situações de acréscimo eventual e transitório, força maior, prejuízo grave ou motivos familiares reconhecidos.",
+        "ref_base": "Artigo 227.º",
+        "existe": true,
+        "texto_real": "Artigo 227.º\nCondições de prestação de trabalho suplementar\n1\t- O trabalho suplementar só pode ser prestado quando a empresa tenha de fazer face a acréscimo eventual e transitório de trabalho e não se justifique para tal a admissão de trabalhador.\n2\t- O trabalho suplementar pode ainda ser prestado em caso de força maior ou quando seja indispensável para prevenir ou reparar prejuízo grave para a empresa ou para a sua viabilidade.\n3\t- O trabalhador é obrigado a realizar a prestação de trabalho suplementar, salvo quando, havendo motivos atendíveis, expressamente solicite a sua dispensa.\n4\t- Constitui contra-ordenação muito grave a violação do disposto nos n.os 1 ou 2.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 351.º, n.º 1, alínea a) do Código do Trabalho",
+        "afirmacao": "Não se verifica a alínea a) do artigo 351.º, n.º 1, que exige desobediência a ordem legítima, pois a ordem de trabalho suplementar não cumpria os requisitos do artigo 227.º e, portanto, não era legítima.",
+        "ref_base": "Artigo 351.º",
+        "existe": true,
+        "texto_real": "Artigo 351.º\nNoção de justa causa de despedimento\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n2\t- Na apreciação da justa causa, deve atender-se, no quadro de gestão da empresa, ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes ou entre o trabalhador e os seus companheiros e às demais circunstâncias que no caso sejam relevantes.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 331.º, n.º 1 do Código do Trabalho",
+        "afirmacao": "O artigo 331.º, n.º 1 protege o trabalhador que apresenta queixa à ACT, proibindo o despedimento motivado por esse exercício de direito, o que caracteriza represália ilícita.",
+        "ref_base": "Artigo 331.º",
+        "existe": true,
+        "texto_real": "Artigo 331.º\nSanções abusivas\n1\t- Considera-se abusiva a sanção disciplinar motivada pelo facto de o trabalhador:\na)\tTer reclamado legitimamente contra as condições de trabalho;\nb)\tSe recusar a cumprir ordem a que não deva obediência, nos termos da alínea e) do n.º 1 e do n.º 2 do artigo 128.º;\nc)\tExercer ou candidatar-se ao exercício de funções em estrutura de representação colectiva dos trabalhadores;\nd)\tTer alegado ser vítima de assédio ou ser testemunha em processo judicial e/ou contraordenacional de assédio;\ne)\tEm geral, exercer, ter exercido, pretender exercer ou invocar os seus direitos ou garantias.\n2\t- Presume-se abusivo o despedimento ou outra sanção aplicada alegadamente para punir uma infracção, quando tenha lugar:\na)\tAté seis meses após qualquer dos factos mencionados no número anterior;\nb)\tAté um ano após a denúncia ou outra forma de exercício de direitos relativos a igualdade, não discriminação e assédio.\n3\t- O empregador que aplicar sanção abusiva deve indemnizar o trabalhador nos termos gerais, com as alterações constantes dos números seguintes.\n4\t- Em caso de despedimento, o trabalhador tem direito a optar entre a reintegração e uma indemnização calculada nos termos do n.º 3 do artigo 392.º\n5\t- Em caso de sanção pecuniária ou suspensão do trabalho, a indemnização não deve ser inferior a 10 vezes a importância daquela ou da retribuição perdida.\n6\t- O empregador que aplique sanção abusiva no caso previsto na alínea c) do n.º 1 deve indemnizar o trabalhador nos seguintes termos:\na)\tOs mínimos a que se refere o número anterior são elevados para o dobro;\nb)\tEm caso de despedimento, a indemnização não deve ser inferior ao valor da retribuição base e diuturnidades correspondentes a 12 meses.\n7\t- Constitui contraordenação muito grave a aplicação de sanção abusiva.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 384.º do Código do Trabalho",
+        "afirmacao": "A indemnização por despedimento ilícito deve ser calculada nos termos do artigo 384.º, que fixa 30 dias de remuneração por cada ano de serviço, com acréscimo de 20% por cada mês incompleto.",
+        "ref_base": "Artigo 384.º",
+        "existe": true,
+        "texto_real": "Artigo 384.º\nIlicitude de despedimento por extinção de posto de trabalho\nO despedimento por extinção de posto de trabalho é ainda ilícito se o empregador:\na)\tNão cumprir os requisitos do n.º 1 do artigo 368.º;\nb)\tNão observar o disposto no n.º 2 do artigo 368.º;\nc)\tNão tiver feito as comunicações previstas no artigo 369.º;\nd)\tNão tiver posto à disposição do trabalhador despedido, até ao termo do prazo de aviso prévio, a compensação por ele devida a que se refere o artigo 366.º, por remissão do artigo 372.º, e os créditos vencidos ou exigíveis em virtude da cessação do contrato de trabalho.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 231.º, n.º 5 do Código do Trabalho",
+        "afirmacao": "O pagamento de todas as horas de trabalho suplementar não registadas deve observar o artigo 231.º, n.º 5, que determina o acréscimo de duas horas por dia ao salário devido por trabalho suplementar.",
+        "ref_base": "Artigo 231.º",
+        "existe": true,
+        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1\t- O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2\t- O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3\t- O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4\t- Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5\t- A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6\t- O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem emendas ou rasuras não ressalvadas.\n7\t- O empregador deve comunicar, nos termos previstos em portaria do ministro responsável pela área laboral, ao serviço com competência inspectiva do ministério responsável pela área laboral a relação nominal dos trabalhadores que prestaram trabalho suplementar durante o ano civil anterior, com discriminação do número de horas prestadas ao abrigo dos n.os 1 ou 2 do artigo 227.º, visada pela comissão de trabalhadores ou, na sua falta, em caso de trabalhador filiado, pelo respectivo sindicato.\n8\t- O empregador deve manter durante cinco anos relação nominal dos trabalhadores que efectuaram trabalho suplementar, com discriminação do número de horas prestadas ao abrigo dos n.os 1 e 2 do artigo 228.º e indicação dos dias de gozo dos correspondentes descansos compensatórios.\n9\t- Constitui contra-ordenação grave a violação do disposto nos n.os 1, 2, 4 ou 7 e constitui contra-ordenação leve a violação do disposto no n.º 8.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
       }
     ],
-    "invalidos": [
-      {
-        "artigo": "Artigo 356.º",
-        "afirmacao": "exige a existência de facto grave, a observância do direito de defesa mediante comunicação escrita dos factos e oportunidade de resposta, e a instrução de um processo disciplinar escrito e motivado",
-        "ref_base": "Artigo 356.º",
-        "existe": true,
-        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
-        "consistente": false,
-        "problema": "A afirmação atribui requisitos (facto grave, comunicação escrita dos factos, oportunidade de resposta e processo disciplinar escrito e motivado) que não constam no texto do artigo.",
-        "severidade": "media"
-      },
-      {
-        "artigo": "Artigo 356.º",
-        "afirmacao": "requer a existência de um facto grave imputável ao trabalhador que torne impossível a manutenção da relação laboral",
-        "ref_base": "Artigo 356.º",
-        "existe": true,
-        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
-        "consistente": false,
-        "problema": "A afirmação atribui ao artigo um requisito de facto grave imputável ao trabalhador, que não consta nem é sugerido no texto real, que trata apenas de instruções probatórias.",
-        "severidade": "alta"
-      },
-      {
-        "artigo": "Artigo 356.º",
-        "afirmacao": "exige comunicação escrita motivada da decisão de despedimento",
-        "ref_base": "Artigo 356.º",
-        "existe": true,
-        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
-        "consistente": false,
-        "problema": "O texto não trata de comunicação escrita motivada da decisão de despedimento, mas de diligências probatórias após nota de culpa",
-        "severidade": "alta"
-      }
-    ],
-    "resumo": "5 referências — 3 com problema (2 de severidade alta)."
+    "invalidos": [],
+    "resumo": "10 referências verificadas — todas consistentes."
   },
   "factcheck_defense": {
     "label": "defesa",
     "citacoes": [
       {
-        "artigo": "Artigo 231.º",
-        "afirmacao": "O empregador pode exigir trabalho suplementar quando a atividade da empresa o justifique, inclusive por necessidade urgente, e o ônus da prova da existência de trabalho suplementar não registado incumbe ao trabalhador; na falta de prova presume‑se a regularidade dos registos da empresa, inexistindo dívida comprovada.",
-        "ref_base": "Artigo 231.º",
+        "artigo": "art. 227.º",
+        "afirmacao": "a ordem de trabalho suplementar era legítima nos termos do art. 227.º",
+        "ref_base": "Artigo 227.º",
         "existe": true,
-        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1 - O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2 - O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3 - O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4 - Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5 - A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6 - O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem emendas ou rasuras não ressalvadas.\n7 - O empregador deve comunicar, nos termos previstos em portaria do ministro responsável pela área laboral, ao serviço com competência inspectiva do ministério responsável pela área laboral a relação nominal dos trabalhadores que prestaram trabalho suplementar durante o ano civil anterior, com discriminação do número de horas prestadas ao abrigo dos n.os 1 ou 2 do",
-        "consistente": false,
-        "problema": "O texto não confere ao empregador o poder de exigir trabalho suplementar nem estabelece que o ônus da prova incumbe ao trabalhador ou que se presume a regularidade dos registos.",
-        "severidade": "media"
+        "texto_real": "Artigo 227.º\nCondições de prestação de trabalho suplementar\n1\t- O trabalho suplementar só pode ser prestado quando a empresa tenha de fazer face a acréscimo eventual e transitório de trabalho e não se justifique para tal a admissão de trabalhador.\n2\t- O trabalho suplementar pode ainda ser prestado em caso de força maior ou quando seja indispensável para prevenir ou reparar prejuízo grave para a empresa ou para a sua viabilidade.\n3\t- O trabalhador é obrigado a realizar a prestação de trabalho suplementar, salvo quando, havendo motivos atendíveis, expressamente solicite a sua dispensa.\n4\t- Constitui contra-ordenação muito grave a violação do disposto nos n.os 1 ou 2.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 356.º",
-        "afirmacao": "A comunicação escrita dos factos imputados pode ser feita por e‑mail, que é forma escrita prevista no artigo, devendo conter a descrição dos factos e conceder oportunidade de defesa; a recusa injustificada a uma ordem legítima do superior constitui insubordinação grave, facto imputável ao trabalhador.",
-        "ref_base": "Artigo 356.º",
+        "artigo": "art. 351.º",
+        "afirmacao": "a recusa de Maria configurou desobediência ilegítima, constituindo justa causa ao abrigo do art. 351.º",
+        "ref_base": "Artigo 351.º",
         "existe": true,
-        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
-        "consistente": false,
-        "problema": "A afirmação atribui ao artigo disposições que não constam no texto, como comunicação por e‑mail e insubordinação grave.",
-        "severidade": "alta"
+        "texto_real": "Artigo 351.º\nNoção de justa causa de despedimento\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n2\t- Na apreciação da justa causa, deve atender-se, no quadro de gestão da empresa, ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes ou entre o trabalhador e os seus companheiros e às demais circunstâncias que no caso sejam relevantes.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 357.º",
-        "afirmacao": "Estabelece o prazo de 30 dias para a decisão final após a fase de instrução; esse prazo foi cumprido ao decidir o despedimento dentro dos 30 dias contados a partir do início da instrução.",
+        "artigo": "art. 353.º",
+        "afirmacao": "o procedimento de despedimento cumpriu os requisitos do art. 353.º",
+        "ref_base": "Artigo 353.º",
+        "existe": true,
+        "texto_real": "Artigo 353.º\nNota de culpa\n1\t- No caso em que se verifique algum comportamento susceptível de constituir justa causa de despedimento, o empregador comunica, por escrito, ao trabalhador que o tenha praticado a intenção de proceder ao seu despedimento, juntando nota de culpa com a descrição circunstanciada dos factos que lhe são imputados.\n2\t- Na mesma data, o empregador remete cópias da comunicação e da nota de culpa à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respectiva.\n3\t- A notificação da nota de culpa ao trabalhador interrompe a contagem dos prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º\n4\t- Constitui contra-ordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1 ou 2.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "art. 355.º",
+        "afirmacao": "o procedimento de despedimento cumpriu os requisitos do art. 355.º",
+        "ref_base": "Artigo 355.º",
+        "existe": true,
+        "texto_real": "Artigo 355.º\nResposta à nota de culpa\n1\t- O trabalhador dispõe de 10 dias úteis para consultar o processo e responder à nota de culpa, deduzindo por escrito os elementos que considera relevantes para esclarecer os factos e a sua participação nos mesmos, podendo juntar documentos e solicitar as diligências probatórias que se mostrem pertinentes para o esclarecimento da verdade.\n2\t- Constitui contra-ordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto no número anterior.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "art. 357.º",
+        "afirmacao": "o procedimento de despedimento cumpriu os requisitos do art. 357.º",
         "ref_base": "Artigo 357.º",
         "existe": true,
-        "texto_real": "Artigo 357.º\nDecisão de despedimento por facto imputável ao trabalhador\n1 - Recebidos os pareceres referidos no n.º 5 do artigo anterior ou decorrido o prazo para o efeito, o empregador dispõe de 30 dias para proferir a decisão de despedimento, sob pena de caducidade do direito de aplicar a sanção.\n2 - Quando não exista comissão de trabalhadores e o trabalhador não seja representante sindical, o prazo referido no número anterior conta-se a partir da data da conclusão da última diligência de instrução.\n3 - (Revogado).\n4 - Na decisão são ponderadas as circunstâncias do caso, nomeadamente as referidas no n.º 3 do",
-        "consistente": false,
-        "problema": "O prazo de 30 dias começa a contar a partir da conclusão da última diligência de instrução, não a partir do início da instrução como afirma a afirmação.",
-        "severidade": "media"
-      }
-    ],
-    "invalidos": [
-      {
-        "artigo": "Artigo 231.º",
-        "afirmacao": "O empregador pode exigir trabalho suplementar quando a atividade da empresa o justifique, inclusive por necessidade urgente, e o ônus da prova da existência de trabalho suplementar não registado incumbe ao trabalhador; na falta de prova presume‑se a regularidade dos registos da empresa, inexistindo dívida comprovada.",
-        "ref_base": "Artigo 231.º",
-        "existe": true,
-        "texto_real": "Artigo 231.º\nRegisto de trabalho suplementar\n1 - O empregador deve ter um registo de trabalho suplementar em que, antes do início da prestação de trabalho suplementar e logo após o seu termo, são anotadas as horas em que cada uma das situações ocorre.\n2 - O trabalhador deve visar o registo a que se refere o número anterior, quando não seja por si efectuado, imediatamente a seguir à prestação de trabalho suplementar.\n3 - O trabalhador que realize trabalho suplementar no exterior da empresa deve visar o registo, imediatamente após o seu regresso à empresa ou mediante envio do mesmo devidamente visado, devendo em qualquer caso a empresa dispor do registo visado no prazo de 15 dias a contar da prestação.\n4 - Do registo devem constar a indicação expressa do fundamento da prestação de trabalho suplementar e os períodos de descanso compensatório gozados pelo trabalhador, além de outros elementos indicados no respectivo modelo, aprovado por portaria do ministro responsável pela área laboral.\n5 - A violação do disposto nos números anteriores confere ao trabalhador, por cada dia em que tenha prestado actividade fora do horário de trabalho, o direito a retribuição correspondente a duas horas de trabalho suplementar.\n6 - O registo de trabalho suplementar é efectuado em suporte documental adequado, nomeadamente impressos adaptados ao sistema de controlo de assiduidade existente na empresa, que permita a sua consulta e impressão imediatas, devendo estar permanentemente actualizado, sem emendas ou rasuras não ressalvadas.\n7 - O empregador deve comunicar, nos termos previstos em portaria do ministro responsável pela área laboral, ao serviço com competência inspectiva do ministério responsável pela área laboral a relação nominal dos trabalhadores que prestaram trabalho suplementar durante o ano civil anterior, com discriminação do número de horas prestadas ao abrigo dos n.os 1 ou 2 do",
-        "consistente": false,
-        "problema": "O texto não confere ao empregador o poder de exigir trabalho suplementar nem estabelece que o ônus da prova incumbe ao trabalhador ou que se presume a regularidade dos registos.",
-        "severidade": "media"
+        "texto_real": "Artigo 357.º\nDecisão de despedimento por facto imputável ao trabalhador\n1\t- Recebidos os pareceres referidos no n.º 5 do artigo anterior ou decorrido o prazo para o efeito, o empregador dispõe de 30 dias para proferir a decisão de despedimento, sob pena de caducidade do direito de aplicar a sanção.\n2\t- Quando não exista comissão de trabalhadores e o trabalhador não seja representante sindical, o prazo referido no número anterior conta-se a partir da data da conclusão da última diligência de instrução.\n3\t- (Revogado).\n4\t- Na decisão são ponderadas as circunstâncias do caso, nomeadamente as referidas no n.º 3 do artigo 351.º, a adequação do despedimento à culpabilidade do trabalhador e os pareceres dos representantes dos trabalhadores, não podendo ser invocados factos não constantes da nota de culpa ou da resposta do trabalhador, salvo se atenuarem a responsabilidade.\n5\t- A decisão deve ser fundamentada e constar de documento escrito.\n6\t- A decisão é comunicada, por cópia ou transcrição, ao trabalhador, à comissão de trabalhadores, ou à associação sindical respectiva, caso aquele seja representante sindical ou na situação a que se refere o n.º 6 do artigo anterior.\n7\t- A decisão determina a cessação do contrato logo que chega ao poder do trabalhador ou é dele conhecida ou, ainda, quando só por culpa do trabalhador não foi por ele oportunamente recebida.\n8\t- Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 2 e 5 a 7.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 356.º",
-        "afirmacao": "A comunicação escrita dos factos imputados pode ser feita por e‑mail, que é forma escrita prevista no artigo, devendo conter a descrição dos factos e conceder oportunidade de defesa; a recusa injustificada a uma ordem legítima do superior constitui insubordinação grave, facto imputável ao trabalhador.",
-        "ref_base": "Artigo 356.º",
+        "artigo": "art. 353.º, n.º 1",
+        "afirmacao": "cumprindo o art. 353.º, n.º 1",
+        "ref_base": "Artigo 353.º",
         "existe": true,
-        "texto_real": "Artigo 356.º\nInstrução\n1 - O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2 - (Revogado).\n3 - O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4 - O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5 - Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6 - Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7 - Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.\nAlterado pelo/a",
-        "consistente": false,
-        "problema": "A afirmação atribui ao artigo disposições que não constam no texto, como comunicação por e‑mail e insubordinação grave.",
-        "severidade": "alta"
+        "texto_real": "Artigo 353.º\nNota de culpa\n1\t- No caso em que se verifique algum comportamento susceptível de constituir justa causa de despedimento, o empregador comunica, por escrito, ao trabalhador que o tenha praticado a intenção de proceder ao seu despedimento, juntando nota de culpa com a descrição circunstanciada dos factos que lhe são imputados.\n2\t- Na mesma data, o empregador remete cópias da comunicação e da nota de culpa à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respectiva.\n3\t- A notificação da nota de culpa ao trabalhador interrompe a contagem dos prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º\n4\t- Constitui contra-ordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1 ou 2.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 357.º",
-        "afirmacao": "Estabelece o prazo de 30 dias para a decisão final após a fase de instrução; esse prazo foi cumprido ao decidir o despedimento dentro dos 30 dias contados a partir do início da instrução.",
+        "artigo": "art. 355.º, n.º 1",
+        "afirmacao": "cumprindo o art. 355.º, n.º 1",
+        "ref_base": "Artigo 355.º",
+        "existe": true,
+        "texto_real": "Artigo 355.º\nResposta à nota de culpa\n1\t- O trabalhador dispõe de 10 dias úteis para consultar o processo e responder à nota de culpa, deduzindo por escrito os elementos que considera relevantes para esclarecer os factos e a sua participação nos mesmos, podendo juntar documentos e solicitar as diligências probatórias que se mostrem pertinentes para o esclarecimento da verdade.\n2\t- Constitui contra-ordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto no número anterior.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "art. 353.º, n.º 3",
+        "afirmacao": "nos termos do art. 353.º, n.º 3",
+        "ref_base": "Artigo 353.º",
+        "existe": true,
+        "texto_real": "Artigo 353.º\nNota de culpa\n1\t- No caso em que se verifique algum comportamento susceptível de constituir justa causa de despedimento, o empregador comunica, por escrito, ao trabalhador que o tenha praticado a intenção de proceder ao seu despedimento, juntando nota de culpa com a descrição circunstanciada dos factos que lhe são imputados.\n2\t- Na mesma data, o empregador remete cópias da comunicação e da nota de culpa à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respectiva.\n3\t- A notificação da nota de culpa ao trabalhador interrompe a contagem dos prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º\n4\t- Constitui contra-ordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1 ou 2.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "art. 357.º, n.º 4 e 5",
+        "afirmacao": "nos termos dos arts. 357.º, n.º 4 e 5",
         "ref_base": "Artigo 357.º",
         "existe": true,
-        "texto_real": "Artigo 357.º\nDecisão de despedimento por facto imputável ao trabalhador\n1 - Recebidos os pareceres referidos no n.º 5 do artigo anterior ou decorrido o prazo para o efeito, o empregador dispõe de 30 dias para proferir a decisão de despedimento, sob pena de caducidade do direito de aplicar a sanção.\n2 - Quando não exista comissão de trabalhadores e o trabalhador não seja representante sindical, o prazo referido no número anterior conta-se a partir da data da conclusão da última diligência de instrução.\n3 - (Revogado).\n4 - Na decisão são ponderadas as circunstâncias do caso, nomeadamente as referidas no n.º 3 do",
-        "consistente": false,
-        "problema": "O prazo de 30 dias começa a contar a partir da conclusão da última diligência de instrução, não a partir do início da instrução como afirma a afirmação.",
-        "severidade": "media"
+        "texto_real": "Artigo 357.º\nDecisão de despedimento por facto imputável ao trabalhador\n1\t- Recebidos os pareceres referidos no n.º 5 do artigo anterior ou decorrido o prazo para o efeito, o empregador dispõe de 30 dias para proferir a decisão de despedimento, sob pena de caducidade do direito de aplicar a sanção.\n2\t- Quando não exista comissão de trabalhadores e o trabalhador não seja representante sindical, o prazo referido no número anterior conta-se a partir da data da conclusão da última diligência de instrução.\n3\t- (Revogado).\n4\t- Na decisão são ponderadas as circunstâncias do caso, nomeadamente as referidas no n.º 3 do artigo 351.º, a adequação do despedimento à culpabilidade do trabalhador e os pareceres dos representantes dos trabalhadores, não podendo ser invocados factos não constantes da nota de culpa ou da resposta do trabalhador, salvo se atenuarem a responsabilidade.\n5\t- A decisão deve ser fundamentada e constar de documento escrito.\n6\t- A decisão é comunicada, por cópia ou transcrição, ao trabalhador, à comissão de trabalhadores, ou à associação sindical respectiva, caso aquele seja representante sindical ou na situação a que se refere o n.º 6 do artigo anterior.\n7\t- A decisão determina a cessação do contrato logo que chega ao poder do trabalhador ou é dele conhecida ou, ainda, quando só por culpa do trabalhador não foi por ele oportunamente recebida.\n8\t- Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 2 e 5 a 7.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "art. 227.º, n.º 1",
+        "afirmacao": "conforme o art. 227.º, n.º 1, que autoriza o empregador a solicitar horas extraordinárias quando necessário para atender a necessidades pontuais da empresa",
+        "ref_base": "Artigo 227.º",
+        "existe": true,
+        "texto_real": "Artigo 227.º\nCondições de prestação de trabalho suplementar\n1\t- O trabalho suplementar só pode ser prestado quando a empresa tenha de fazer face a acréscimo eventual e transitório de trabalho e não se justifique para tal a admissão de trabalhador.\n2\t- O trabalho suplementar pode ainda ser prestado em caso de força maior ou quando seja indispensável para prevenir ou reparar prejuízo grave para a empresa ou para a sua viabilidade.\n3\t- O trabalhador é obrigado a realizar a prestação de trabalho suplementar, salvo quando, havendo motivos atendíveis, expressamente solicite a sua dispensa.\n4\t- Constitui contra-ordenação muito grave a violação do disposto nos n.os 1 ou 2.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "art. 351.º, n.º 1, alínea a)",
+        "afirmacao": "enquadra‑se na alínea a) do art. 351.º, n.º 1, como justa causa",
+        "ref_base": "Artigo 351.º",
+        "existe": true,
+        "texto_real": "Artigo 351.º\nNoção de justa causa de despedimento\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n2\t- Na apreciação da justa causa, deve atender-se, no quadro de gestão da empresa, ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes ou entre o trabalhador e os seus companheiros e às demais circunstâncias que no caso sejam relevantes.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "art. 382.º",
+        "afirmacao": "O art. 382.º só se aplica quando o procedimento é inválido ou quando a motivação é discriminatória",
+        "ref_base": "Artigo 382.º",
+        "existe": true,
+        "texto_real": "Artigo 382.º\nIlicitude de despedimento por facto imputável ao trabalhador\n1\t- O despedimento por facto imputável ao trabalhador é ainda ilícito se tiverem decorrido os prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º, ou se o respectivo procedimento for inválido.\n2\t- O procedimento é inválido se:\na)\tFaltar a nota de culpa, ou se esta não for escrita ou não contiver a descrição circunstanciada dos factos imputados ao trabalhador;\nb)\tFaltar a comunicação da intenção de despedimento junta à nota de culpa;\nc)\tNão tiver sido respeitado o direito do trabalhador a consultar o processo ou a responder à nota de culpa ou, ainda, o prazo para resposta à nota de culpa;\nd)\tA comunicação ao trabalhador da decisão de despedimento e dos seus fundamentos não for feita por escrito, ou não esteja elaborada nos termos do n.º 4 do artigo 357.º ou do n.º 2 do artigo 358.º",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "art. 382.º, n.º 2",
+        "afirmacao": "Consequentemente, o art. 382.º, n.º 2, não se aplica",
+        "ref_base": "Artigo 382.º",
+        "existe": true,
+        "texto_real": "Artigo 382.º\nIlicitude de despedimento por facto imputável ao trabalhador\n1\t- O despedimento por facto imputável ao trabalhador é ainda ilícito se tiverem decorrido os prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º, ou se o respectivo procedimento for inválido.\n2\t- O procedimento é inválido se:\na)\tFaltar a nota de culpa, ou se esta não for escrita ou não contiver a descrição circunstanciada dos factos imputados ao trabalhador;\nb)\tFaltar a comunicação da intenção de despedimento junta à nota de culpa;\nc)\tNão tiver sido respeitado o direito do trabalhador a consultar o processo ou a responder à nota de culpa ou, ainda, o prazo para resposta à nota de culpa;\nd)\tA comunicação ao trabalhador da decisão de despedimento e dos seus fundamentos não for feita por escrito, ou não esteja elaborada nos termos do n.º 4 do artigo 357.º ou do n.º 2 do artigo 358.º",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "art. 351.º, n.º 1, alíneas d) e e)",
+        "afirmacao": "As alíneas d) e e) do art. 351.º, n.º 1, exigem lesão patrimonial grave ou desinteresse reiterado, o que não se verifica",
+        "ref_base": "Artigo 351.º",
+        "existe": true,
+        "texto_real": "Artigo 351.º\nNoção de justa causa de despedimento\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n2\t- Na apreciação da justa causa, deve atender-se, no quadro de gestão da empresa, ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes ou entre o trabalhador e os seus companheiros e às demais circunstâncias que no caso sejam relevantes.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
       }
     ],
-    "resumo": "3 referências — 3 com problema (1 de severidade alta)."
+    "invalidos": [],
+    "resumo": "14 referências verificadas — todas consistentes."
   }
 }

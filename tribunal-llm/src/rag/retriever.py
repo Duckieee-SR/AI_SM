@@ -1,140 +1,164 @@
 """Funções de recuperação de artigos do Código do Trabalho."""
 import re
 from typing import List, Dict, Optional
+from pathlib import Path
 
-import chromadb
-from sentence_transformers import SentenceTransformer
+from config import CHROMA_DIR, CHROMA_COLLECTION, DATA_DIR
+from src.rag.parser import carregar_grafo, No, CONCEITOS_JURIDICOS
+from src.rag.hybrid import construir_indice, busca_hibrida
+from src.rag.reranker import rerank
 
-from config import CHROMA_DIR, CHROMA_COLLECTION, EMBEDDING_MODEL
-
-_model = None
 _client = None
 _collection = None
-_REF_RE = re.compile(r"(\d+)\.?\s*º(?:-([A-Z]))?")
+_nos_grafo: dict[str, No] = {}
+_hybrid_ready = False
 
 def _get_resources():
-    """Carrega o modelo e a coleção uma única vez (singleton)."""
-    global _model, _client, _collection
-    if _model is None:
-        _model = SentenceTransformer(EMBEDDING_MODEL)
+    global _client, _collection
     if _client is None:
+        import chromadb
         _client = chromadb.PersistentClient(path=str(CHROMA_DIR))
         _collection = _client.get_collection(CHROMA_COLLECTION)
-    return _model, _collection
+    return _collection
 
+def _ensure_hybrid():
+    global _hybrid_ready, _nos_grafo
+    if _hybrid_ready:
+        return
+    _nos_grafo = carregar_grafo(DATA_DIR / "grafo.json")
+    
+    artigos = [{"id": n.id, "texto": n.texto} for n in _nos_grafo.values() if n.tipo == "artigo"]
+    construir_indice(artigos)
+    _hybrid_ready = True
+
+def _get_artigo_by_base(base_ref: str) -> Optional[dict]:
+    """Vai buscar o texto de um artigo ao Chroma dado o seu nome (ex: 'Artigo 351.º')."""
+    collection = _get_resources()
+    try:
+        result = collection.get(where={"artigo": base_ref}, limit=1)
+        if result["ids"]:
+            return {
+                "artigo": base_ref,
+                "texto": result["documents"][0],
+                "distancia": 0.0,
+                "referencias": result["metadatas"][0].get("referencias", "").split("|") if result["metadatas"][0].get("referencias") else [],
+            }
+    except Exception:
+        pass
+    return None
 
 def search_articles(query: str, k: int = 5) -> List[Dict[str, str]]:
-    """
-    Devolve os k artigos mais relevantes para a query.
-    Retorna lista de {'artigo': ..., 'texto': ..., 'distancia': ...}.
-    """
-    model, collection = _get_resources()
-    query_emb = model.encode(query).tolist()
+    _ensure_hybrid()
+    ids = busca_hibrida(query, k=k)
+    collection = _get_resources()
+    results = collection.get(ids=ids)
+    
+    hits_dict = {}
+    for i, no_id in enumerate(ids):
+        if no_id in results["ids"]:
+            idx = results["ids"].index(no_id)
+            meta = results["metadatas"][idx]
+            hits_dict[no_id] = {
+                "artigo": meta["artigo"],
+                "texto": results["documents"][idx],
+                "distancia": float(i),
+                "referencias": meta.get("referencias", "").split("|") if meta.get("referencias") else [],
+                "origem": "semantica",
+            }
+    return [hits_dict[i] for i in ids if i in hits_dict]
 
-    results = collection.query(
-        query_embeddings=[query_emb],
-        n_results=k,
-        include=["documents", "metadatas", "distances"],
-    )
+def search_with_references(query: str, k: int = 8, max_nos: int = 15) -> List[Dict[str, str]]:
+    _ensure_hybrid()
+    
+    # 1. Injeção de Ontologia (Domain Ontology Injection)
+    # Lê a query e força a entrada dos artigos associados aos conceitos detetados.
+    query_lower = query.lower()
+    injetados = []
+    for conceito, artigos in CONCEITOS_JURIDICOS.items():
+        if conceito in query_lower:
+            for num in artigos:
+                base_ref = f"Artigo {num}.º"
+                if not any(h["artigo"] == base_ref for h in injetados):
+                    art = _get_artigo_by_base(base_ref)
+                    if art:
+                        art["origem"] = "conceito"
+                        injetados.append(art)
 
-    hits = []
-    for doc, meta, dist in zip(
-        results["documents"][0],
-        results["metadatas"][0],
-        results["distances"][0],
-    ):
-        refs_str = meta.get("referencias", "") or ""
-        hits.append({
-            "artigo": meta["artigo"],
-            "texto": doc,
-            "distancia": round(dist, 4),
-            "referencias": refs_str.split("|") if refs_str else [],
-            "origem": "semantica",
-        })
-    return hits
+    # 2. Hits semânticos normais
+    hits_semanticos = search_articles(query, k=k)
+    
+    # 3. Reranking (apenas aos semânticos, para não estragar a ordem)
+    if hits_semanticos:
+        hits_semanticos = rerank(query, hits_semanticos, top_n=k)
+        
+    # 4. Juntar tudo (Conceitos primeiro, depois Semânticos, sem duplicados)
+    hits_iniciais = []
+    vistos = set()
+    for h in injetados + hits_semanticos:
+        if h["artigo"] not in vistos:
+            hits_iniciais.append(h)
+            vistos.add(h["artigo"])
 
-def search_with_references(
-    query: str,
-    k: int = 5,
-    max_expansao: int = 15,
-) -> List[Dict[str, str]]:
-    """
-    Pesquisa semântica + expansão por referências cruzadas (1 hop).
-    - Hits semânticos mantêm a ordem e a distância originais.
-    - Artigos referenciados são acrescentados no fim, com distância 99.0
-      e origem='expansao', para não competirem com os hits reais.
-    """
-    hits_iniciais = search_articles(query, k=k)
-    todos = {h["artigo"]: h for h in hits_iniciais}
+    resultado: dict[str, dict] = {h["artigo"]: h for h in hits_iniciais}
 
-    # Recolher referências ainda não presentes nos hits iniciais
-    refs_a_adicionar: list[str] = []
+    # 5. Travessia no grafo (Apenas Out-links, para evitar explosão)
+    fila = []
     for h in hits_iniciais:
-        for ref in h.get("referencias", []):
-            if ref in todos or ref in refs_a_adicionar:
-                continue
-            if len(refs_a_adicionar) >= max_expansao:
+        for no in _nos_grafo.values():
+            if no.tipo == "artigo" and no.artigo_base == h["artigo"]:
+                fila.append(no.id)
                 break
-            refs_a_adicionar.append(ref)
-        if len(refs_a_adicionar) >= max_expansao:
-            break
 
-    # Adicionar cada artigo referenciado (usa get_article, que já existe)
-    for ref in refs_a_adicionar:
-        art = get_article(ref)
-        if not art:
+    visitados = set(fila)
+    while fila and len(resultado) < max_nos:
+        no_id = fila.pop(0)
+        no = _nos_grafo.get(no_id)
+        if not no:
             continue
-        refs_str = ""  # não expandimos 2 hops por omissão
-        todos[ref] = {
-            "artigo": art["artigo"],
-            "texto": art["texto"],
-            "distancia": 99.0,
-            "referencias": refs_str.split("|") if refs_str else [],
-            "origem": "expansao",
-        }
+        
+        for ref_id in no.referencias:
+            if len(resultado) >= max_nos: # Respeitar o limite!
+                break
+            if ref_id in visitados:
+                continue
+            visitados.add(ref_id)
+            ref_no = _nos_grafo.get(ref_id)
+            
+            if ref_no and ref_no.tipo == "artigo":
+                if ref_no.artigo_base not in resultado:
+                    resultado[ref_no.artigo_base] = {
+                        "artigo": ref_no.artigo_base,
+                        "texto": ref_no.texto,
+                        "distancia": 99.0,
+                        "referencias": ref_no.referencias,
+                        "origem": "expansao",
+                    }
+                fila.append(ref_id)
 
-    return list(todos.values())
+    return list(resultado.values())
 
-
+# --- Funções utilitárias (mantêm-se iguais) ---
+_REF_RE = re.compile(r"(\d+)\.?\s*º")
 def extract_article_refs(text: str) -> list[str]:
-    """
-    Extrai referências base 'Artigo N.º' (com sub-letra opcional) de qualquer string.
-      "Artigo 382.º, n.º 2, alínea a)"    -> ["Artigo 382.º"]
-      "Artigos 331.º e 391.º"             -> ["Artigo 331.º", "Artigo 391.º"]
-      "Artigo 101.º-G"                    -> ["Artigo 101.º-G"]
-    """
-    matches = _REF_RE.findall(text)
+    nums = _REF_RE.findall(text)
     seen, refs = set(), []
-    for n, letra in matches:
-        ref = f"Artigo {n}.º" + (f"-{letra}" if letra else "")
+    for n in nums:
+        ref = f"Artigo {n}.º"
         if ref not in seen:
             seen.add(ref)
             refs.append(ref)
     return refs
 
 def get_article(article_ref: str) -> Optional[dict]:
-    """
-    Devolve {'artigo': ..., 'texto': ...} se o artigo existir, None se não.
-    Usa correspondência exacta pelo metadado; fallback semântico.
-    """
-    _, collection = _get_resources()
-    ref = article_ref.strip()
-    if not ref.lower().startswith("artigo"):
-        ref = f"Artigo {ref}"
-
-    try:
-        result = collection.get(where={"artigo": ref}, limit=1)
-        if result["ids"]:
-            return {"artigo": ref, "texto": result["documents"][0]}
-    except Exception:
-        pass
-
-    hits = search_articles(ref, k=3)
+    art = _get_artigo_by_base(article_ref)
+    if art:
+        return {"artigo": art["artigo"], "texto": art["texto"]}
+    
+    hits = search_articles(article_ref, k=3)
     for h in hits:
-        if h["artigo"].lower() == ref.lower():
+        if h["artigo"].lower() == article_ref.lower():
             return {"artigo": h["artigo"], "texto": h["texto"]}
     return None
-
 
 def article_exists(article_ref: str) -> bool:
     return get_article(article_ref) is not None
