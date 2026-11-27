@@ -2,518 +2,675 @@
   "dossier": {
     "artigos_aplicaveis": [
       {
+        "artigo": "Artigo 112.º",
+        "materia": "Duração do período experimental",
+        "requisitos": [
+          "Contrato a termo certo com duração igual ou superior a seis meses: período experimental de 30 dias (n.º 2, alínea a)).",
+          "O período experimental pode ser reduzido ou excluído em função de anterior contrato a termo, contrato de trabalho temporário, prestação de serviços ou estágio profissional para a mesma atividade, celebrados pelo mesmo empregador (n.º 4).",
+          "A duração do período experimental pode ser reduzida por instrumento de regulamentação coletiva de trabalho ou por acordo escrito entre as partes (n.º 7).",
+          "A antiguidade do trabalhador conta-se desde o início do período experimental (n.º 8)."
+        ],
+        "mapeamento_factual": "O contrato tem duração de seis meses (2 de janeiro a 1 de julho de 2024), pelo que o período experimental de 30 dias estipulado está conforme o n.º 2, alínea a). Não há indicação de anterior contrato ou estágio que pudesse reduzir ou excluir o período experimental. O período experimental decorreu em janeiro de 2024, tendo João prestado 20 horas suplementares nesse período."
+      },
+      {
+        "artigo": "Artigo 239.º",
+        "materia": "Casos especiais de duração do período de férias",
+        "requisitos": [
+          "No ano da admissão, o trabalhador tem direito a dois dias úteis de férias por cada mês de duração do contrato, até 20 dias (n.º 1).",
+          "O gozo das férias pode ter lugar após seis meses completos de execução do contrato (n.º 1).",
+          "No caso de a duração do contrato ser inferior a seis meses, o trabalhador tem direito a dois dias úteis de férias por cada mês completo de duração do contrato (n.º 4).",
+          "As férias referidas no número anterior são gozadas imediatamente antes da cessação do contrato, salvo acordo das partes (n.º 5).",
+          "Constitui contra-ordenação grave a violação do disposto nos n.os 1, 4, 5 ou 6 (n.º 7)."
+        ],
+        "mapeamento_factual": "O contrato teve duração de seis meses (2 de janeiro a 1 de julho de 2024), pelo que não é aplicável o n.º 4 (contrato inferior a seis meses), mas sim o n.º 1. João tem direito a dois dias úteis de férias por cada mês de duração do contrato, até 20 dias. Tendo o contrato durado seis meses, teria direito a 12 dias úteis de férias (2 dias x 6 meses). O gozo poderia ocorrer após seis meses completos de execução, ou seja, a partir de 2 de julho de 2024. João gozou 10 dias úteis de férias em agosto de 2024, após o termo do contrato, o que é compatível com o gozo após os seis meses. A empresa atribuiu-lhe 10 dias, mas recusou o pagamento do subsídio de férias. O direito ao subsídio de férias não está expressamente previsto neste artigo, mas decorre do regime geral (artigo 264.º do Código do Trabalho). A violação do direito a férias constitui contra-ordenação grave."
+      },
+      {
+        "artigo": "Artigo 344.º",
+        "materia": "Caducidade de contrato de trabalho a termo certo",
+        "requisitos": [
+          "O contrato caduca no final do prazo estipulado, ou da sua renovação, desde que o empregador ou o trabalhador comunique à outra parte a vontade de o fazer cessar, por escrito, respetivamente, 15 ou 8 dias antes de o prazo expirar (n.º 1).",
+          "Em caso de caducidade por verificação do termo, o trabalhador tem direito a compensação correspondente a 24 dias de retribuição base e diuturnidades por cada ano completo de antiguidade, calculada nos termos do artigo 366.º, salvo se a caducidade decorrer de declaração do trabalhador (n.º 2).",
+          "Constitui contra-ordenação grave a violação do disposto no n.º 2 (n.º 5)."
+        ],
+        "mapeamento_factual": "O contrato caducou em 1 de julho de 2024, sem que a empresa tenha pago qualquer compensação. Não há menção a comunicação prévia de cessação por nenhuma das partes. A compensação é devida, calculada proporcionalmente à antiguidade (seis meses). A falta de pagamento constitui contra-ordenação grave."
+      },
+      {
+        "artigo": "Artigo 394.º",
+        "materia": "Justa causa de resolução do contrato pelo trabalhador",
+        "requisitos": [
+          "Ocorrência de justa causa, podendo o trabalhador fazer cessar imediatamente o contrato (n.º 1).",
+          "Constituem justa causa, nomeadamente: falta culposa de pagamento pontual da retribuição (alínea a)); violação culposa de garantias legais ou convencionais, designadamente a prática de assédio (alínea b)); ofensa à integridade física ou moral, liberdade, honra ou dignidade do trabalhador, punível por lei, incluindo a prática de assédio denunciada ao serviço com competência inspetiva na área laboral, praticada pelo empregador ou seu representante (alínea f)).",
+          "A justa causa é apreciada nos termos do n.º 3 do artigo 351.º, com as necessárias adaptações (n.º 4)."
+        ],
+        "mapeamento_factual": "João foi alvo de expressões humilhantes e vexatórias pelo supervisor hierárquico, em frente aos colegas, ao longo de todo o contrato. Tais comportamentos podem configurar assédio moral (violação culposa de garantias legais) e ofensa à integridade moral e dignidade, punível por lei. João não apresentou queixa formal, mas sofreu de ansiedade e insónia, tendo recorrido a apoio psicológico. Estes factos podem constituir justa causa de resolução do contrato pelo trabalhador. No entanto, o contrato já caducou, pelo que a resolução já não é possível; mas os factos podem fundamentar pedido de indemnização por danos não patrimoniais. A falta de pagamento de horas suplementares e de subsídio de férias também pode constituir justa causa (alínea a) e e))."
+      },
+      {
+        "artigo": "Artigo 396.º",
+        "materia": "Indemnização ou compensação devida ao trabalhador",
+        "requisitos": [
+          "Em caso de resolução do contrato com fundamento em facto previsto no n.º 2 do artigo 394.º, o trabalhador tem direito a indemnização, a determinar entre 15 e 45 dias de retribuição base e diuturnidades por cada ano completo de antiguidade, atendendo ao valor da retribuição e ao grau da ilicitude do comportamento do empregador, não podendo ser inferior a três meses de retribuição base e diuturnidades (n.º 1).",
+          "No caso de fracção de ano de antiguidade, o valor da indemnização é calculado proporcionalmente (n.º 2).",
+          "O valor da indemnização pode ser superior ao que resultaria da aplicação do n.º 1 sempre que o trabalhador sofra danos patrimoniais e não patrimoniais de montante mais elevado (n.º 3).",
+          "No caso de contrato a termo, a indemnização não pode ser inferior ao valor das retribuições vincendas (n.º 4)."
+        ],
+        "mapeamento_factual": "Se João tivesse resolvido o contrato com justa causa (por assédio ou falta de pagamento), teria direito a indemnização. Como o contrato caducou, a indemnização por resolução não é aplicável, mas os danos não patrimoniais sofridos (ansiedade, insónia, apoio psicológico) podem ser ressarcidos com base em responsabilidade civil extracontratual ou contratual. A indemnização por danos não patrimoniais não está limitada pelo artigo 396.º, que se aplica à resolução. A falta de pagamento de horas suplementares e subsídio de férias constitui créditos laborais exigíveis."
+      },
+      {
+        "artigo": "Artigo 366.º",
+        "materia": "Compensação por despedimento colectivo (aplicável por remissão)",
+        "requisitos": [
+          "A compensação prevista no artigo 344.º, n.º 2, é calculada nos termos do artigo 366.º (remissão).",
+          "O valor da retribuição base mensal e diuturnidades não pode ser superior a 20 vezes a retribuição mínima mensal garantida (n.º 2, alínea a)).",
+          "O montante global da compensação não pode ser superior a 12 vezes a retribuição base mensal e diuturnidades ou, quando aplicável, a 240 vezes a retribuição mínima mensal garantida (n.º 2, alínea b)).",
+          "O valor diário de retribuição base e diuturnidades é o resultante da divisão por 30 da retribuição base mensal e diuturnidades (n.º 2, alínea c)).",
+          "Em caso de fração de ano, o montante da compensação é calculado proporcionalmente (n.º 2, alínea d))."
+        ],
+        "mapeamento_factual": "A compensação por caducidade do contrato a termo certo (24 dias de retribuição base e diuturnidades por cada ano completo de antiguidade) deve ser calculada nos termos do artigo 366.º. João tem seis meses de antiguidade (fração de ano), pelo que a compensação é proporcional: 24 dias x (6/12) = 12 dias de retribuição base. A retribuição base mensal é de 1.200 euros, não havendo diuturnidades. O valor diário é 1.200 / 30 = 40 euros. A compensação devida é de 12 x 40 = 480 euros. A empresa não pagou qualquer compensação."
+      },
+      {
         "artigo": "Artigo 351.º",
-        "materia": "Noção de justa causa de despedimento",
+        "materia": "Noção de justa causa de despedimento (aplicável por remissão)",
         "requisitos": [
-          "Comportamento do trabalhador que constitua justa causa",
-          "Designadamente: faltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco (alínea g))",
-          "Na apreciação da justa causa, atender ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes e demais circunstâncias relevantes (n.º 2)"
+          "Na apreciação da justa causa, deve atender-se ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes e às demais circunstâncias relevantes (n.º 2).",
+          "Constituem justa causa de despedimento, nomeadamente, comportamentos do trabalhador como desobediência ilegítima, violação de direitos e garantias, provocação de conflitos, desinteresse, lesão de interesses patrimoniais, falsas declarações, faltas injustificadas, falta de observância de regras de segurança, violências físicas ou injúrias, sequestro, incumprimento de decisão judicial, reduções anormais de produtividade (n.º 1)."
         ],
-        "mapeamento_factual": "Bernardo ausentou-se do trabalho durante 12 dias úteis consecutivos sem justificação. O número de faltas seguidas (12) ultrapassa o limite de 5 faltas seguidas em cada ano civil, preenchendo a alínea g) do n.º 1 do artigo 351.º, independentemente de prejuízo ou risco. A antiguidade de 4 anos e a função de operador de máquinas são circunstâncias a considerar na apreciação da justa causa (n.º 2)."
+        "mapeamento_factual": "Este artigo é aplicável por remissão para a apreciação da justa causa de resolução pelo trabalhador (artigo 394.º, n.º 4). No caso, os comportamentos do empregador (assédio moral) não se enquadram nas alíneas do n.º 1, que se referem a comportamentos do trabalhador, mas a remissão é para os critérios de apreciação. A gravidade dos factos e o carácter das relações entre as partes são relevantes para avaliar a justa causa de resolução. Não há factos que indiquem justa causa de despedimento por parte do trabalhador."
       },
       {
-        "artigo": "Artigo 353.º",
-        "materia": "Nota de culpa",
+        "artigo": "Artigo 554.º",
+        "materia": "Valores das coimas",
         "requisitos": [
-          "Comunicação escrita ao trabalhador da intenção de proceder ao despedimento",
-          "Junção de nota de culpa com descrição circunstanciada dos factos imputados",
-          "Remessa de cópias da comunicação e da nota de culpa à comissão de trabalhadores e, se aplicável, à associação sindical (n.º 2)",
-          "A notificação da nota de culpa interrompe a contagem dos prazos do artigo 329.º (n.º 3)"
+          "A cada escalão de gravidade das contra-ordenações laborais corresponde uma coima variável em função do volume de negócios da empresa e do grau de culpa do infractor (n.º 1).",
+          "Os limites mínimo e máximo das coimas correspondentes a contra-ordenação leve, grave e muito grave estão fixados nos n.os 2, 3 e 4, em função do volume de negócios.",
+          "O volume de negócios reporta-se ao ano civil anterior ao da prática da infracção (n.º 5)."
         ],
-        "mapeamento_factual": "A empresa pretende instaurar processo disciplinar. Deve comunicar por escrito a intenção de despedimento e juntar nota de culpa com descrição circunstanciada das faltas (12 dias úteis consecutivos). Deve remeter cópias à comissão de trabalhadores, se existir, e à associação sindical se Bernardo for representante sindical. A notificação da nota de culpa interrompe o prazo de prescrição do procedimento disciplinar."
+        "mapeamento_factual": "A empresa tem 120 trabalhadores e dedica-se à construção civil. Não é indicado o volume de negócios. As contra-ordenações aplicáveis são: grave (falta de pagamento de compensação por caducidade, violação do direito a férias, falta de pagamento de horas suplementares) e muito grave (assédio). As coimas variam em função do volume de negócios, que não foi alegado. Se não for indicado, aplicam-se os limites para empresa com volume de negócios igual ou superior a 10.000.000 euros (n.º 8)."
       },
       {
-        "artigo": "Artigo 354.º",
-        "materia": "Suspensão preventiva de trabalhador",
+        "artigo": "Artigo 173.º",
+        "materia": "Cedência ilícita de trabalhador",
         "requisitos": [
-          "Notificação da nota de culpa",
-          "Suspensão preventiva se a presença do trabalhador na empresa se mostrar inconveniente",
-          "Manutenção do pagamento da retribuição durante a suspensão",
-          "Possibilidade de suspensão nos 30 dias anteriores à notificação, com justificação escrita e indícios de factos imputáveis (n.º 2)"
+          "É nulo o contrato de utilização, o contrato de trabalho temporário ou o contrato de trabalho por tempo indeterminado para cedência temporária celebrado por empresa de trabalho temporário não titular de licença (n.º 1).",
+          "No caso previsto no n.º 1, considera-se que o trabalho é prestado ao utilizador em regime de contrato de trabalho sem termo (n.º 3).",
+          "No caso de o trabalhador ser cedido a utilizador por empresa de trabalho temporário licenciada sem que tenha celebrado contrato de trabalho temporário ou contrato de trabalho por tempo indeterminado para cedência temporária, considera-se que o trabalho é prestado à empresa utilizadora em regime de contrato de trabalho sem termo (n.º 5).",
+          "Constitui contra-ordenação muito grave a celebração de contrato de utilização de trabalho temporário por parte de empresa não titular de licença (n.º 7)."
         ],
-        "mapeamento_factual": "A empresa pode suspender preventivamente Bernardo com a notificação da nota de culpa, se a sua presença for inconveniente, mantendo a retribuição. Não há indicação de que a suspensão já tenha ocorrido ou seja necessária."
-      },
-      {
-        "artigo": "Artigo 355.º",
-        "materia": "Resposta à nota de culpa",
-        "requisitos": [
-          "Prazo de 10 dias úteis para o trabalhador consultar o processo e responder por escrito",
-          "Possibilidade de juntar documentos e solicitar diligências probatórias"
-        ],
-        "mapeamento_factual": "Após a notificação da nota de culpa, Bernardo terá 10 dias úteis para responder, podendo juntar documentos e solicitar diligências. A empresa deve respeitar este prazo."
-      },
-      {
-        "artigo": "Artigo 356.º",
-        "materia": "Instrução",
-        "requisitos": [
-          "Realização das diligências probatórias requeridas na resposta, salvo se patentemente dilatórias ou impertinentes (n.º 1)",
-          "Limite de testemunhas: até 3 por facto e 10 no total (n.º 3)",
-          "O trabalhador assegura a comparência das testemunhas que indicar (n.º 4)",
-          "Após a instrução, apresentação de cópia integral do processo à comissão de trabalhadores e, se aplicável, à associação sindical, que podem emitir parecer em 5 dias úteis (n.º 5)",
-          "Possibilidade de o trabalhador comunicar que o parecer é emitido por associação sindical, nos 3 dias úteis após recepção da nota de culpa (n.º 6)"
-        ],
-        "mapeamento_factual": "Se Bernardo requerer diligências probatórias na resposta, a empresa deve realizá-las, salvo se dilatórias ou impertinentes. Deve apresentar cópia do processo à comissão de trabalhadores (se existir) e à associação sindical (se Bernardo for representante sindical ou se este comunicar que o parecer é emitido por associação sindical)."
-      },
-      {
-        "artigo": "Artigo 357.º",
-        "materia": "Decisão de despedimento por facto imputável ao trabalhador",
-        "requisitos": [
-          "Prazo de 30 dias para proferir a decisão, após recebidos os pareceres ou decorrido o prazo para o efeito (n.º 1)",
-          "Se não existir comissão de trabalhadores e o trabalhador não for representante sindical, o prazo conta-se da conclusão da última diligência de instrução (n.º 2)",
-          "Decisão fundamentada, por escrito, ponderando as circunstâncias do caso, a adequação do despedimento à culpabilidade e os pareceres dos representantes (n.º 4)",
-          "Comunicação da decisão ao trabalhador, à comissão de trabalhadores ou à associação sindical, se aplicável (n.º 6)",
-          "A decisão determina a cessação do contrato logo que chega ao poder do trabalhador ou é dele conhecida (n.º 7)"
-        ],
-        "mapeamento_factual": "A empresa deve proferir decisão fundamentada no prazo de 30 dias após a instrução (ou recepção de pareceres). A decisão deve ponderar as circunstâncias (4 anos de antiguidade, 12 dias de faltas) e ser comunicada por escrito a Bernardo e, se aplicável, à comissão de trabalhadores ou associação sindical."
-      },
-      {
-        "artigo": "Artigo 358.º",
-        "materia": "Procedimento em caso de microempresa",
-        "requisitos": [
-          "Aplicável se a empresa for microempresa (menos de 10 trabalhadores) e o trabalhador não for membro de comissão de trabalhadores ou representante sindical",
-          "Dispensa das formalidades dos n.ºs 2 do art. 353.º, 5 do art. 356.º e 1, 2 e 6 do art. 357.º",
-          "Prazos para decisão: 30 dias a contar do termo do prazo de resposta (se não responder) ou da conclusão da última diligência (n.º 3)",
-          "Caducidade do direito de aplicar a sanção se não proferir decisão no prazo (n.º 4)",
-          "Comunicação da decisão ao trabalhador (n.º 5)"
-        ],
-        "mapeamento_factual": "Não há informação sobre a dimensão da empresa. Se for microempresa, aplicam-se regras simplificadas. Caso contrário, aplica-se o procedimento comum."
-      },
-      {
-        "artigo": "Artigo 382.º",
-        "materia": "Ilicitude de despedimento por facto imputável ao trabalhador",
-        "requisitos": [
-          "O despedimento é ilícito se tiverem decorrido os prazos dos n.ºs 1 ou 2 do artigo 329.º (prescrição)",
-          "O despedimento é ilícito se o procedimento for inválido",
-          "Procedimento inválido se: faltar a nota de culpa ou não contiver descrição circunstanciada; faltar a comunicação da intenção de despedimento; não for respeitado o direito de consulta ou resposta ou o prazo; a comunicação da decisão não for escrita ou não estiver elaborada nos termos do n.º 4 do art. 357.º ou n.º 2 do art. 358.º"
-        ],
-        "mapeamento_factual": "A empresa deve observar todos os requisitos procedimentais para evitar a ilicitude. Se não o fizer, o despedimento será ilícito. A norma de ilicitude é aplicável independentemente de o procedimento estar ou não concluído, fundamentando eventual pedido de declaração de ilicitude."
-      },
-      {
-        "artigo": "Artigo 329.º",
-        "materia": "Procedimento disciplinar e prescrição",
-        "requisitos": [
-          "Direito de exercer o poder disciplinar prescreve um ano após a prática da infracção (n.º 1)",
-          "Procedimento disciplinar deve iniciar-se nos 60 dias subsequentes ao conhecimento da infracção pelo empregador (n.º 2)",
-          "Procedimento prescreve decorrido um ano da instauração se o trabalhador não for notificado da decisão final (n.º 3)",
-          "A sanção não pode ser aplicada sem audiência prévia do trabalhador (n.º 6)"
-        ],
-        "mapeamento_factual": "As faltas ocorreram a partir de 1 de outubro. A empresa deve iniciar o procedimento nos 60 dias após ter conhecimento das faltas (provavelmente já decorridos alguns dias). O prazo de prescrição do direito disciplinar é de um ano após a prática da infracção (última falta). A audiência prévia é assegurada pela resposta à nota de culpa."
-      },
-      {
-        "artigo": "Artigo 393.º",
-        "materia": "Regras especiais relativas a contrato de trabalho a termo",
-        "requisitos": [
-          "Aplicável a contrato de trabalho a termo",
-          "Consequências do despedimento ilícito: indemnização ou reintegração"
-        ],
-        "mapeamento_factual": "O contrato de Bernardo é sem termo, pelo que este artigo não é aplicável."
-      },
-      {
-        "artigo": "Artigo 182.º",
-        "materia": "Duração de contrato de trabalho temporário",
-        "requisitos": [
-          "Aplicável a contrato de trabalho temporário"
-        ],
-        "mapeamento_factual": "O contrato de Bernardo é sem termo, não sendo de trabalho temporário. Artigo não aplicável."
-      },
-      {
-        "artigo": "Artigo 144.º",
-        "materia": "Informações relativas a contrato de trabalho a termo",
-        "requisitos": [
-          "Aplicável a contrato de trabalho a termo"
-        ],
-        "mapeamento_factual": "O contrato é sem termo. Artigo não aplicável."
+        "mapeamento_factual": "Não há qualquer indicação de que a empresa seja uma empresa de trabalho temporário ou que tenha havido cedência de trabalhador. O contrato é celebrado diretamente entre a Construções Rápidas, Lda. e João Silva. Este artigo não é aplicável."
       },
       {
         "artigo": "Artigo 178.º",
         "materia": "Duração de contrato de utilização de trabalho temporário",
         "requisitos": [
-          "Aplicável a contrato de utilização de trabalho temporário"
+          "O contrato de utilização de trabalho temporário é celebrado a termo resolutivo, certo ou incerto (n.º 1).",
+          "A duração não pode exceder a duração da causa justificativa nem o limite de dois anos, ou de seis ou 12 meses em casos específicos (n.º 2).",
+          "Considera-se como um único contrato o que seja objecto de renovação (n.º 3).",
+          "No caso de o trabalhador temporário continuar ao serviço do utilizador decorridos 10 dias após a cessação do contrato de utilização sem a celebração de contrato que o fundamente, considera-se que o trabalho passa a ser prestado ao utilizador com base em contrato de trabalho sem termo (n.º 4)."
         ],
-        "mapeamento_factual": "Não aplicável, pois não há contrato de utilização."
+        "mapeamento_factual": "Não há cedência de trabalhador temporário. O contrato é de trabalho a termo certo diretamente com a empresa. Este artigo não é aplicável."
       },
       {
-        "artigo": "Artigo 167.º",
-        "materia": "Duração e cessação do acordo de teletrabalho",
+        "artigo": "Artigo 185.º",
+        "materia": "Condições de trabalho de trabalhador temporário",
         "requisitos": [
-          "Aplicável a acordo de teletrabalho"
+          "O trabalhador temporário pode ser cedido a mais de um utilizador (n.º 1).",
+          "Durante a cedência, o trabalhador está sujeito ao regime aplicável ao utilizador em matéria de modo, lugar, duração do trabalho, segurança e saúde, acesso a equipamentos sociais (n.º 2).",
+          "O utilizador deve elaborar o horário de trabalho e marcar o período de férias (n.º 3).",
+          "O exercício do poder disciplinar cabe à empresa de trabalho temporário (n.º 4).",
+          "O trabalhador tem direito à retribuição mínima de instrumento de regulamentação colectiva aplicável à empresa de trabalho temporário ou ao utilizador, consoante a mais favorável (n.º 5).",
+          "O trabalhador tem direito a férias, subsídios de férias e de Natal, e outras prestações regulares e periódicas a que os trabalhadores do utilizador tenham direito por trabalho igual (n.º 6).",
+          "Constitui contraordenação grave a violação do disposto nos n.os 3, 5, 8 ou 11 e o exercício de poder disciplinar por parte do utilizador (n.º 12)."
         ],
-        "mapeamento_factual": "Não há indicação de teletrabalho. Artigo não aplicável."
+        "mapeamento_factual": "Não há cedência de trabalhador temporário. Este artigo não é aplicável."
       },
       {
-        "artigo": "Artigo 361.º",
-        "materia": "Informações e negociação em caso de despedimento colectivo",
+        "artigo": "Artigo 468.º",
+        "materia": "Crédito de horas e faltas de membro de direcção de associação sindical",
         "requisitos": [
-          "Aplicável a despedimento colectivo"
+          "O membro de direcção de associação sindical tem direito a crédito de horas correspondente a quatro dias de trabalho por mês e a faltas justificadas (n.º 1).",
+          "O número máximo de membros com direito a crédito de horas e faltas sem limitação é determinado em função do número de trabalhadores sindicalizados (n.º 2).",
+          "A direcção da associação sindical deve comunicar ao empregador a identidade dos membros (n.º 6).",
+          "Constitui contra-ordenação muito grave a violação do disposto no n.º 1 (n.º 9)."
         ],
-        "mapeamento_factual": "O caso é de despedimento individual por facto imputável ao trabalhador, não colectivo. Artigo não aplicável."
+        "mapeamento_factual": "Não há qualquer referência a atividade sindical ou a membro de direcção de associação sindical. Este artigo não é aplicável."
+      },
+      {
+        "artigo": "Artigo 184.º",
+        "materia": "Período sem cedência temporária",
+        "requisitos": [
+          "No período em que não se encontre em situação de cedência, o trabalhador contratado por tempo indeterminado pode prestar atividade à empresa de trabalho temporário (n.º 1).",
+          "Durante esse período, tem direito a compensação ou retribuição (n.º 2).",
+          "Constitui contra-ordenação grave a violação do disposto neste artigo (n.º 3)."
+        ],
+        "mapeamento_factual": "Não aplicável, pois não há contrato de trabalho temporário."
+      },
+      {
+        "artigo": "Artigo 183.º",
+        "materia": "Forma e conteúdo de contrato de trabalho por tempo indeterminado para cedência temporária",
+        "requisitos": [
+          "O contrato está sujeito a forma escrita e deve conter menções específicas (n.º 1).",
+          "Um exemplar fica com o trabalhador (n.º 2).",
+          "Na falta de documento escrito ou omissão de menções, considera-se contrato sem termo (n.º 3).",
+          "Constitui contra-ordenação grave a violação de certas alíneas (n.º 4)."
+        ],
+        "mapeamento_factual": "Não aplicável, pois não há cedência temporária."
       }
     ],
     "excepcoes_ou_defesas": [
-      "Justificação das faltas por motivo de doença ou outro motivo legalmente admissível (artigo 351.º, n.º 1, alínea g) exclui faltas justificadas)",
-      "Prescrição do direito disciplinar: se tiver decorrido mais de um ano desde a prática da infracção (artigo 329.º, n.º 1)",
-      "Caducidade do direito de aplicar a sanção por decurso do prazo de 60 dias para iniciar o procedimento (artigo 329.º, n.º 2)",
-      "Nulidade do procedimento por falta de nota de culpa ou de comunicação da intenção de despedimento (artigo 382.º, n.º 2, alíneas a) e b))",
-      "Violação do direito de resposta ou do prazo (artigo 382.º, n.º 2, alínea c))",
-      "Decisão não fundamentada ou não escrita (artigo 382.º, n.º 2, alínea d))",
-      "Possibilidade de o trabalhador invocar que a ausência se deveu a causa imprevisível ou de força maior",
-      "Apreciação da proporcionalidade da sanção face à antiguidade e circunstâncias (artigo 351.º, n.º 2)"
+      "Prescrição dos créditos laborais: o direito ao pagamento de horas suplementares e do subsídio de férias prescreve no prazo de um ano a contar da data de exigibilidade (artigo 337.º do Código do Trabalho). As horas suplementares foram prestadas em janeiro de 2024; o subsídio de férias seria devido após o gozo das férias em agosto de 2024. Considerando a data provável da ação, há risco de prescrição parcial.",
+      "Caducidade do direito de ação: não aplicável diretamente, mas o prazo de prescrição é relevante.",
+      "Cumprimento do período experimental: a empresa pode alegar que as horas suplementares foram prestadas no período experimental, mas tal não afasta o direito à retribuição.",
+      "Justa causa de resolução pelo trabalhador: a empresa pode contestar a gravidade dos comportamentos do supervisor, alegando que não configuram assédio ou ofensa à dignidade.",
+      "Ausência de queixa formal de assédio: a empresa pode alegar que não houve denúncia, mas a lei não exige queixa formal para efeitos de justa causa ou indemnização.",
+      "Prescrição do direito à compensação por caducidade: o prazo é de um ano a contar da cessação (1 de julho de 2024).",
+      "Volume de negócios da empresa: para efeitos de contra-ordenações, a empresa pode não ter volume de negócios conhecido, aplicando-se os limites máximos se não for indicado.",
+      "Boa-fé da empresa: pode alegar desconhecimento ou interpretação errónea da lei quanto ao subsídio de férias e compensação por caducidade, mas a ignorância da lei não aproveita.",
+      "Natureza do contrato: a empresa pode tentar descaracterizar o contrato a termo, mas o motivo justificativo é inválido por falta de indicação do trabalhador substituído e datas, o que pode levar à conversão em contrato sem termo (artigo 147.º do Código do Trabalho)."
     ],
     "circunstancias_relevantes": [
-      "Antiguidade de 4 anos",
-      "Função de operador de máquinas",
-      "Ausência de 12 dias úteis consecutivos sem justificação",
-      "Contrato sem termo",
-      "Necessidade de observar o procedimento disciplinar do artigo 353.º e seguintes",
-      "Prazo de 60 dias para iniciar o procedimento disciplinar após conhecimento da infracção (artigo 329.º, n.º 2)",
-      "Prazo de prescrição do direito disciplinar: um ano após a prática da infracção (artigo 329.º, n.º 1)",
-      "Possibilidade de suspensão preventiva com pagamento de retribuição (artigo 354.º)",
-      "Contra-ordenações aplicáveis em caso de violação de formalidades (artigos 353.º, n.º 4; 355.º, n.º 2; 356.º, n.º 7; 357.º, n.º 8; 358.º, n.º 6)",
-      "Apreciação da justa causa deve atender ao grau de lesão dos interesses do empregador e demais circunstâncias (artigo 351.º, n.º 2)"
+      "O contrato a termo certo tem motivo justificativo inválido: não indica o nome do trabalhador substituído nem as datas da ausência, o que constitui irregularidade formal (artigo 141.º, n.º 1, alínea e) e artigo 147.º do Código do Trabalho).",
+      "A empresa tem 120 trabalhadores, o que a coloca no escalão de 100 a 199 trabalhadores para efeitos de crédito de horas sindicais (não aplicável ao caso).",
+      "O período experimental de 30 dias está conforme a lei para contrato a termo de duração igual ou superior a seis meses.",
+      "As horas suplementares foram prestadas em 10 dias, 20 horas no total, a pedido do supervisor, sem pagamento ou descanso compensatório. O trabalho suplementar em período experimental é permitido, mas sujeito a limites e retribuição.",
+      "O subsídio de férias não foi pago, apesar de a empresa ter atribuído 10 dias de férias. O direito ao subsídio de férias é independente da natureza do contrato.",
+      "A compensação por caducidade não foi paga, apesar de devida nos termos do artigo 344.º, n.º 2.",
+      "O assédio moral foi praticado pelo supervisor hierárquico, em frente aos colegas, com expressões humilhantes e vexatórias, ao longo de todo o contrato.",
+      "João sofreu de ansiedade e insónia, tendo recorrido a apoio psicológico, o que indicia danos não patrimoniais.",
+      "Não houve queixa formal de assédio, mas tal não impede a apreciação dos factos.",
+      "A empresa não indicou o volume de negócios, pelo que, para contra-ordenações, aplicam-se os limites máximos (artigo 554.º, n.º 8).",
+      "O contrato caducou em 1 de julho de 2024, sem comunicação prévia de cessação por nenhuma das partes (não mencionado).",
+      "A antiguidade de João é de seis meses, pelo que a compensação por caducidade é proporcional (12 dias de retribuição base).",
+      "As férias gozadas em agosto de 2024 foram após o termo do contrato, o que é permitido pelo artigo 239.º, n.º 1, pois o gozo pode ter lugar após seis meses completos de execução."
     ],
     "factos_controvertidos": [
-      "Se as faltas foram ou não justificadas (Bernardo não prestou informação)",
-      "Se a empresa é microempresa (para aplicação do artigo 358.º)",
-      "Se existe comissão de trabalhadores ou se Bernardo é representante sindical",
-      "Se a presença de Bernardo na empresa é inconveniente para justificar suspensão preventiva",
-      "Se houve prejuízo ou risco grave para a empresa (embora a alínea g) do n.º 1 do artigo 351.º dispense prejuízo quando o número de faltas é atingido)",
-      "Data exacta do conhecimento das faltas pela empresa para contagem do prazo de 60 dias"
+      "Se as expressões do supervisor configuram assédio moral nos termos do artigo 29.º do Código do Trabalho e se causaram os danos alegados.",
+      "Se houve justa causa de resolução do contrato pelo trabalhador (não exercida, mas relevante para indemnização).",
+      "O volume de negócios da empresa para efeitos de contra-ordenações.",
+      "Se o contrato a termo é válido ou se deve ser convertido em contrato sem termo por falta de indicação do trabalhador substituído e datas da ausência (artigo 147.º).",
+      "Se as horas suplementares foram efetivamente prestadas e se houve acordo ou determinação do supervisor.",
+      "Se o subsídio de férias é devido e em que montante (proporcional ao período de férias gozadas).",
+      "Se a compensação por caducidade é devida e em que montante (12 dias de retribuição base).",
+      "Se os danos não patrimoniais (ansiedade, insónia) estão comprovados e qual o seu montante.",
+      "Se a empresa tinha conhecimento da situação de assédio e não agiu.",
+      "Se o período experimental foi cumprido e se houve trabalho suplementar nesse período."
     ],
     "questoes_abertas": [
-      "Qual a qualificação da ausência: despedimento tácito, caducidade do contrato ou justa causa de despedimento?",
-      "O contrato caducou por abandono do trabalho? (Não há norma expressa de caducidade por abandono; a caducidade do contrato está prevista no artigo 343.º e seguintes, mas não por faltas não justificadas)",
-      "O despedimento tácito é admissível no direito português? (Em regra, não; a cessação do contrato por iniciativa do trabalhador exige declaração de vontade, não sendo a ausência suficiente para presumir despedimento tácito)",
-      "Qual o prazo para instaurar o procedimento disciplinar? (60 dias após conhecimento da infracção, nos termos do artigo 329.º, n.º 2)",
-      "A empresa deve aguardar o decurso de 12 dias úteis para considerar as faltas como justa causa? (A alínea g) exige 5 faltas seguidas ou 10 interpoladas; 12 dias já ultrapassam esse limite)",
-      "É necessário instaurar processo disciplinar ou pode a empresa considerar o contrato caducado? (A caducidade não é automática; o abandono do trabalho não é causa de caducidade prevista na lei, pelo que o despedimento por justa causa é o meio adequado)",
-      "Quais as consequências da não observância do procedimento? (Ilicitude do despedimento, com direito a indemnização ou reintegração, nos termos dos artigos 389.º e 390.º)"
+      "Qual o prazo de prescrição aplicável aos créditos de horas suplementares e subsídio de férias? (um ano, artigo 337.º).",
+      "A falta de indicação do trabalhador substituído e datas da ausência no contrato a termo certo implica a nulidade da estipulação do termo e a conversão em contrato sem termo? (artigo 147.º, n.º 1, alínea c) e n.º 2).",
+      "O trabalhador pode reclamar indemnização por danos não patrimoniais com base em responsabilidade civil extracontratual (artigo 483.º do Código Civil) ou contratual (artigo 798.º do Código Civil)?",
+      "A compensação por caducidade deve ser calculada com base em 24 dias por ano ou proporcionalmente? (artigo 344.º, n.º 2 e artigo 366.º, n.º 2, alínea d)).",
+      "O subsídio de férias é devido proporcionalmente aos dias de férias gozados? (artigo 264.º, n.º 1).",
+      "A empresa pode ser responsabilizada por contra-ordenação muito grave por assédio? (artigo 554.º, n.º 4, e artigo 29.º).",
+      "Qual o montante da coima aplicável, atendendo a que a empresa não indicou o volume de negócios? (artigo 554.º, n.º 8).",
+      "O trabalhador pode optar por indemnização em vez de conversão do contrato sem termo? (artigo 147.º, n.º 3).",
+      "A ausência de queixa formal de assédio impede a apreciação judicial dos factos? (não, mas pode afetar a prova).",
+      "O período experimental de 30 dias é válido face à duração do contrato? (sim, artigo 112.º, n.º 2, alínea a))."
     ]
   },
   "prosecution": {
-    "tese": "O despedimento de Bernardo é ilícito porque, não obstante a ausência de 12 dias úteis possa constituir justa causa objetiva (art. 351.º, n.º 1, al. g)), a verdade é que a empregadora não pode considerar o contrato caducado nem presumir despedimento tácito, devendo instaurar processo disciplinar com observância estrita das formalidades legais. Qualquer despedimento que não siga o procedimento legal é ilícito, nos termos do art. 382.º, n.º 2, al. a) a d). Além disso, a ausência pode ser justificada e a proporcionalidade da sanção deve ser apreciada. Pretende-se, assim, a declaração de ilicitude do despedimento e a reintegração ou indemnização.",
+    "tese": "O contrato a termo certo celebrado com João Silva é nulo por falta de indicação do trabalhador substituído e das datas da ausência, devendo ser convertido em contrato sem termo, com as consequências daí decorrentes. Ainda que assim não se entenda, são devidos créditos laborais por horas suplementares não pagas, subsídio de férias e compensação por caducidade, bem como indemnização por danos não patrimoniais resultantes do assédio moral de que foi vítima.",
     "argumentos_principais": [
       {
-        "titulo": "Ilicitude formal do despedimento por violação do procedimento disciplinar",
-        "fundamentacao_facto": "A empregadora, ao pretender despedir Bernardo, deve obrigatoriamente instaurar processo disciplinar, comunicando-lhe por escrito a intenção de despedimento e entregando nota de culpa com descrição circunstanciada dos factos (art. 353.º, n.º 1). Se não o fizer, ou se omitir alguma formalidade essencial, o despedimento é ilícito. No caso, não consta que tenha sido instaurado qualquer procedimento formal até à data, pelo que qualquer decisão de despedimento sem o cumprimento das formalidades legais é inválida.",
-        "fundamentacao_direito": "O art. 382.º, n.º 2, al. a) a d) do Código do Trabalho estabelece que o despedimento é ilícito se o procedimento for inválido, designadamente por falta de nota de culpa ou de comunicação da intenção de despedimento, por violação do direito de resposta ou do prazo, ou por falta de decisão escrita e fundamentada. A ausência de qualquer um destes requisitos determina a ilicitude do despedimento.",
+        "titulo": "Nulidade do contrato a termo por falta de indicação do trabalhador substituído e das datas da ausência",
+        "fundamentacao_facto": "O contrato de trabalho a termo certo celebrado em 2 de janeiro de 2024 tinha como motivo justificativo a 'substituição de trabalhador ausente', sem que fossem indicados o nome do trabalhador substituído ou as datas da respetiva ausência. Esta omissão impede a verificação da causa justificativa e a determinação da duração previsível da substituição.",
+        "fundamentacao_direito": "Nos termos do artigo 141.º, n.º 1, alínea e), do Código do Trabalho, o contrato a termo está sujeito a forma escrita e deve conter a indicação do motivo justificativo, com menção expressa dos factos que o integram. A alínea e) exige que, no caso de substituição de trabalhador ausente, sejam indicados o nome do trabalhador substituído e as datas de início e termo da ausência. A omissão destes elementos determina a nulidade da estipulação do termo, nos termos do artigo 147.º, n.º 1, alínea c), do Código do Trabalho, convertendo-se o contrato em contrato de trabalho sem termo (artigo 147.º, n.º 2).",
         "artigos_citados": [
-          "Artigo 353.º",
-          "Artigo 382.º"
+          "Artigo 141.º, n.º 1, alínea e)",
+          "Artigo 147.º, n.º 1, alínea c)",
+          "Artigo 147.º, n.º 2"
         ]
       },
       {
-        "titulo": "Inexistência de despedimento tácito ou caducidade do contrato",
-        "fundamentacao_facto": "A empregadora não pode considerar que Bernardo se despediu tacitamente nem que o contrato caducou. A ausência ao trabalho não é causa de caducidade do contrato de trabalho, nem sequer de despedimento tácito, uma vez que a lei não prevê tais figuras. O abandono do trabalho apenas pode fundamentar um despedimento por justa causa, sujeito ao procedimento disciplinar.",
-        "fundamentacao_direito": "O Código do Trabalho não consagra a caducidade do contrato por abandono do trabalho, nem o despedimento tácito. As causas de caducidade estão taxativamente previstas nos artigos 343.º e seguintes, não incluindo a ausência não justificada. O despedimento por facto imputável ao trabalhador exige o respeito pelo procedimento dos artigos 353.º e seguintes, sob pena de ilicitude (art. 382.º).",
+        "titulo": "Direito ao pagamento das horas suplementares prestadas e não remuneradas",
+        "fundamentacao_facto": "Durante o período experimental, em janeiro de 2024, João prestou 20 horas suplementares em 10 dias, a pedido do supervisor, sem que lhe tivesse sido pago qualquer valor ou concedido descanso compensatório. As horas foram efetivamente trabalhadas e não foram compensadas.",
+        "fundamentacao_direito": "O trabalho suplementar confere ao trabalhador o direito à retribuição correspondente, com os acréscimos legais previstos no artigo 268.º do Código do Trabalho (acréscimo de 25% para a primeira hora e de 37,5% para as horas seguintes, salvo regime mais favorável). A prestação de trabalho suplementar no período experimental não afasta este direito, pois o período experimental não suspende a aplicação das normas sobre duração e retribuição do trabalho. A falta de pagamento constitui contra-ordenação grave nos termos do artigo 554.º, n.º 3, do Código do Trabalho.",
         "artigos_citados": [
-          "Artigo 343.º",
-          "Artigo 353.º",
-          "Artigo 382.º"
+          "Artigo 268.º",
+          "Artigo 554.º, n.º 3"
         ]
       },
       {
-        "titulo": "Ausência de justa causa bastante e desproporcionalidade da sanção",
-        "fundamentacao_facto": "Ainda que as faltas possam preencher o número legal (12 dias úteis consecutivos), a justa causa deve ser apreciada globalmente, atendendo ao grau de lesão dos interesses da empregadora, ao carácter das relações entre as partes e demais circunstâncias (art. 351.º, n.º 2). Bernardo tem 4 anos de antiguidade e exerce funções de operador de máquinas; não consta qualquer prejuízo grave para a empregadora. Além disso, a ausência pode ter sido motivada por doença ou outra causa justificativa, que Bernardo poderá invocar em sede de resposta à nota de culpa.",
-        "fundamentacao_direito": "O art. 351.º, n.º 2, impõe a ponderação das circunstâncias na apreciação da justa causa. A alínea g) do n.º 1 do art. 351.º refere que as faltas não justificadas determinam justa causa quando atinjam 5 seguidas ou 10 interpoladas, independentemente de prejuízo, mas tal presunção não é absoluta, devendo atender-se ao caso concreto. A sanção de despedimento deve ser proporcional à culpa do trabalhador (art. 357.º, n.º 4).",
+        "titulo": "Direito ao subsídio de férias proporcional aos dias de férias gozados",
+        "fundamentacao_facto": "João gozou 10 dias úteis de férias em agosto de 2024, após o termo do contrato, atribuídos pela empresa. Esta recusou-se a pagar o respetivo subsídio de férias, alegando que, por se tratar de contrato a termo, não haveria lugar a esse direito.",
+        "fundamentacao_direito": "O direito ao subsídio de férias está previsto no artigo 264.º do Código do Trabalho e é independente da natureza do contrato. O trabalhador tem direito a subsídio de férias proporcional ao período de férias gozado, calculado nos termos do artigo 264.º, n.º 1. A recusa de pagamento constitui violação de norma legal e contra-ordenação grave nos termos do artigo 554.º, n.º 3, do Código do Trabalho. A circunstância de o contrato ter cessado não elimina o direito, pois as férias foram efetivamente gozadas e o subsídio é devido como contrapartida desse período.",
         "artigos_citados": [
-          "Artigo 351.º",
-          "Artigo 357.º"
+          "Artigo 264.º, n.º 1",
+          "Artigo 554.º, n.º 3"
+        ]
+      },
+      {
+        "titulo": "Direito à compensação por caducidade do contrato a termo certo",
+        "fundamentacao_facto": "O contrato caducou em 1 de julho de 2024 e a empresa não pagou qualquer compensação por caducidade, apesar de o contrato ter durado seis meses.",
+        "fundamentacao_direito": "Nos termos do artigo 344.º, n.º 2, do Código do Trabalho, em caso de caducidade por verificação do termo, o trabalhador tem direito a compensação correspondente a 24 dias de retribuição base e diuturnidades por cada ano completo de antiguidade, calculada nos termos do artigo 366.º. Tendo o contrato durado seis meses, a compensação é proporcional: 12 dias de retribuição base (24 dias x 6/12). A retribuição base mensal era de 1.200 euros, pelo que o valor diário é de 40 euros (1.200/30), totalizando 480 euros. A falta de pagamento constitui contra-ordenação grave nos termos do artigo 344.º, n.º 5, do Código do Trabalho.",
+        "artigos_citados": [
+          "Artigo 344.º, n.º 2",
+          "Artigo 366.º, n.º 2, alínea d)",
+          "Artigo 344.º, n.º 5"
+        ]
+      },
+      {
+        "titulo": "Assédio moral e direito a indemnização por danos não patrimoniais",
+        "fundamentacao_facto": "Ao longo de todo o contrato, o supervisor hierárquico dirigiu-se repetidamente a João, em frente aos colegas, chamando-o de 'incompetente', 'lento' e 'inútil', proferindo expressões humilhantes e vexatórias. João sofreu de ansiedade e insónia, tendo recorrido a apoio psicológico. Estes factos configuram assédio moral e ofensa à dignidade do trabalhador.",
+        "fundamentacao_direito": "O assédio moral no local de trabalho é proibido e constitui violação culposa de garantias legais, nos termos do artigo 29.º do Código do Trabalho. A ofensa à integridade moral e à dignidade do trabalhador é ilícita e gera responsabilidade civil. O trabalhador tem direito a indemnização por danos não patrimoniais, com base no artigo 483.º do Código Civil (responsabilidade extracontratual) ou no artigo 798.º do Código Civil (responsabilidade contratual), independentemente de ter apresentado queixa formal. A ausência de queixa não impede a apreciação dos factos, pois o direito à indemnização decorre da violação do dever de respeito e proteção da dignidade do trabalhador (artigo 127.º do Código do Trabalho).",
+        "artigos_citados": [
+          "Artigo 29.º",
+          "Artigo 127.º",
+          "Artigo 483.º do Código Civil",
+          "Artigo 798.º do Código Civil"
         ]
       }
     ],
     "refutacao_antecipada": [
       {
-        "argumento_previsto_da_defesa": "As faltas de Bernardo preenchem o disposto no art. 351.º, n.º 1, al. g), pelo que existe justa causa de despedimento, independentemente de prejuízo ou risco.",
-        "resposta": "A verificação objetiva do número de faltas não dispensa a apreciação global da justa causa (art. 351.º, n.º 2), nem a proporcionalidade da sanção. Além disso, a empregadora não pode invocar a alínea g) sem previamente instaurar o competente processo disciplinar, assegurando o direito de defesa de Bernardo. A ausência pode ser justificada e, mesmo que não o seja, a sanção de despedimento pode ser desproporcionada face à antiguidade e às circunstâncias."
+        "argumento_previsto_da_defesa": "A empresa pode alegar que o contrato a termo é válido porque o motivo justificativo foi indicado, ainda que de forma genérica, e que a falta de menção do nome do substituído e das datas é uma irregularidade sanável.",
+        "resposta": "A lei exige a indicação expressa do nome do trabalhador substituído e das datas da ausência (artigo 141.º, n.º 1, alínea e), do Código do Trabalho). A omissão destes elementos essenciais não é sanável e determina a nulidade da estipulação do termo, convertendo-se o contrato em contrato sem termo (artigo 147.º, n.º 1, alínea c) e n.º 2). A jurisprudência é firme no sentido de que a falta de indicação do substituído e das datas impede a verificação da causa justificativa."
       },
       {
-        "argumento_previsto_da_defesa": "O contrato caducou por abandono do trabalho, pelo que não é necessário processo disciplinar.",
-        "resposta": "O abandono do trabalho não é causa de caducidade do contrato de trabalho. As causas de caducidade estão taxativamente previstas na lei (art. 343.º e seguintes) e não incluem a ausência não justificada. O despedimento por facto imputável ao trabalhador exige o procedimento dos artigos 353.º e seguintes, sob pena de ilicitude (art. 382.º)."
+        "argumento_previsto_da_defesa": "A empresa pode alegar que as horas suplementares foram prestadas no período experimental e que, por isso, não são devidas ou que foram compensadas com descanso.",
+        "resposta": "O período experimental não suspende o direito à retribuição do trabalho suplementar. As horas foram prestadas a pedido do supervisor e não foi concedido qualquer descanso compensatório. O artigo 268.º do Código do Trabalho confere o direito à retribuição com acréscimos legais, independentemente do período em que foram prestadas. A empresa não alegou nem provou a compensação."
       },
       {
-        "argumento_previsto_da_defesa": "Bernardo despediu-se tacitamente ao não comparecer ao trabalho e não informar a empregadora.",
-        "resposta": "O despedimento tácito não é admissível no direito português. A cessação do contrato por iniciativa do trabalhador exige declaração de vontade expressa (art. 395.º e seguintes). A ausência ao trabalho não equivale a despedimento tácito, podendo apenas fundamentar despedimento por justa causa mediante processo disciplinar."
+        "argumento_previsto_da_defesa": "A empresa pode alegar que o subsídio de férias não é devido porque o contrato a termo cessou antes do gozo das férias e que as férias gozadas em agosto foram uma liberalidade.",
+        "resposta": "O direito ao subsídio de férias é proporcional ao período de férias gozado e não depende da natureza do contrato. As férias foram atribuídas pela empresa e efetivamente gozadas, pelo que o subsídio é devido nos termos do artigo 264.º do Código do Trabalho. A tese da liberalidade não procede, pois as férias são um direito legal e o subsídio é a contrapartida retributiva."
+      },
+      {
+        "argumento_previsto_da_defesa": "A empresa pode alegar que não houve assédio moral, mas apenas críticas legítimas ao desempenho, e que não houve queixa formal, pelo que não há direito a indemnização.",
+        "resposta": "As expressões utilizadas ('incompetente', 'lento', 'inútil') em frente aos colegas, repetidamente, configuram assédio moral e ofensa à dignidade, nos termos do artigo 29.º do Código do Trabalho. A ausência de queixa formal não impede a apreciação judicial dos factos, pois o direito à indemnização decorre da violação do dever de respeito (artigo 127.º). Os danos (ansiedade, insónia, apoio psicológico) estão alegados e devem ser provados, mas a sua verificação é suficiente para fundamentar a indemnização."
       }
     ],
-    "pedido": "Declaração de ilicitude do despedimento, com a consequente reintegração de Bernardo no seu posto de trabalho ou, em alternativa, o pagamento de indemnização de antiguidade e demais créditos laborais, nos termos dos artigos 389.º e 390.º do Código do Trabalho."
+    "pedido": "O trabalhador pretende: (1) a declaração de nulidade da estipulação do termo e a conversão do contrato em contrato de trabalho sem termo, com as consequências legais, incluindo a indemnização por despedimento ilícito ou, subsidiariamente, a compensação por caducidade; (2) o pagamento das horas suplementares prestadas e não remuneradas, com os acréscimos legais; (3) o pagamento do subsídio de férias proporcional aos 10 dias gozados; (4) o pagamento da compensação por caducidade no valor de 480 euros; (5) a condenação da empresa no pagamento de indemnização por danos não patrimoniais decorrentes do assédio moral, em montante a fixar equitativamente; (6) a condenação da empresa nas contra-ordenações graves e muito graves correspondentes."
   },
   "defense": {
-    "tese": "A empregadora agiu de forma lícita e em estrito cumprimento da lei ao pretender despedir Bernardo com justa causa, com base na alínea g) do n.º 1 do artigo 351.º do Código do Trabalho, por faltas não justificadas que ultrapassam largamente os limites legais. O procedimento disciplinar será instaurado com observância de todas as formalidades legais, pelo que não há qualquer ilicitude. A acusação confunde a ausência de procedimento até à data com a sua inexistência futura, e não pode prevalecer-se da sua própria inércia para obter a declaração de ilicitude.",
+    "tese": "A entidade empregadora defende que o contrato a termo certo é válido, pois o motivo justificativo foi indicado de forma suficiente, ainda que genérica, e a falta de menção do nome do substituído e das datas da ausência não foi impugnada pelo trabalhador durante a execução do contrato, tendo este aceite a sua validade. Além disso, os créditos laborais reclamados estão prescritos ou não são devidos, e não se verificam os pressupostos do assédio moral nem dos danos não patrimoniais alegados.",
     "refutacao_da_acusacao": [
       {
-        "argumento_da_acusacao": "Ilicitude formal do despedimento por violação do procedimento disciplinar, pois não consta que tenha sido instaurado qualquer procedimento formal até à data.",
-        "contra_argumento": "A acusação parte de um pressuposto errado: a empregadora ainda não despediu Bernardo, pelo que não há qualquer despedimento a declarar ilícito. O que a empregadora pretende é, precisamente, instaurar o procedimento disciplinar legalmente previsto. A ilicitude só existiria se, após a instauração do procedimento, fossem omitidas formalidades essenciais. Não se pode declarar ilícito um despedimento que ainda não ocorreu. A acusação confunde a fase de intenção com a fase de decisão. Além disso, o artigo 382.º, n.º 2, do Código do Trabalho só é aplicável após a prática do despedimento, não antes.",
+        "argumento_da_acusacao": "Nulidade do contrato a termo por falta de indicação do trabalhador substituído e das datas da ausência, com conversão em contrato sem termo.",
+        "contra_argumento": "O contrato a termo certo é válido, pois o motivo justificativo foi indicado de forma suficiente, ainda que genérica, e a falta de menção do nome do substituído e das datas da ausência não foi impugnada pelo trabalhador durante a execução do contrato, tendo este aceite a sua validade. A nulidade da estipulação do termo não é automática, dependendo de impugnação atempada, e a conversão em contrato sem termo só ocorre se a nulidade for declarada. O trabalhador não alegou nem provou que a falta de indicação lhe causou prejuízo ou impediu o exercício de direitos.",
         "artigos_citados": [
-          "Artigo 353.º",
-          "Artigo 382.º"
+          "Artigo 141.º, n.º 1, alínea e)",
+          "Artigo 147.º, n.º 1, alínea c)",
+          "Artigo 147.º, n.º 2"
         ]
       },
       {
-        "argumento_da_acusacao": "Inexistência de despedimento tácito ou caducidade do contrato, pelo que a empregadora não pode considerar o contrato cessado sem processo disciplinar.",
-        "contra_argumento": "A empregadora nunca alegou que o contrato caducou ou que houve despedimento tácito. Pelo contrário, reconhece que a via adequada é o despedimento por justa causa, mediante processo disciplinar. A acusação cria um falso problema: a empregadora não invocou a caducidade nem o despedimento tácito, pelo que não há qualquer argumento a refutar. A ausência de 12 dias úteis é fundamento de justa causa nos termos da alínea g) do n.º 1 do artigo 351.º, e é esse o caminho que a empregadora seguirá.",
+        "argumento_da_acusacao": "Direito ao pagamento das horas suplementares prestadas e não remuneradas, com acréscimos legais.",
+        "contra_argumento": "As horas suplementares foram prestadas no período experimental, em janeiro de 2024, e o direito ao seu pagamento está prescrito, nos termos do artigo 337.º do Código do Trabalho, pois já decorreu mais de um ano desde a data de exigibilidade. Além disso, não foi alegado nem provado que o supervisor tivesse competência para autorizar trabalho suplementar, pelo que a prestação pode ter sido voluntária e não imputável à empresa. A empresa não foi notificada para pagamento extrajudicial.",
         "artigos_citados": [
-          "Artigo 351.º",
-          "Artigo 353.º"
+          "Artigo 337.º",
+          "Artigo 268.º"
         ]
       },
       {
-        "argumento_da_acusacao": "Ausência de justa causa bastante e desproporcionalidade da sanção, pois a justa causa deve ser apreciada globalmente e não consta prejuízo grave para a empregadora.",
-        "contra_argumento": "A alínea g) do n.º 1 do artigo 351.º do Código do Trabalho é clara: as faltas não justificadas determinam justa causa quando atinjam, em cada ano civil, cinco seguidas ou dez interpoladas, independentemente de prejuízo ou risco. Bernardo faltou 12 dias úteis consecutivos, ultrapassando largamente o limite de cinco faltas seguidas. A lei não exige prejuízo grave quando o número de faltas é atingido. A apreciação global do n.º 2 do artigo 351.º não afasta a verificação objetiva da alínea g), apenas permite ponderar outras circunstâncias, que no caso até agravam a conduta: 4 anos de antiguidade e função de operador de máquinas, que exigem assiduidade. A proporcionalidade da sanção será apreciada no momento da decisão, nos termos do artigo 357.º, n.º 4, mas a sanção de despedimento é, à partida, proporcional face à gravidade da conduta.",
+        "argumento_da_acusacao": "Direito ao subsídio de férias proporcional aos dias de férias gozados.",
+        "contra_argumento": "O subsídio de férias não é devido porque as férias foram gozadas após o termo do contrato, como mera liberalidade da empresa, não havendo qualquer norma que imponha o seu pagamento nestas circunstâncias. O contrato a termo cessou em 1 de julho de 2024 e o trabalhador não tinha direito a férias não gozadas, pelo que o subsídio correspondente não é exigível. A empresa agiu de boa-fé, atribuindo 10 dias de férias sem qualquer contrapartida, o que não pode agora ser interpretado como reconhecimento de um direito.",
         "artigos_citados": [
-          "Artigo 351.º",
-          "Artigo 357.º"
+          "Artigo 239.º",
+          "Artigo 264.º"
         ]
       },
       {
-        "argumento_da_acusacao": "A ausência pode ser justificada e Bernardo poderá invocá-lo em sede de resposta à nota de culpa.",
-        "contra_argumento": "A eventual justificação das faltas é uma matéria de defesa que Bernardo poderá invocar no prazo de resposta à nota de culpa (artigo 355.º). Até ao momento, não houve qualquer comunicação à empregadora, pelo que as faltas são, para todos os efeitos legais, não justificadas. A empregadora não tem de aguardar indefinidamente por uma justificação que nunca foi apresentada. O ónus de justificar as faltas recai sobre o trabalhador, nos termos do artigo 351.º, n.º 1, alínea g), que exclui as faltas justificadas. A acusação especula sobre uma justificação futura, o que não pode fundamentar a ilicitude do despedimento.",
+        "argumento_da_acusacao": "Direito à compensação por caducidade do contrato a termo certo, no valor de 480 euros.",
+        "contra_argumento": "A compensação por caducidade não é devida porque o contrato caducou por verificação do termo, mas não houve comunicação prévia de cessação por nenhuma das partes, o que afasta a aplicação do artigo 344.º, n.º 2. Além disso, o trabalhador não reclamou o pagamento durante o contrato e o direito está prescrito. A empresa não foi constituída em mora.",
         "artigos_citados": [
-          "Artigo 351.º",
-          "Artigo 355.º"
+          "Artigo 344.º, n.º 1",
+          "Artigo 344.º, n.º 2",
+          "Artigo 337.º"
         ]
       },
       {
-        "argumento_da_acusacao": "O despedimento tácito não é admissível no direito português, pelo que a empregadora não pode considerar o contrato cessado.",
-        "contra_argumento": "A empregadora não invocou despedimento tácito. A acusação combate um argumento que não foi apresentado. A empregadora sempre afirmou que a via adequada é o despedimento por justa causa, com processo disciplinar. Não há, pois, qualquer argumento a refutar neste ponto.",
+        "argumento_da_acusacao": "Assédio moral e direito a indemnização por danos não patrimoniais.",
+        "contra_argumento": "Não houve assédio moral, mas apenas críticas legítimas ao desempenho profissional, proferidas no exercício do poder de direção. As expressões utilizadas não configuram humilhação ou vexame, mas sim avaliação negativa do trabalho. O trabalhador não apresentou queixa formal nem denunciou os factos à empresa ou às autoridades, pelo que a empresa não teve conhecimento da situação e não pôde agir. Os danos alegados (ansiedade, insónia) não estão comprovados e não têm nexo causal com a conduta do supervisor.",
         "artigos_citados": [
-          "Artigo 351.º",
-          "Artigo 353.º"
+          "Artigo 29.º",
+          "Artigo 127.º"
         ]
       }
     ],
     "argumentos_proprios": [
       {
-        "titulo": "Verificação objetiva da justa causa nos termos da alínea g) do n.º 1 do artigo 351.º",
-        "fundamentacao_facto": "Bernardo ausentou-se do trabalho no dia 1 de outubro e não compareceu durante 12 dias úteis consecutivos, sem prestar qualquer informação à empregadora. As faltas não foram justificadas. O número de faltas seguidas (12) ultrapassa o limite de cinco faltas seguidas em cada ano civil previsto na alínea g) do n.º 1 do artigo 351.º.",
-        "fundamentacao_direito": "A alínea g) do n.º 1 do artigo 351.º do Código do Trabalho estabelece que constitui justa causa de despedimento o comportamento do trabalhador que consista em faltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou dez interpoladas, independentemente de prejuízo ou risco. No caso, estão verificados os requisitos objetivos: 12 faltas seguidas não justificadas. A lei não exige prejuízo grave quando o número de faltas é atingido, pelo que a justa causa está objetivamente verificada.",
+        "titulo": "Validade do contrato a termo certo por motivo de substituição de trabalhador ausente",
+        "fundamentacao_facto": "O contrato de trabalho a termo certo celebrado em 2 de janeiro de 2024 indicou como motivo justificativo a 'substituição de trabalhador ausente', o que é suficiente para a verificação da causa justificativa, ainda que não tenham sido indicados o nome do substituído e as datas da ausência. O trabalhador aceitou o contrato e exerceu funções durante seis meses sem impugnar a sua validade.",
+        "fundamentacao_direito": "O artigo 141.º, n.º 1, alínea e), do Código do Trabalho exige a indicação do motivo justificativo, mas a falta de menção do nome do substituído e das datas não determina automaticamente a nulidade, podendo ser suprida por outros elementos. A conversão em contrato sem termo só ocorre se a nulidade for declarada judicialmente e o trabalhador não pode beneficiar da sua própria inércia. A validade do contrato deve ser apreciada de acordo com o princípio da boa-fé e da confiança.",
         "artigos_citados": [
-          "Artigo 351.º"
+          "Artigo 141.º, n.º 1, alínea e)",
+          "Artigo 147.º, n.º 1, alínea c)",
+          "Artigo 147.º, n.º 2"
         ]
       },
       {
-        "titulo": "Cumprimento do procedimento disciplinar legalmente previsto",
-        "fundamentacao_facto": "A empregadora pretende instaurar processo disciplinar, comunicando por escrito a Bernardo a intenção de despedimento e entregando nota de culpa com descrição circunstanciada dos factos (12 dias úteis consecutivos de faltas não justificadas). Serão remetidas cópias à comissão de trabalhadores, se existir, e à associação sindical, se Bernardo for representante sindical. Bernardo terá 10 dias úteis para responder, podendo juntar documentos e solicitar diligências probatórias. A decisão final será fundamentada e comunicada por escrito.",
-        "fundamentacao_direito": "O artigo 353.º do Código do Trabalho exige a comunicação escrita da intenção de despedimento e a junção de nota de culpa com descrição circunstanciada dos factos. O artigo 355.º assegura o direito de resposta no prazo de 10 dias úteis. O artigo 356.º regula a instrução, com limite de testemunhas e possibilidade de parecer da comissão de trabalhadores ou associação sindical. O artigo 357.º impõe decisão fundamentada no prazo de 30 dias. A empregadora compromete-se a observar todas estas formalidades, pelo que o despedimento será lícito.",
+        "titulo": "Prescrição dos créditos laborais relativos a horas suplementares e subsídio de férias",
+        "fundamentacao_facto": "As horas suplementares foram prestadas em janeiro de 2024 e o subsídio de férias seria devido, no máximo, após o gozo das férias em agosto de 2024. O trabalhador não reclamou o pagamento durante o contrato nem nos meses seguintes, tendo a ação sido proposta após o decurso do prazo de prescrição.",
+        "fundamentacao_direito": "Nos termos do artigo 337.º do Código do Trabalho, o direito ao pagamento de créditos laborais prescreve no prazo de um ano a contar da data de exigibilidade. Tendo os factos ocorrido em janeiro e agosto de 2024, e não havendo notícia de reclamação tempestiva, os créditos estão prescritos.",
         "artigos_citados": [
-          "Artigo 353.º",
-          "Artigo 355.º",
-          "Artigo 356.º",
-          "Artigo 357.º"
+          "Artigo 337.º"
         ]
       },
       {
-        "titulo": "Tempestividade do procedimento disciplinar",
-        "fundamentacao_facto": "As faltas ocorreram a partir de 1 de outubro. A empregadora tem conhecimento das faltas desde essa data. O procedimento disciplinar será instaurado dentro dos 60 dias subsequentes ao conhecimento da infracção, nos termos do artigo 329.º, n.º 2. O prazo de prescrição do direito disciplinar é de um ano após a prática da infracção (artigo 329.º, n.º 1), pelo que não há qualquer prescrição.",
-        "fundamentacao_direito": "O artigo 329.º, n.º 2, do Código do Trabalho estabelece que o procedimento disciplinar deve iniciar-se nos 60 dias subsequentes ao conhecimento da infracção pelo empregador. O n.º 1 do mesmo artigo fixa o prazo de prescrição do direito disciplinar em um ano após a prática da infracção. A empregadora agirá dentro destes prazos, pelo que o procedimento é tempestivo.",
+        "titulo": "Inexistência de assédio moral e de danos não patrimoniais indemnizáveis",
+        "fundamentacao_facto": "O supervisor hierárquico limitou-se a avaliar o desempenho do trabalhador, utilizando expressões que, embora possam ser consideradas desabridas, não configuram humilhação ou vexame. O trabalhador não apresentou queixa formal nem denunciou os factos, e os alegados danos (ansiedade, insónia) não estão comprovados.",
+        "fundamentacao_direito": "O assédio moral exige um comportamento reiterado e prolongado, com o objetivo de humilhar ou desestabilizar o trabalhador, o que não se verifica. As críticas ao desempenho inserem-se no poder de direção do empregador (artigo 97.º do Código do Trabalho). A ausência de queixa formal e de prova dos danos impede a condenação em indemnização por danos não patrimoniais, nos termos dos artigos 483.º e 798.º do Código Civil.",
         "artigos_citados": [
-          "Artigo 329.º"
+          "Artigo 29.º",
+          "Artigo 97.º",
+          "Artigo 127.º"
         ]
       },
       {
-        "titulo": "Proporcionalidade da sanção face à gravidade da conduta",
-        "fundamentacao_facto": "Bernardo tem 4 anos de antiguidade e exerce funções de operador de máquinas. A ausência de 12 dias úteis consecutivos sem qualquer justificação ou comunicação é uma conduta grave, que quebra a confiança e a lealdade inerentes ao contrato de trabalho. A função de operador de máquinas exige assiduidade e presença física, pelo que a ausência prolongada tem impacto significativo na organização do trabalho.",
-        "fundamentacao_direito": "O artigo 351.º, n.º 2, do Código do Trabalho impõe que na apreciação da justa causa se atenda ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes e demais circunstâncias relevantes. A conduta de Bernardo é grave e justifica a sanção de despedimento, que é proporcional à culpa. O artigo 357.º, n.º 4, exige que a decisão pondere as circunstâncias do caso e a adequação do despedimento à culpabilidade do trabalhador. A empregadora fará essa ponderação na decisão final, mas a sanção de despedimento é, à partida, adequada.",
+        "titulo": "Cumprimento do período experimental e ausência de direito a compensação por caducidade",
+        "fundamentacao_facto": "O período experimental de 30 dias foi cumprido e o contrato caducou no termo, sem que o trabalhador tenha reclamado a compensação. A empresa não foi constituída em mora.",
+        "fundamentacao_direito": "O artigo 344.º, n.º 2, do Código do Trabalho só confere direito a compensação em caso de caducidade por verificação do termo, mas a falta de comunicação prévia e a ausência de reclamação afastam a obrigação. Além disso, o direito está prescrito nos termos do artigo 337.º.",
         "artigos_citados": [
-          "Artigo 351.º",
-          "Artigo 357.º"
+          "Artigo 344.º, n.º 2",
+          "Artigo 337.º"
         ]
       }
     ],
-    "pedido": "A empregadora pretende que seja declarada a licitude do despedimento por justa causa, com a consequente improcedência total do pedido da acusação. Subsidiariamente, caso se entenda que o procedimento ainda não está concluído, que seja reconhecido o direito de a empregadora instaurar o competente processo disciplinar, sem qualquer declaração de ilicitude."
+    "pedido": "A entidade empregadora pretende a improcedência total da ação, com a absolvição de todos os pedidos, declarando-se a validade do contrato a termo certo, a prescrição dos créditos laborais e a inexistência de assédio moral e de danos indemnizáveis."
   },
   "factcheck_prosecution": {
     "label": "acusação",
     "citacoes": [
       {
-        "artigo": "Artigo 351.º, n.º 1, alínea g)",
-        "afirmacao": "As faltas não justificadas determinam justa causa de despedimento quando atinjam 5 seguidas ou 10 interpoladas, independentemente de prejuízo.",
-        "ref_base": "Artigo 351.º",
+        "artigo": "Artigo 141.º, n.º 1, alínea e), do Código do Trabalho",
+        "afirmacao": "O contrato a termo está sujeito a forma escrita e deve conter a indicação do motivo justificativo, com menção expressa dos factos que o integram; no caso de substituição de trabalhador ausente, exige que sejam indicados o nome do trabalhador substituído e as datas de início e termo da ausência.",
+        "ref_base": "Artigo 141.º",
         "existe": true,
-        "texto_real": "Artigo 351.º\nNoção de justa causa de despedimento\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n2\t- Na apreciação da justa causa, deve atender-se, no quadro de gestão da empresa, ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes ou entre o trabalhador e os seus companheiros e às demais circunstâncias que no caso sejam relevantes.",
+        "texto_real": "Artigo 141.º\nForma e conteúdo de contrato de trabalho a termo\n1 - O contrato de trabalho a termo está sujeito a forma escrita e deve conter:\na)\tIdentificação, assinaturas e domicílio ou sede das partes;\nb)\tActividade do trabalhador e correspondente retribuição;\nc)\tLocal e período normal de trabalho;\nd)\tData de início do trabalho;\ne)\tIndicação do termo estipulado, ou da duração previsível do contrato, e do respetivo motivo justificativo, consoante se trate, respetivamente, de contrato a termo certo ou incerto;\nf)\tDatas de celebração do contrato e, sendo a termo certo, da respectiva cessação.\n2 - Na falta da referência exigida pela alínea d) do número anterior, considera-se que o contrato tem início na data da sua celebração.\n3 - Para efeitos da alínea e) do n.º 1, a indicação do motivo justificativo do termo deve ser feita com menção expressa dos factos que o integram, devendo estabelecer-se a relação entre a justificação invocada e o termo estipulado.\n4 - Constitui contra-ordenação grave a violação do disposto na alínea e) do n.º 1 ou no n.º 3.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 351.º, n.º 2",
-        "afirmacao": "A justa causa deve ser apreciada globalmente, atendendo ao grau de lesão dos interesses da empregadora, ao carácter das relações entre as partes e demais circunstâncias.",
-        "ref_base": "Artigo 351.º",
+        "artigo": "Artigo 147.º, n.º 1, alínea c), do Código do Trabalho",
+        "afirmacao": "A omissão dos elementos essenciais do motivo justificativo (nome do substituído e datas da ausência) determina a nulidade da estipulação do termo.",
+        "ref_base": "Artigo 147.º",
         "existe": true,
-        "texto_real": "Artigo 351.º\nNoção de justa causa de despedimento\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n2\t- Na apreciação da justa causa, deve atender-se, no quadro de gestão da empresa, ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes ou entre o trabalhador e os seus companheiros e às demais circunstâncias que no caso sejam relevantes.",
+        "texto_real": "Artigo 147.º\nContrato de trabalho sem termo\n1 - Considera-se sem termo o contrato de trabalho:\na)\tAquele cuja renovação tenha sido feita em violação do disposto no artigo 149.º;\nb)\tAquele em que seja excedido o prazo de duração ou o número de renovações a que se refere o artigo seguinte;\nc)\tO celebrado a termo incerto, quando o trabalhador permaneça em actividade após a data de caducidade indicada na comunicação do empregador ou, na falta desta, decorridos 15 dias após a verificação do termo.\nd)\tCelebrado em violação do disposto no n.º 1 do artigo 143.º 2 - Converte-se em contrato de trabalho sem termo:\na)\tAquele cuja renovação tenha sido feita em violação do disposto no artigo 149.º;\nb)\tAquele em que seja excedido o prazo de duração ou o número de renovações a que se refere o artigo seguinte;\nc)\tO celebrado a termo incerto, quando o trabalhador permaneça em actividade após a data de caducidade indicada na comunicação do empregador ou, na falta desta, decorridos 15 dias após a verificação do termo.\n3\t- Em situação referida no n.º 1 ou 2, a antiguidade do trabalhador conta-se desde o início da prestação de trabalho, excepto em situação a que se refere a alínea d) do n.º 1, em que compreende o tempo de trabalho prestado em cumprimento dos contratos sucessivos.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 382.º, n.º 2, alíneas a) a d)",
-        "afirmacao": "O despedimento é ilícito se o procedimento for inválido, designadamente por falta de nota de culpa ou de comunicação da intenção de despedimento, por violação do direito de resposta ou do prazo, ou por falta de decisão escrita e fundamentada.",
-        "ref_base": "Artigo 382.º",
+        "artigo": "Artigo 147.º, n.º 2, do Código do Trabalho",
+        "afirmacao": "A nulidade da estipulação do termo converte o contrato em contrato de trabalho sem termo.",
+        "ref_base": "Artigo 147.º",
         "existe": true,
-        "texto_real": "Artigo 382.º\nIlicitude de despedimento por facto imputável ao trabalhador\n1\t- O despedimento por facto imputável ao trabalhador é ainda ilícito se tiverem decorrido os prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º, ou se o respectivo procedimento for inválido.\n2\t- O procedimento é inválido se:\na)\tFaltar a nota de culpa, ou se esta não for escrita ou não contiver a descrição circunstanciada dos factos imputados ao trabalhador;\nb)\tFaltar a comunicação da intenção de despedimento junta à nota de culpa;\nc)\tNão tiver sido respeitado o direito do trabalhador a consultar o processo ou a responder à nota de culpa ou, ainda, o prazo para resposta à nota de culpa;\nd)\tA comunicação ao trabalhador da decisão de despedimento e dos seus fundamentos não for feita por escrito, ou não esteja elaborada nos termos do n.º 4 do artigo 357.º ou do n.º 2 do artigo 358.º",
+        "texto_real": "Artigo 147.º\nContrato de trabalho sem termo\n1 - Considera-se sem termo o contrato de trabalho:\na)\tAquele cuja renovação tenha sido feita em violação do disposto no artigo 149.º;\nb)\tAquele em que seja excedido o prazo de duração ou o número de renovações a que se refere o artigo seguinte;\nc)\tO celebrado a termo incerto, quando o trabalhador permaneça em actividade após a data de caducidade indicada na comunicação do empregador ou, na falta desta, decorridos 15 dias após a verificação do termo.\nd)\tCelebrado em violação do disposto no n.º 1 do artigo 143.º 2 - Converte-se em contrato de trabalho sem termo:\na)\tAquele cuja renovação tenha sido feita em violação do disposto no artigo 149.º;\nb)\tAquele em que seja excedido o prazo de duração ou o número de renovações a que se refere o artigo seguinte;\nc)\tO celebrado a termo incerto, quando o trabalhador permaneça em actividade após a data de caducidade indicada na comunicação do empregador ou, na falta desta, decorridos 15 dias após a verificação do termo.\n3\t- Em situação referida no n.º 1 ou 2, a antiguidade do trabalhador conta-se desde o início da prestação de trabalho, excepto em situação a que se refere a alínea d) do n.º 1, em que compreende o tempo de trabalho prestado em cumprimento dos contratos sucessivos.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 353.º, n.º 1",
-        "afirmacao": "A empregadora deve obrigatoriamente instaurar processo disciplinar, comunicando por escrito a intenção de despedimento e entregando nota de culpa com descrição circunstanciada dos factos.",
-        "ref_base": "Artigo 353.º",
+        "artigo": "Artigo 268.º do Código do Trabalho",
+        "afirmacao": "O trabalho suplementar confere ao trabalhador o direito à retribuição correspondente, com os acréscimos legais (25% para a primeira hora e 37,5% para as horas seguintes, salvo regime mais favorável).",
+        "ref_base": "Artigo 268.º",
         "existe": true,
-        "texto_real": "Artigo 353.º\nNota de culpa\n1\t- No caso em que se verifique algum comportamento susceptível de constituir justa causa de despedimento, o empregador comunica, por escrito, ao trabalhador que o tenha praticado a intenção de proceder ao seu despedimento, juntando nota de culpa com a descrição circunstanciada dos factos que lhe são imputados.\n2\t- Na mesma data, o empregador remete cópias da comunicação e da nota de culpa à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respectiva.\n3\t- A notificação da nota de culpa ao trabalhador interrompe a contagem dos prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º\n4\t- Constitui contra-ordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1 ou 2.",
+        "texto_real": "Artigo 268.º\nPagamento de trabalho suplementar\n1\t- O trabalho suplementar até 100 horas anuais é pago pelo valor da retribuição horária com os seguintes acréscimos:\na)\t25 % pela primeira hora ou fração desta e 37,5 % por hora ou fração subsequente, em dia útil;\nb)\t50 % por cada hora ou fração, em dia de descanso semanal, obrigatório ou complementar, ou em feriado.\n2\t- O trabalho suplementar superior a 100 horas anuais é pago pelo valor da retribuição horária com os seguintes acréscimos:\na)\t50 % pela primeira hora ou fração desta e 75 % por hora ou fração subsequente, em dia útil;\nb)\t100 % por cada hora ou fração, em dia de descanso semanal, obrigatório ou complementar, ou em feriado.\n3\t- (Revogado).\n4\t- É exigível o pagamento de trabalho suplementar cuja prestação tenha sido prévia e expressamente determinada, ou realizada de modo a não ser previsível a oposição do empregador.\n5\t- Constitui contraordenação grave a violação do disposto nos n.os 1 e 2.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 343.º e seguintes",
-        "afirmacao": "As causas de caducidade do contrato de trabalho estão taxativamente previstas na lei e não incluem a ausência não justificada ao trabalho.",
-        "ref_base": "Artigo 343.º",
+        "artigo": "Artigo 554.º, n.º 3, do Código do Trabalho",
+        "afirmacao": "A falta de pagamento de horas suplementares e a recusa de pagamento do subsídio de férias constituem contra-ordenação grave.",
+        "ref_base": "Artigo 554.º",
         "existe": true,
-        "texto_real": "Artigo 343.º\nCausas de caducidade de contrato de trabalho\nO contrato de trabalho caduca nos termos gerais, nomeadamente:\na)\tVerificando-se o seu termo;\nb)\tPor impossibilidade superveniente, absoluta e definitiva, de o trabalhador prestar o seu trabalho ou de o empregador o receber;\nc)\tCom a reforma do trabalhador, por velhice ou invalidez.",
+        "texto_real": "Artigo 554.º\nValores das coimas\n1\t- A cada escalão de gravidade das contra-ordenações laborais corresponde uma coima variável em função do volume de negócios da empresa e do grau da culpa do infractor, salvo o disposto no artigo seguinte.\n2\t- Os limites mínimo e máximo das coimas correspondentes a contra-ordenação leve são os seguintes:\na)\tSe praticada por empresa com volume de negócios inferior a (euro) 10 000 000, de 2 UC a 5 UC em caso de negligência e de 6 UC a 9 UC em caso de dolo;\nb)\tSe praticada por empresa com volume de negócios igual ou superior a (euro) 10 000 000, de 6 UC a 9 UC em caso de negligência e de 10 UC a 15 UC em caso de dolo.\n3\t- Os limites mínimo e máximo das coimas correspondentes a contra-ordenação grave são os seguintes:\na)\tSe praticada por empresa com volume de negócios inferior a (euro) 500 000, de 6 UC a 12 UC em caso de negligência e de 13 UC a 26 UC em caso de dolo;\nb)\tSe praticada por empresa com volume de negócios igual ou superior a (euro) 500 000 e inferior a (euro) 2 500 000, de 7 UC a 14 UC em caso de negligência e de 15 UC a 40 UC em caso de dolo;\nc)\tSe praticada por empresa com volume de negócios igual ou superior a (euro) 2 500 000 e inferior a (euro) 5 000 000, de 10 UC a 20 UC em caso de negligência e de 21 UC a 45 UC em caso de dolo;\nd)\tSe praticada por empresa com volume de negócios igual ou superior a (euro) 5 000 000 e inferior a (euro) 10 000 000, de 12 UC a 25 UC em caso de negligência e de 26 UC a 50 UC em caso de dolo;\ne)\tSe praticada por empresa com volume de negócios igual ou superior a (euro) 10 000 000, de 15 UC a 40 UC em caso de negligência e de 55 UC a 95 UC em caso de dolo.\n4\t- Os limites mínimo e máximo das coimas correspondentes a contra-ordenação muito grave são os seguintes:\na)\tSe praticada por empresa com volume de negócios inferior a (euro) 500 000, de 20 UC a 40 UC em caso de negligência e de 45 UC a 95 UC em caso de dolo;\nb)\tSe praticada por empresa com volume de negócios igual ou superior a (euro) 500 000 e inferior a (euro) 2 500 000, de 32 UC a 80 UC em caso de negligência e de 85 UC a 190 UC em caso de dolo;\nc)\tSe praticada por empresa com volume de negócios igual ou superior a (euro) 2 500 000 e inferior a (euro) 5 000 000, de 42 UC a 120 UC em caso de negligência e de 120 UC a 280 UC em caso de dolo;\nd)\tSe praticada por empresa com volume de negócios igual ou superior a (euro) 5 000 000 e inferior a (euro) 10 000 000, de 55 UC a 140 UC em caso de negligência e de 145 UC a 400 UC em caso de dolo;\ne)\tSe praticada por empresa com volume de negócios igual ou superior a (euro) 10 000 000, de 90 UC a 300 UC em caso de negligência e de 300 UC a 600 UC em caso de dolo.\n5\t- O volume de negócios reporta-se ao ano civil anterior ao da prática da infracção.\n6\t- Caso a empresa não tenha actividade no ano civil anterior ao da prática da infracção, considera-se o volume de negócios do ano mais recente.\n7\t- No ano de início de actividade são aplicáveis os limites previstos para empresa com volume de negócios inferior a (euro) 500 000.\n8\t- Se o empregador não indicar o volume de negócios, aplicam-se os limites previstos para empresa com volume de negócios igual ou superior a (euro) 10 000 000.\n9\t- A sigla UC corresponde à unidade de conta processual.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 357.º, n.º 4",
-        "afirmacao": "A sanção de despedimento deve ser proporcional à culpa do trabalhador.",
-        "ref_base": "Artigo 357.º",
+        "artigo": "Artigo 264.º, n.º 1, do Código do Trabalho",
+        "afirmacao": "O direito ao subsídio de férias é independente da natureza do contrato e o trabalhador tem direito a subsídio de férias proporcional ao período de férias gozado.",
+        "ref_base": "Artigo 264.º",
         "existe": true,
-        "texto_real": "Artigo 357.º\nDecisão de despedimento por facto imputável ao trabalhador\n1\t- Recebidos os pareceres referidos no n.º 5 do artigo anterior ou decorrido o prazo para o efeito, o empregador dispõe de 30 dias para proferir a decisão de despedimento, sob pena de caducidade do direito de aplicar a sanção.\n2\t- Quando não exista comissão de trabalhadores e o trabalhador não seja representante sindical, o prazo referido no número anterior conta-se a partir da data da conclusão da última diligência de instrução.\n3\t- (Revogado).\n4\t- Na decisão são ponderadas as circunstâncias do caso, nomeadamente as referidas no n.º 3 do artigo 351.º, a adequação do despedimento à culpabilidade do trabalhador e os pareceres dos representantes dos trabalhadores, não podendo ser invocados factos não constantes da nota de culpa ou da resposta do trabalhador, salvo se atenuarem a responsabilidade.\n5\t- A decisão deve ser fundamentada e constar de documento escrito.\n6\t- A decisão é comunicada, por cópia ou transcrição, ao trabalhador, à comissão de trabalhadores, ou à associação sindical respectiva, caso aquele seja representante sindical ou na situação a que se refere o n.º 6 do artigo anterior.\n7\t- A decisão determina a cessação do contrato logo que chega ao poder do trabalhador ou é dele conhecida ou, ainda, quando só por culpa do trabalhador não foi por ele oportunamente recebida.\n8\t- Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 2 e 5 a 7.",
+        "texto_real": "Artigo 264.º\nRetribuição do período de férias e subsídio\n1\t- A retribuição do período de férias corresponde à que o trabalhador receberia se estivesse em serviço efectivo.\n2\t- Além da retribuição mencionada no número anterior, o trabalhador tem direito a subsídio de férias, compreendendo a retribuição base e outras prestações retributivas que sejam contrapartida do modo específico da execução do trabalho, correspondentes à duração mínima das férias.\n3\t- Salvo acordo escrito em contrário, o subsídio de férias deve ser pago antes do início do período de férias e proporcionalmente em caso de gozo interpolado de férias.\n4\t- Constitui contra-ordenação muito grave a violação do disposto neste artigo.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 395.º e seguintes",
-        "afirmacao": "A cessação do contrato por iniciativa do trabalhador exige declaração de vontade expressa.",
-        "ref_base": "Artigo 395.º",
+        "artigo": "Artigo 344.º, n.º 2, do Código do Trabalho",
+        "afirmacao": "Em caso de caducidade por verificação do termo, o trabalhador tem direito a compensação correspondente a 24 dias de retribuição base e diuturnidades por cada ano completo de antiguidade.",
+        "ref_base": "Artigo 344.º",
         "existe": true,
-        "texto_real": "Artigo 395.º\nProcedimento para resolução de contrato pelo trabalhador\n1\t- O trabalhador deve comunicar a resolução do contrato ao empregador, por escrito, com indicação sucinta dos factos que a justificam, nos 30 dias subsequentes ao conhecimento dos factos.\n2\t- No caso a que se refere o n.º 5 do artigo anterior, o prazo para resolução conta-se a partir do termo do período de 60 dias ou da declaração do empregador.\n3\t- Se o fundamento da resolução for o referido na alínea a) do n.º 3 do artigo anterior, a comunicação deve ser feita logo que possível.\n4\t- O empregador pode exigir que a assinatura do trabalhador constante da declaração de resolução tenha reconhecimento notarial presencial, devendo, neste caso, mediar um período não superior a 60 dias entre a data do reconhecimento e a da cessação do contrato.",
+        "texto_real": "Artigo 344.º\nCaducidade de contrato de trabalho a termo certo\n1\t- O contrato de trabalho a termo certo caduca no final do prazo estipulado, ou da sua renovação, desde que o empregador ou o trabalhador comunique à outra parte a vontade de o fazer cessar, por escrito, respectivamente, 15 ou oito dias antes de o prazo expirar.\n2\t- Em caso de caducidade de contrato de trabalho a termo certo por verificação do seu termo, o trabalhador tem direito a compensação correspondente a 24 dias de retribuição base e diuturnidades por cada ano completo de antiguidade, calculada nos termos do artigo 366.º, salvo se a caducidade decorrer de declaração do trabalhador nos termos do número anterior.\n3\t- (Revogado).\n4\t- (Revogado).\n5\t- Constitui contraordenação grave a violação do disposto no n.º 2.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 389.º",
-        "afirmacao": "Base legal para a reintegração do trabalhador em caso de ilicitude do despedimento.",
-        "ref_base": "Artigo 389.º",
+        "artigo": "Artigo 366.º, n.º 2, alínea d), do Código do Trabalho",
+        "afirmacao": "A compensação por caducidade é calculada nos termos do artigo 366.º, sendo proporcional ao tempo de duração do contrato.",
+        "ref_base": "Artigo 366.º",
         "existe": true,
-        "texto_real": "Artigo 389.º\nEfeitos da ilicitude de despedimento\n1 - Sendo o despedimento declarado ilícito, o empregador é condenado:\na)\tA indemnizar o trabalhador por todos os danos causados, patrimoniais e não patrimoniais;\nb)\tNa reintegração do trabalhador no mesmo estabelecimento da empresa, sem prejuízo da sua categoria e antiguidade, salvo nos casos previstos nos artigos 391.º e 392.º\n2 - No caso de mera irregularidade fundada em deficiência de procedimento por omissão das diligências probatórias referidas nos n.os 1 e 3 do artigo 356.º, se forem declarados procedentes os motivos justificativos invocados para o despedimento, o trabalhador tem apenas direito a indemnização correspondente a metade do valor que resultaria da aplicação do n.º 1 do artigo 391.º\n3 - Constitui contra-ordenação grave a violação do disposto no n.º 1.",
+        "texto_real": "Artigo 366.º\nCompensação por despedimento colectivo\n1\t- Em caso de despedimento coletivo, o trabalhador tem direito a compensação correspondente a 14 dias de retribuição base e diuturnidades por cada ano completo de antiguidade.\n2\t- A compensação prevista no número anterior é determinada do seguinte modo:\na)\tO valor da retribuição base mensal e diuturnidades do trabalhador a considerar para efeitos de cálculo da compensação não pode ser superior a 20 vezes a retribuição mínima mensal garantida;\nb)\tO montante global da compensação não pode ser superior a 12 vezes a retribuição base mensal e diuturnidades do trabalhador ou, quando seja aplicável o limite previsto na alínea anterior, a 240 vezes a retribuição mínima mensal garantida;\nc)\tO valor diário de retribuição base e diuturnidades é o resultante da divisão por 30 da retribuição base mensal e diuturnidades;\nd)\tEm caso de fração de ano, o montante da compensação é calculado proporcionalmente.\n3\t- O empregador é responsável pelo pagamento da totalidade da compensação, sem prejuízo do direito do trabalhador a acionar o FGCT, nos termos previstos em legislação específica.\n4\t- Presume-se que o trabalhador aceita o despedimento quando recebe do empregador a totalidade da compensação prevista neste artigo.\n5\t- A presunção referida no número anterior pode ser ilidida desde que, em simultâneo, o trabalhador entregue ou ponha, por qualquer forma, a totalidade da compensação paga pelo empregador à disposição deste último.\n6\t- Nos casos de contrato de trabalho a termo e de contrato de trabalho temporário, o trabalhador tem direito a compensação prevista no n.º 2 do artigo 344.º e do n.º 4 do artigo 345.º, consoante os casos, aplicando-se, ainda, o disposto nos n.os 2 a 5 do presente artigo.\n7\t- Constitui contraordenação grave a violação do disposto nos n.os 1, 2, 3 e 6.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 390.º",
-        "afirmacao": "Base legal para o pagamento de indemnização de antiguidade e demais créditos laborais em caso de ilicitude do despedimento.",
-        "ref_base": "Artigo 390.º",
+        "artigo": "Artigo 344.º, n.º 5, do Código do Trabalho",
+        "afirmacao": "A falta de pagamento da compensação por caducidade constitui contra-ordenação grave.",
+        "ref_base": "Artigo 344.º",
         "existe": true,
-        "texto_real": "Artigo 390.º\nCompensação em caso de despedimento ilícito\n1 - Sem prejuízo da indemnização prevista na alínea a) do n.º 1 do artigo anterior, o trabalhador tem direito a receber as retribuições que deixar de auferir desde o despedimento até ao trânsito em julgado da decisão do tribunal que declare a ilicitude do despedimento. 2 - Às retribuições referidas no número anterior deduzem-se:\na)\tAs importâncias que o trabalhador aufira com a cessação do contrato e que não receberia se não fosse o despedimento;\nb)\tA retribuição relativa ao período decorrido desde o despedimento até 30 dias antes da propositura da acção, se esta não for proposta nos 30 dias subsequentes ao despedimento;\nc)\tO subsídio de desemprego atribuído ao trabalhador no período referido no n.º 1, devendo o empregador entregar essa quantia à segurança social.",
+        "texto_real": "Artigo 344.º\nCaducidade de contrato de trabalho a termo certo\n1\t- O contrato de trabalho a termo certo caduca no final do prazo estipulado, ou da sua renovação, desde que o empregador ou o trabalhador comunique à outra parte a vontade de o fazer cessar, por escrito, respectivamente, 15 ou oito dias antes de o prazo expirar.\n2\t- Em caso de caducidade de contrato de trabalho a termo certo por verificação do seu termo, o trabalhador tem direito a compensação correspondente a 24 dias de retribuição base e diuturnidades por cada ano completo de antiguidade, calculada nos termos do artigo 366.º, salvo se a caducidade decorrer de declaração do trabalhador nos termos do número anterior.\n3\t- (Revogado).\n4\t- (Revogado).\n5\t- Constitui contraordenação grave a violação do disposto no n.º 2.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 29.º do Código do Trabalho",
+        "afirmacao": "O assédio moral no local de trabalho é proibido e constitui violação culposa de garantias legais.",
+        "ref_base": "Artigo 29.º",
+        "existe": true,
+        "texto_real": "Artigo 29.º\nAssédio\n1\t- É proibida a prática de assédio.\n2\t- Entende-se por assédio o comportamento indesejado, nomeadamente o baseado em factor de discriminação, praticado aquando do acesso ao emprego ou no próprio emprego, trabalho ou formação profissional, com o objectivo ou o efeito de perturbar ou constranger a pessoa, afectar a sua dignidade, ou de lhe criar um ambiente intimidativo, hostil, degradante, humilhante ou desestabilizador.\n3\t- Constitui assédio sexual o comportamento indesejado de carácter sexual, sob forma verbal, não verbal ou física, com o objectivo ou o efeito referido no número anterior.\n4\t- A prática de assédio confere à vítima o direito de indemnização, aplicando-se o disposto no artigo anterior.\n5\t- A prática de assédio constitui contraordenação muito grave, sem prejuízo da eventual responsabilidade penal prevista nos termos da lei.\n6\t- O denunciante e as testemunhas por si indicadas não podem ser sancionados disciplinarmente, a menos que atuem com dolo, com base em declarações ou factos constantes dos autos de processo, judicial ou contraordenacional, desencadeado por assédio até decisão final, transitada em julgado, sem prejuízo do exercício do direito ao contraditório.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 127.º do Código do Trabalho",
+        "afirmacao": "O direito à indemnização decorre da violação do dever de respeito e proteção da dignidade do trabalhador.",
+        "ref_base": "Artigo 127.º",
+        "existe": true,
+        "texto_real": "Artigo 127.º\nDeveres do empregador\n1\t- O empregador deve, nomeadamente:\na)\tRespeitar e tratar o trabalhador com urbanidade e probidade, afastando quaisquer atos que possam afetar a dignidade do trabalhador, que sejam discriminatórios, lesivos, intimidatórios, hostis ou humilhantes para o trabalhador, nomeadamente assédio;\nb)\tPagar pontualmente a retribuição, que deve ser justa e adequada ao trabalho;\nc)\tProporcionar boas condições de trabalho, do ponto de vista físico e moral;\nd)\tContribuir para a elevação da produtividade e empregabilidade do trabalhador, nomeadamente proporcionando-lhe formação profissional adequada a desenvolver a sua qualificação;\ne)\tRespeitar a autonomia técnica do trabalhador que exerça actividade cuja regulamentação ou deontologia profissional a exija;\nf)\tPossibilitar o exercício de cargos em estruturas representativas dos trabalhadores;\ng)\tPrevenir riscos e doenças profissionais, tendo em conta a protecção da segurança e saúde do trabalhador, devendo indemnizá-lo dos prejuízos resultantes de acidentes de trabalho;\nh)\tAdoptar, no que se refere a segurança e saúde no trabalho, as medidas que decorram de lei ou instrumento de regulamentação colectiva de trabalho;\ni)\tFornecer ao trabalhador a informação e a formação adequadas à prevenção de riscos de acidente ou doença;\nj)\tManter actualizado, em cada estabelecimento, o registo dos trabalhadores com indicação de nome, datas de nascimento e admissão, modalidade de contrato, categoria, promoções, retribuições, datas de início e termo das férias e faltas que impliquem perda da retribuição ou diminuição de dias de férias.\nk)\tAdotar códigos de boa conduta para a prevenção e combate ao assédio no trabalho, sempre que a empresa tenha sete ou mais trabalhadores;\nl)\tInstaurar procedimento disciplinar sempre que tiver conhecimento de alegadas situações de assédio no trabalho.\n2\t- Na organização da actividade, o empregador deve observar o princípio geral da adaptação do trabalho à pessoa, com vista nomeadamente a atenuar o trabalho monótono ou cadenciado em função do tipo de actividade, e as exigências em matéria de segurança e saúde, designadamente no que se refere a pausas durante o tempo de trabalho.\n3\t- O empregador deve proporcionar ao trabalhador condições de trabalho que favoreçam a conciliação da actividade profissional com a vida familiar e pessoal.\n4\t- O empregador deve afixar nas instalações da empresa toda a informação sobre a legislação referente ao direito de parentalidade ou, se for elaborado regulamento interno a que alude o artigo 99.º, consagrar no mesmo toda essa legislação.\n5\t- (Revogado.)\n6\t- (Revogado.)\n7\t- Constitui contraordenação grave a violação do disposto nas alíneas k) e l) do n.º 1 e contraordenação leve a violação do disposto na alínea j) do n.º 1 e no n.º 4.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 483.º do Código Civil",
+        "afirmacao": "O trabalhador tem direito a indemnização por danos não patrimoniais com base na responsabilidade extracontratual.",
+        "ref_base": "Artigo 483.º",
+        "existe": true,
+        "texto_real": "Artigo 483.º\nConcorrência entre instrumentos de regulamentação colectiva de trabalho não negociais\n1\t- Sempre que exista concorrência entre instrumentos de regulamentação colectiva de trabalho não negociais, são observados os seguintes critérios de preferência:\na)\tA decisão de arbitragem obrigatória afasta a aplicação de outro instrumento;\nb)\tA portaria de extensão afasta a aplicação de portaria de condições de trabalho.\n2\t- Em caso de concorrência entre portarias de extensão aplica-se o previsto nos n.os 2 a 4 do artigo anterior, relativamente às convenções colectivas objecto de extensão.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 798.º do Código Civil",
+        "afirmacao": "O trabalhador tem direito a indemnização por danos não patrimoniais com base na responsabilidade contratual.",
+        "ref_base": "Artigo 798.º",
+        "existe": false,
+        "texto_real": null,
+        "consistente": false,
+        "problema": "Artigo NÃO existe no Código do Trabalho.",
+        "severidade": "alta"
       }
     ],
-    "invalidos": [],
-    "resumo": "9 referências verificadas — todas consistentes."
+    "invalidos": [
+      {
+        "artigo": "Artigo 798.º do Código Civil",
+        "afirmacao": "O trabalhador tem direito a indemnização por danos não patrimoniais com base na responsabilidade contratual.",
+        "ref_base": "Artigo 798.º",
+        "existe": false,
+        "texto_real": null,
+        "consistente": false,
+        "problema": "Artigo NÃO existe no Código do Trabalho.",
+        "severidade": "alta"
+      }
+    ],
+    "resumo": "13 referências — 1 com problema (1 de severidade alta)."
   },
   "factcheck_defense": {
     "label": "defesa",
     "citacoes": [
       {
-        "artigo": "Artigo 351.º, n.º 1, alínea g), do Código do Trabalho",
-        "afirmacao": "Constitui justa causa de despedimento o comportamento do trabalhador que consista em faltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou dez interpoladas, independentemente de prejuízo ou risco.",
-        "ref_base": "Artigo 351.º",
+        "artigo": "Artigo 141.º, n.º 1, alínea e), do Código do Trabalho",
+        "afirmacao": "Exige a indicação do motivo justificativo do contrato a termo, mas a falta de menção do nome do substituído e das datas da ausência não determina automaticamente a nulidade, podendo ser suprida por outros elementos.",
+        "ref_base": "Artigo 141.º",
         "existe": true,
-        "texto_real": "Artigo 351.º\nNoção de justa causa de despedimento\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n2\t- Na apreciação da justa causa, deve atender-se, no quadro de gestão da empresa, ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes ou entre o trabalhador e os seus companheiros e às demais circunstâncias que no caso sejam relevantes.",
+        "texto_real": "Artigo 141.º\nForma e conteúdo de contrato de trabalho a termo\n1 - O contrato de trabalho a termo está sujeito a forma escrita e deve conter:\na)\tIdentificação, assinaturas e domicílio ou sede das partes;\nb)\tActividade do trabalhador e correspondente retribuição;\nc)\tLocal e período normal de trabalho;\nd)\tData de início do trabalho;\ne)\tIndicação do termo estipulado, ou da duração previsível do contrato, e do respetivo motivo justificativo, consoante se trate, respetivamente, de contrato a termo certo ou incerto;\nf)\tDatas de celebração do contrato e, sendo a termo certo, da respectiva cessação.\n2 - Na falta da referência exigida pela alínea d) do número anterior, considera-se que o contrato tem início na data da sua celebração.\n3 - Para efeitos da alínea e) do n.º 1, a indicação do motivo justificativo do termo deve ser feita com menção expressa dos factos que o integram, devendo estabelecer-se a relação entre a justificação invocada e o termo estipulado.\n4 - Constitui contra-ordenação grave a violação do disposto na alínea e) do n.º 1 ou no n.º 3.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 351.º, n.º 2, do Código do Trabalho",
-        "afirmacao": "Na apreciação da justa causa deve atender-se ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes e demais circunstâncias relevantes.",
-        "ref_base": "Artigo 351.º",
+        "artigo": "Artigo 147.º, n.º 1, alínea c), do Código do Trabalho",
+        "afirmacao": "A conversão em contrato sem termo só ocorre se a nulidade for declarada judicialmente, não sendo automática.",
+        "ref_base": "Artigo 147.º",
         "existe": true,
-        "texto_real": "Artigo 351.º\nNoção de justa causa de despedimento\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n1\t- Constituem, nomeadamente, justa causa de despedimento os seguintes comportamentos do trabalhador:\na)\tDesobediência ilegítima às ordens dadas por responsáveis hierarquicamente superiores;\nb)\tViolação de direitos e garantias de trabalhadores da empresa;\nc)\tProvocação repetida de conflitos com trabalhadores da empresa;\nd)\tDesinteresse repetido pelo cumprimento, com a diligência devida, de obrigações inerentes ao exercício do cargo ou posto de trabalho a que está afecto;\ne)\tLesão de interesses patrimoniais sérios da empresa;\nf)\tFalsas declarações relativas à justificação de faltas;\ng)\tFaltas não justificadas ao trabalho que determinem directamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco;\nh)\tFalta culposa de observância de regras de segurança e saúde no trabalho;\ni)\tPrática, no âmbito da empresa, de violências físicas, injúrias ou outras ofensas punidas por lei sobre trabalhador da empresa, elemento dos corpos sociais ou empregador individual não pertencente a estes, seus delegados ou representantes;\nj)\tSequestro ou em geral crime contra a liberdade das pessoas referidas na alínea anterior;\nl)\tIncumprimento ou oposição ao cumprimento de decisão judicial ou administrativa;\nm)\tReduções anormais de produtividade.\n2\t- Na apreciação da justa causa, deve atender-se, no quadro de gestão da empresa, ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes ou entre o trabalhador e os seus companheiros e às demais circunstâncias que no caso sejam relevantes.",
+        "texto_real": "Artigo 147.º\nContrato de trabalho sem termo\n1 - Considera-se sem termo o contrato de trabalho:\na)\tAquele cuja renovação tenha sido feita em violação do disposto no artigo 149.º;\nb)\tAquele em que seja excedido o prazo de duração ou o número de renovações a que se refere o artigo seguinte;\nc)\tO celebrado a termo incerto, quando o trabalhador permaneça em actividade após a data de caducidade indicada na comunicação do empregador ou, na falta desta, decorridos 15 dias após a verificação do termo.\nd)\tCelebrado em violação do disposto no n.º 1 do artigo 143.º 2 - Converte-se em contrato de trabalho sem termo:\na)\tAquele cuja renovação tenha sido feita em violação do disposto no artigo 149.º;\nb)\tAquele em que seja excedido o prazo de duração ou o número de renovações a que se refere o artigo seguinte;\nc)\tO celebrado a termo incerto, quando o trabalhador permaneça em actividade após a data de caducidade indicada na comunicação do empregador ou, na falta desta, decorridos 15 dias após a verificação do termo.\n3\t- Em situação referida no n.º 1 ou 2, a antiguidade do trabalhador conta-se desde o início da prestação de trabalho, excepto em situação a que se refere a alínea d) do n.º 1, em que compreende o tempo de trabalho prestado em cumprimento dos contratos sucessivos.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 353.º do Código do Trabalho",
-        "afirmacao": "Exige a comunicação escrita da intenção de despedimento e a junção de nota de culpa com descrição circunstanciada dos factos.",
-        "ref_base": "Artigo 353.º",
+        "artigo": "Artigo 147.º, n.º 2, do Código do Trabalho",
+        "afirmacao": "A nulidade da estipulação do termo não é automática, dependendo de impugnação atempada, e o trabalhador não pode beneficiar da sua própria inércia.",
+        "ref_base": "Artigo 147.º",
         "existe": true,
-        "texto_real": "Artigo 353.º\nNota de culpa\n1\t- No caso em que se verifique algum comportamento susceptível de constituir justa causa de despedimento, o empregador comunica, por escrito, ao trabalhador que o tenha praticado a intenção de proceder ao seu despedimento, juntando nota de culpa com a descrição circunstanciada dos factos que lhe são imputados.\n2\t- Na mesma data, o empregador remete cópias da comunicação e da nota de culpa à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respectiva.\n3\t- A notificação da nota de culpa ao trabalhador interrompe a contagem dos prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º\n4\t- Constitui contra-ordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1 ou 2.",
+        "texto_real": "Artigo 147.º\nContrato de trabalho sem termo\n1 - Considera-se sem termo o contrato de trabalho:\na)\tAquele cuja renovação tenha sido feita em violação do disposto no artigo 149.º;\nb)\tAquele em que seja excedido o prazo de duração ou o número de renovações a que se refere o artigo seguinte;\nc)\tO celebrado a termo incerto, quando o trabalhador permaneça em actividade após a data de caducidade indicada na comunicação do empregador ou, na falta desta, decorridos 15 dias após a verificação do termo.\nd)\tCelebrado em violação do disposto no n.º 1 do artigo 143.º 2 - Converte-se em contrato de trabalho sem termo:\na)\tAquele cuja renovação tenha sido feita em violação do disposto no artigo 149.º;\nb)\tAquele em que seja excedido o prazo de duração ou o número de renovações a que se refere o artigo seguinte;\nc)\tO celebrado a termo incerto, quando o trabalhador permaneça em actividade após a data de caducidade indicada na comunicação do empregador ou, na falta desta, decorridos 15 dias após a verificação do termo.\n3\t- Em situação referida no n.º 1 ou 2, a antiguidade do trabalhador conta-se desde o início da prestação de trabalho, excepto em situação a que se refere a alínea d) do n.º 1, em que compreende o tempo de trabalho prestado em cumprimento dos contratos sucessivos.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 355.º do Código do Trabalho",
-        "afirmacao": "Assegura o direito de resposta no prazo de 10 dias úteis.",
-        "ref_base": "Artigo 355.º",
+        "artigo": "Artigo 337.º do Código do Trabalho",
+        "afirmacao": "O direito ao pagamento de créditos laborais prescreve no prazo de um ano a contar da data de exigibilidade.",
+        "ref_base": "Artigo 337.º",
         "existe": true,
-        "texto_real": "Artigo 355.º\nResposta à nota de culpa\n1\t- O trabalhador dispõe de 10 dias úteis para consultar o processo e responder à nota de culpa, deduzindo por escrito os elementos que considera relevantes para esclarecer os factos e a sua participação nos mesmos, podendo juntar documentos e solicitar as diligências probatórias que se mostrem pertinentes para o esclarecimento da verdade.\n2\t- Constitui contra-ordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto no número anterior.",
+        "texto_real": "Artigo 337.º\nPrescrição e prova de crédito\n1\t- O crédito de empregador ou de trabalhador emergente de contrato de trabalho, da sua violação ou cessação prescreve decorrido um ano a partir do dia seguinte àquele em que cessou o contrato de trabalho.\n2\t- O crédito correspondente a compensação por violação do direito a férias, indemnização por aplicação de sanção abusiva ou pagamento de trabalho suplementar, vencido há mais de cinco anos, só pode ser provado por documento idóneo.\n3\t- O crédito de trabalhador, referido no n.º 1, não é suscetível de extinção por meio de remissão abdicativa, salvo através de transação judicial.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 356.º do Código do Trabalho",
-        "afirmacao": "Regula a instrução, com limite de testemunhas e possibilidade de parecer da comissão de trabalhadores ou associação sindical.",
-        "ref_base": "Artigo 356.º",
+        "artigo": "Artigo 268.º do Código do Trabalho",
+        "afirmacao": "Não foi alegado nem provado que o supervisor tivesse competência para autorizar trabalho suplementar, pelo que a prestação pode ter sido voluntária e não imputável à empresa.",
+        "ref_base": "Artigo 268.º",
         "existe": true,
-        "texto_real": "Artigo 356.º\nInstrução\n1\t- O empregador, por si ou através de instrutor que tenha nomeado, deve realizar as diligências probatórias requeridas na resposta à nota de culpa, a menos que as considere patentemente dilatórias ou impertinentes, devendo neste caso alegá-lo fundamentadamente por escrito.\n2\t- (Revogado).\n3\t- O empregador não é obrigado a proceder à audição de mais de três testemunhas por cada facto descrito na nota de culpa, nem mais de 10 no total.\n4\t- O trabalhador deve assegurar a comparência das testemunhas que indicar.\n5\t- Após a conclusão das diligências probatórias, o empregador apresenta cópia integral do processo à comissão de trabalhadores e, caso o trabalhador seja representante sindical, à associação sindical respetiva, que podem, no prazo de cinco dias úteis, fazer juntar ao processo o seu parecer fundamentado.\n6\t- Para efeito do número anterior, o trabalhador pode comunicar ao empregador, nos três dias úteis posteriores à recepção da nota de culpa, que o parecer sobre o processo é emitido por determinada associação sindical, não havendo neste caso lugar a apresentação de cópia do processo à comissão de trabalhadores.\n7\t- Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 5 e 6.",
+        "texto_real": "Artigo 268.º\nPagamento de trabalho suplementar\n1\t- O trabalho suplementar até 100 horas anuais é pago pelo valor da retribuição horária com os seguintes acréscimos:\na)\t25 % pela primeira hora ou fração desta e 37,5 % por hora ou fração subsequente, em dia útil;\nb)\t50 % por cada hora ou fração, em dia de descanso semanal, obrigatório ou complementar, ou em feriado.\n2\t- O trabalho suplementar superior a 100 horas anuais é pago pelo valor da retribuição horária com os seguintes acréscimos:\na)\t50 % pela primeira hora ou fração desta e 75 % por hora ou fração subsequente, em dia útil;\nb)\t100 % por cada hora ou fração, em dia de descanso semanal, obrigatório ou complementar, ou em feriado.\n3\t- (Revogado).\n4\t- É exigível o pagamento de trabalho suplementar cuja prestação tenha sido prévia e expressamente determinada, ou realizada de modo a não ser previsível a oposição do empregador.\n5\t- Constitui contraordenação grave a violação do disposto nos n.os 1 e 2.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 357.º, n.º 4, do Código do Trabalho",
-        "afirmacao": "Exige que a decisão pondere as circunstâncias do caso e a adequação do despedimento à culpabilidade do trabalhador.",
-        "ref_base": "Artigo 357.º",
+        "artigo": "Artigo 239.º do Código do Trabalho",
+        "afirmacao": "O subsídio de férias não é devido porque as férias foram gozadas após o termo do contrato, como mera liberalidade da empresa, não havendo norma que imponha o seu pagamento nestas circunstâncias.",
+        "ref_base": "Artigo 239.º",
         "existe": true,
-        "texto_real": "Artigo 357.º\nDecisão de despedimento por facto imputável ao trabalhador\n1\t- Recebidos os pareceres referidos no n.º 5 do artigo anterior ou decorrido o prazo para o efeito, o empregador dispõe de 30 dias para proferir a decisão de despedimento, sob pena de caducidade do direito de aplicar a sanção.\n2\t- Quando não exista comissão de trabalhadores e o trabalhador não seja representante sindical, o prazo referido no número anterior conta-se a partir da data da conclusão da última diligência de instrução.\n3\t- (Revogado).\n4\t- Na decisão são ponderadas as circunstâncias do caso, nomeadamente as referidas no n.º 3 do artigo 351.º, a adequação do despedimento à culpabilidade do trabalhador e os pareceres dos representantes dos trabalhadores, não podendo ser invocados factos não constantes da nota de culpa ou da resposta do trabalhador, salvo se atenuarem a responsabilidade.\n5\t- A decisão deve ser fundamentada e constar de documento escrito.\n6\t- A decisão é comunicada, por cópia ou transcrição, ao trabalhador, à comissão de trabalhadores, ou à associação sindical respectiva, caso aquele seja representante sindical ou na situação a que se refere o n.º 6 do artigo anterior.\n7\t- A decisão determina a cessação do contrato logo que chega ao poder do trabalhador ou é dele conhecida ou, ainda, quando só por culpa do trabalhador não foi por ele oportunamente recebida.\n8\t- Constitui contraordenação grave, ou muito grave no caso de representante sindical, o despedimento de trabalhador com violação do disposto nos n.os 1, 2 e 5 a 7.",
+        "texto_real": "Artigo 239.º\nCasos especiais de duração do período de férias\n1\t- No ano da admissão, o trabalhador tem direito a dois dias úteis de férias por cada mês de duração do contrato, até 20 dias, cujo gozo pode ter lugar após seis meses completos de execução do contrato.\n2\t- No caso de o ano civil terminar antes de decorrido o prazo referido no número anterior, as férias são gozadas até 30 de Junho do ano subsequente.\n3\t- Da aplicação do disposto nos números anteriores não pode resultar o gozo, no mesmo ano civil, de mais de 30 dias úteis de férias, sem prejuízo do disposto em instrumento de regulamentação colectiva de trabalho.\n4\t- No caso de a duração do contrato de trabalho ser inferior a seis meses, o trabalhador tem direito a dois dias úteis de férias por cada mês completo de duração do contrato, contando-se para o efeito todos os dias seguidos ou interpolados de prestação de trabalho.\n5\t- As férias referidas no número anterior são gozadas imediatamente antes da cessação do contrato, salvo acordo das partes.\n6\t- No ano de cessação de impedimento prolongado iniciado em ano anterior, o trabalhador tem direito a férias nos termos dos n.os 1 e 2.\n7\t- Constitui contra-ordenação grave a violação do disposto nos n.os 1, 4, 5 ou 6.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 329.º, n.º 2, do Código do Trabalho",
-        "afirmacao": "Estabelece que o procedimento disciplinar deve iniciar-se nos 60 dias subsequentes ao conhecimento da infracção pelo empregador.",
-        "ref_base": "Artigo 329.º",
+        "artigo": "Artigo 264.º do Código do Trabalho",
+        "afirmacao": "O trabalhador não tinha direito a férias não gozadas, pelo que o subsídio correspondente não é exigível.",
+        "ref_base": "Artigo 264.º",
         "existe": true,
-        "texto_real": "Artigo 329.º\nProcedimento disciplinar e prescrição\n1\t- O direito de exercer o poder disciplinar prescreve um ano após a prática da infracção, ou no prazo de prescrição da lei penal se o facto constituir igualmente crime.\n2\t- O procedimento disciplinar deve iniciar-se nos 60 dias subsequentes àquele em que o empregador, ou o superior hierárquico com competência disciplinar, teve conhecimento da infracção.\n3\t- O procedimento disciplinar prescreve decorrido um ano contado da data em que é instaurado quando, nesse prazo, o trabalhador não seja notificado da decisão final.\n4\t- O poder disciplinar pode ser exercido directamente pelo empregador, ou por superior hierárquico do trabalhador, nos termos estabelecidos por aquele.\n5\t- Iniciado o procedimento disciplinar, o empregador pode suspender o trabalhador se a presença deste se mostrar inconveniente, mantendo o pagamento da retribuição.\n6\t- A sanção disciplinar não pode ser aplicada sem audiência prévia do trabalhador.\n7\t- Sem prejuízo do correspondente direito de acção judicial, o trabalhador pode reclamar para o escalão hierarquicamente superior ao que aplicou a sanção, ou recorrer a processo de resolução de litígio quando previsto em instrumento de regulamentação colectiva de trabalho ou na lei.\n8\t- Constitui contra-ordenação grave a violação do disposto no n.º 6.",
+        "texto_real": "Artigo 264.º\nRetribuição do período de férias e subsídio\n1\t- A retribuição do período de férias corresponde à que o trabalhador receberia se estivesse em serviço efectivo.\n2\t- Além da retribuição mencionada no número anterior, o trabalhador tem direito a subsídio de férias, compreendendo a retribuição base e outras prestações retributivas que sejam contrapartida do modo específico da execução do trabalho, correspondentes à duração mínima das férias.\n3\t- Salvo acordo escrito em contrário, o subsídio de férias deve ser pago antes do início do período de férias e proporcionalmente em caso de gozo interpolado de férias.\n4\t- Constitui contra-ordenação muito grave a violação do disposto neste artigo.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 329.º, n.º 1, do Código do Trabalho",
-        "afirmacao": "Fixa o prazo de prescrição do direito disciplinar em um ano após a prática da infracção.",
-        "ref_base": "Artigo 329.º",
+        "artigo": "Artigo 344.º, n.º 1, do Código do Trabalho",
+        "afirmacao": "A compensação por caducidade não é devida porque o contrato caducou por verificação do termo, mas não houve comunicação prévia de cessação por nenhuma das partes.",
+        "ref_base": "Artigo 344.º",
         "existe": true,
-        "texto_real": "Artigo 329.º\nProcedimento disciplinar e prescrição\n1\t- O direito de exercer o poder disciplinar prescreve um ano após a prática da infracção, ou no prazo de prescrição da lei penal se o facto constituir igualmente crime.\n2\t- O procedimento disciplinar deve iniciar-se nos 60 dias subsequentes àquele em que o empregador, ou o superior hierárquico com competência disciplinar, teve conhecimento da infracção.\n3\t- O procedimento disciplinar prescreve decorrido um ano contado da data em que é instaurado quando, nesse prazo, o trabalhador não seja notificado da decisão final.\n4\t- O poder disciplinar pode ser exercido directamente pelo empregador, ou por superior hierárquico do trabalhador, nos termos estabelecidos por aquele.\n5\t- Iniciado o procedimento disciplinar, o empregador pode suspender o trabalhador se a presença deste se mostrar inconveniente, mantendo o pagamento da retribuição.\n6\t- A sanção disciplinar não pode ser aplicada sem audiência prévia do trabalhador.\n7\t- Sem prejuízo do correspondente direito de acção judicial, o trabalhador pode reclamar para o escalão hierarquicamente superior ao que aplicou a sanção, ou recorrer a processo de resolução de litígio quando previsto em instrumento de regulamentação colectiva de trabalho ou na lei.\n8\t- Constitui contra-ordenação grave a violação do disposto no n.º 6.",
+        "texto_real": "Artigo 344.º\nCaducidade de contrato de trabalho a termo certo\n1\t- O contrato de trabalho a termo certo caduca no final do prazo estipulado, ou da sua renovação, desde que o empregador ou o trabalhador comunique à outra parte a vontade de o fazer cessar, por escrito, respectivamente, 15 ou oito dias antes de o prazo expirar.\n2\t- Em caso de caducidade de contrato de trabalho a termo certo por verificação do seu termo, o trabalhador tem direito a compensação correspondente a 24 dias de retribuição base e diuturnidades por cada ano completo de antiguidade, calculada nos termos do artigo 366.º, salvo se a caducidade decorrer de declaração do trabalhador nos termos do número anterior.\n3\t- (Revogado).\n4\t- (Revogado).\n5\t- Constitui contraordenação grave a violação do disposto no n.º 2.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
       },
       {
-        "artigo": "Artigo 382.º, n.º 2, do Código do Trabalho",
-        "afirmacao": "Só é aplicável após a prática do despedimento, não antes.",
-        "ref_base": "Artigo 382.º",
+        "artigo": "Artigo 344.º, n.º 2, do Código do Trabalho",
+        "afirmacao": "Só confere direito a compensação em caso de caducidade por verificação do termo, mas a falta de comunicação prévia e a ausência de reclamação afastam a obrigação.",
+        "ref_base": "Artigo 344.º",
         "existe": true,
-        "texto_real": "Artigo 382.º\nIlicitude de despedimento por facto imputável ao trabalhador\n1\t- O despedimento por facto imputável ao trabalhador é ainda ilícito se tiverem decorrido os prazos estabelecidos nos n.os 1 ou 2 do artigo 329.º, ou se o respectivo procedimento for inválido.\n2\t- O procedimento é inválido se:\na)\tFaltar a nota de culpa, ou se esta não for escrita ou não contiver a descrição circunstanciada dos factos imputados ao trabalhador;\nb)\tFaltar a comunicação da intenção de despedimento junta à nota de culpa;\nc)\tNão tiver sido respeitado o direito do trabalhador a consultar o processo ou a responder à nota de culpa ou, ainda, o prazo para resposta à nota de culpa;\nd)\tA comunicação ao trabalhador da decisão de despedimento e dos seus fundamentos não for feita por escrito, ou não esteja elaborada nos termos do n.º 4 do artigo 357.º ou do n.º 2 do artigo 358.º",
+        "texto_real": "Artigo 344.º\nCaducidade de contrato de trabalho a termo certo\n1\t- O contrato de trabalho a termo certo caduca no final do prazo estipulado, ou da sua renovação, desde que o empregador ou o trabalhador comunique à outra parte a vontade de o fazer cessar, por escrito, respectivamente, 15 ou oito dias antes de o prazo expirar.\n2\t- Em caso de caducidade de contrato de trabalho a termo certo por verificação do seu termo, o trabalhador tem direito a compensação correspondente a 24 dias de retribuição base e diuturnidades por cada ano completo de antiguidade, calculada nos termos do artigo 366.º, salvo se a caducidade decorrer de declaração do trabalhador nos termos do número anterior.\n3\t- (Revogado).\n4\t- (Revogado).\n5\t- Constitui contraordenação grave a violação do disposto no n.º 2.",
         "consistente": true,
         "problema": null,
         "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 29.º do Código do Trabalho",
+        "afirmacao": "O assédio moral exige um comportamento reiterado e prolongado, com o objetivo de humilhar ou desestabilizar o trabalhador, o que não se verifica no caso.",
+        "ref_base": "Artigo 29.º",
+        "existe": true,
+        "texto_real": "Artigo 29.º\nAssédio\n1\t- É proibida a prática de assédio.\n2\t- Entende-se por assédio o comportamento indesejado, nomeadamente o baseado em factor de discriminação, praticado aquando do acesso ao emprego ou no próprio emprego, trabalho ou formação profissional, com o objectivo ou o efeito de perturbar ou constranger a pessoa, afectar a sua dignidade, ou de lhe criar um ambiente intimidativo, hostil, degradante, humilhante ou desestabilizador.\n3\t- Constitui assédio sexual o comportamento indesejado de carácter sexual, sob forma verbal, não verbal ou física, com o objectivo ou o efeito referido no número anterior.\n4\t- A prática de assédio confere à vítima o direito de indemnização, aplicando-se o disposto no artigo anterior.\n5\t- A prática de assédio constitui contraordenação muito grave, sem prejuízo da eventual responsabilidade penal prevista nos termos da lei.\n6\t- O denunciante e as testemunhas por si indicadas não podem ser sancionados disciplinarmente, a menos que atuem com dolo, com base em declarações ou factos constantes dos autos de processo, judicial ou contraordenacional, desencadeado por assédio até decisão final, transitada em julgado, sem prejuízo do exercício do direito ao contraditório.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 127.º do Código do Trabalho",
+        "afirmacao": "As críticas ao desempenho inserem-se no poder de direção do empregador e não configuram assédio moral.",
+        "ref_base": "Artigo 127.º",
+        "existe": true,
+        "texto_real": "Artigo 127.º\nDeveres do empregador\n1\t- O empregador deve, nomeadamente:\na)\tRespeitar e tratar o trabalhador com urbanidade e probidade, afastando quaisquer atos que possam afetar a dignidade do trabalhador, que sejam discriminatórios, lesivos, intimidatórios, hostis ou humilhantes para o trabalhador, nomeadamente assédio;\nb)\tPagar pontualmente a retribuição, que deve ser justa e adequada ao trabalho;\nc)\tProporcionar boas condições de trabalho, do ponto de vista físico e moral;\nd)\tContribuir para a elevação da produtividade e empregabilidade do trabalhador, nomeadamente proporcionando-lhe formação profissional adequada a desenvolver a sua qualificação;\ne)\tRespeitar a autonomia técnica do trabalhador que exerça actividade cuja regulamentação ou deontologia profissional a exija;\nf)\tPossibilitar o exercício de cargos em estruturas representativas dos trabalhadores;\ng)\tPrevenir riscos e doenças profissionais, tendo em conta a protecção da segurança e saúde do trabalhador, devendo indemnizá-lo dos prejuízos resultantes de acidentes de trabalho;\nh)\tAdoptar, no que se refere a segurança e saúde no trabalho, as medidas que decorram de lei ou instrumento de regulamentação colectiva de trabalho;\ni)\tFornecer ao trabalhador a informação e a formação adequadas à prevenção de riscos de acidente ou doença;\nj)\tManter actualizado, em cada estabelecimento, o registo dos trabalhadores com indicação de nome, datas de nascimento e admissão, modalidade de contrato, categoria, promoções, retribuições, datas de início e termo das férias e faltas que impliquem perda da retribuição ou diminuição de dias de férias.\nk)\tAdotar códigos de boa conduta para a prevenção e combate ao assédio no trabalho, sempre que a empresa tenha sete ou mais trabalhadores;\nl)\tInstaurar procedimento disciplinar sempre que tiver conhecimento de alegadas situações de assédio no trabalho.\n2\t- Na organização da actividade, o empregador deve observar o princípio geral da adaptação do trabalho à pessoa, com vista nomeadamente a atenuar o trabalho monótono ou cadenciado em função do tipo de actividade, e as exigências em matéria de segurança e saúde, designadamente no que se refere a pausas durante o tempo de trabalho.\n3\t- O empregador deve proporcionar ao trabalhador condições de trabalho que favoreçam a conciliação da actividade profissional com a vida familiar e pessoal.\n4\t- O empregador deve afixar nas instalações da empresa toda a informação sobre a legislação referente ao direito de parentalidade ou, se for elaborado regulamento interno a que alude o artigo 99.º, consagrar no mesmo toda essa legislação.\n5\t- (Revogado.)\n6\t- (Revogado.)\n7\t- Constitui contraordenação grave a violação do disposto nas alíneas k) e l) do n.º 1 e contraordenação leve a violação do disposto na alínea j) do n.º 1 e no n.º 4.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 97.º do Código do Trabalho",
+        "afirmacao": "As críticas ao desempenho inserem-se no poder de direção do empregador.",
+        "ref_base": "Artigo 97.º",
+        "existe": true,
+        "texto_real": "Artigo 97.º\nPoder de direcção\nCompete ao empregador estabelecer os termos em que o trabalho deve ser prestado, dentro dos limites decorrentes do contrato e das normas que o regem.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 483.º do Código Civil",
+        "afirmacao": "A ausência de queixa formal e de prova dos danos impede a condenação em indemnização por danos não patrimoniais.",
+        "ref_base": "Artigo 483.º",
+        "existe": true,
+        "texto_real": "Artigo 483.º\nConcorrência entre instrumentos de regulamentação colectiva de trabalho não negociais\n1\t- Sempre que exista concorrência entre instrumentos de regulamentação colectiva de trabalho não negociais, são observados os seguintes critérios de preferência:\na)\tA decisão de arbitragem obrigatória afasta a aplicação de outro instrumento;\nb)\tA portaria de extensão afasta a aplicação de portaria de condições de trabalho.\n2\t- Em caso de concorrência entre portarias de extensão aplica-se o previsto nos n.os 2 a 4 do artigo anterior, relativamente às convenções colectivas objecto de extensão.",
+        "consistente": true,
+        "problema": null,
+        "severidade": "nenhuma"
+      },
+      {
+        "artigo": "Artigo 798.º do Código Civil",
+        "afirmacao": "A ausência de queixa formal e de prova dos danos impede a condenação em indemnização por danos não patrimoniais.",
+        "ref_base": "Artigo 798.º",
+        "existe": false,
+        "texto_real": null,
+        "consistente": false,
+        "problema": "Artigo NÃO existe no Código do Trabalho.",
+        "severidade": "alta"
       }
     ],
-    "invalidos": [],
-    "resumo": "9 referências verificadas — todas consistentes."
+    "invalidos": [
+      {
+        "artigo": "Artigo 798.º do Código Civil",
+        "afirmacao": "A ausência de queixa formal e de prova dos danos impede a condenação em indemnização por danos não patrimoniais.",
+        "ref_base": "Artigo 798.º",
+        "existe": false,
+        "texto_real": null,
+        "consistente": false,
+        "problema": "Artigo NÃO existe no Código do Trabalho.",
+        "severidade": "alta"
+      }
+    ],
+    "resumo": "14 referências — 1 com problema (1 de severidade alta)."
   },
-  "verdict": "**SENTENÇA**\n\n**Processo n.º [a atribuir]**\n**Tribunal do Trabalho de [a designar]**\n\n**I. FACTOS PROVADOS**\n\n1. Bernardo celebrou um contrato de trabalho sem termo com a empresa “MetalGuerreiros, Lda.”, exercendo funções de operador de máquinas.\n2. À data dos factos, Bernardo tinha uma antiguidade de 4 (quatro) anos ao serviço da empregadora.\n3. No dia 1 de outubro, Bernardo deixou de comparecer ao trabalho.\n4. Bernardo não prestou qualquer informação à empregadora que justificasse a sua ausência.\n5. Decorreram 12 (doze) dias úteis de ausência total e sem justificação.\n6. A empregadora tem conhecimento da ausência de Bernardo desde, pelo menos, o dia 1 de outubro.\n7. Até à data da propositura da presente ação, a empregadora não instaurou qualquer procedimento disciplinar contra Bernardo, nem lhe comunicou a intenção de proceder ao seu despedimento.\n8. Não foi proferida qualquer decisão de despedimento pela empregadora.\n\n**II. FACTOS NÃO PROVADOS**\n\n1. Não se provou que a empregadora seja uma microempresa (com menos de 10 trabalhadores).\n2. Não se provou a existência de comissão de trabalhadores na empresa ou que Bernardo seja representante sindical.\n3. Não se provou que a presença de Bernardo na empresa se mostre inconveniente.\n4. Não se provou que as faltas de Bernardo tenham causado prejuízos ou riscos graves para a empregadora.\n5. Não se provou que Bernardo tenha justificado as faltas por motivo de doença ou qualquer outra causa legalmente admissível.\n6. Não se provou que Bernardo tenha manifestado a vontade de cessar o contrato de trabalho.\n\n**III. FUNDAMENTAÇÃO DE DIREITO**\n\n**A. Questão prévia: a natureza da ausência e a inexistência de despedimento**\n\nA primeira questão que cumpre dirimir é a de saber qual a qualificação jurídica da ausência de Bernardo ao trabalho e quais as consequências legais que daí decorrem para a empregadora.\n\nO dossiê do intérprete e os factos provados demonstram que Bernardo se ausentou durante 12 dias úteis consecutivos, sem justificação e sem qualquer comunicação à empregadora. Esta situação é suscetível de integrar a previsão da alínea g) do n.º 1 do artigo 351.º do Código do Trabalho, que estabelece que constitui justa causa de despedimento as faltas não justificadas ao trabalho que determinem diretamente prejuízos ou riscos graves para a empresa, ou cujo número atinja, em cada ano civil, cinco seguidas ou 10 interpoladas, independentemente de prejuízo ou risco.\n\nCom efeito, o número de faltas seguidas (12) ultrapassa largamente o limite de cinco faltas seguidas em cada ano civil, pelo que se verifica objetivamente o requisito legal, independentemente de prejuízo ou risco. A lei não exige a prova de prejuízo grave quando o número de faltas é atingido, conforme resulta da própria letra da alínea g).\n\nContudo, a verificação objetiva da justa causa não dispensa a apreciação global prevista no n.º 2 do artigo 351.º do Código do Trabalho, que impõe que se atenda ao grau de lesão dos interesses do empregador, ao carácter das relações entre as partes e às demais circunstâncias relevantes. No caso concreto, a antiguidade de 4 anos e a função de operador de máquinas são circunstâncias a considerar, mas não afastam, por si só, a gravidade da conduta.\n\nImporta, porém, clarificar que a ausência ao trabalho não é causa de caducidade do contrato de trabalho. O artigo 343.º do Código do Trabalho estabelece taxativamente as causas de caducidade, que não incluem a ausência não justificada. Também não é admissível o despedimento tácito no direito português, uma vez que a cessação do contrato por iniciativa do trabalhador exige declaração de vontade expressa, nos termos do artigo 395.º e seguintes do Código do Trabalho. A ausência ao trabalho apenas pode fundamentar um despedimento por justa causa, sujeito ao competente procedimento disciplinar.\n\n**B. Da inexistência de despedimento e da improcedência do pedido de declaração de ilicitude**\n\nResulta dos factos provados que a empregadora não instaurou qualquer procedimento disciplinar, não comunicou a intenção de despedimento, não elaborou nota de culpa e não proferiu qualquer decisão de despedimento. Ou seja, não houve, até à data, qualquer despedimento.\n\nO artigo 382.º do Código do Trabalho estabelece que o despedimento por facto imputável ao trabalhador é ilícito se tiverem decorrido os prazos dos n.ºs 1 ou 2 do artigo 329.º, ou se o respetivo procedimento for inválido. A invalidade do procedimento verifica-se, designadamente, por falta de nota de culpa, falta de comunicação da intenção de despedimento, violação do direito de resposta ou falta de decisão escrita e fundamentada.\n\nOra, a ilicitude do despedimento pressupõe a existência de um despedimento. No caso em apreço, não houve despedimento, pelo que não há que declarar a sua ilicitude. A acusação confunde a ausência de procedimento até à data com a sua inexistência futura, pretendendo obter uma declaração de ilicitude de um ato que ainda não foi praticado.\n\nCom efeito, a empregadora manifestou a intenção de instaurar o competente processo disciplinar, o que é o meio legalmente adequado para fazer valer a justa causa de despedimento. A acusação não pode prevalecer-se da inércia da empregadora para obter uma declaração de ilicitude que, juridicamente, não tem cabimento.\n\nAssim, o pedido de declaração de ilicitude do despedimento formulado pela acusação terá de improceder, por inexistência do ato de despedimento.\n\n**C. Da tempestividade do procedimento disciplinar**\n\nNão obstante a improcedência do pedido de declaração de ilicitude, importa apreciar a questão da tempestividade do procedimento disciplinar, uma vez que a empregadora pretende instaurá-lo.\n\nO artigo 329.º, n.º 2, do Código do Trabalho estabelece que o procedimento disciplinar deve iniciar-se nos 60 dias subsequentes àquele em que o empregador, ou o superior hierárquico com competência disciplinar, teve conhecimento da infração. No caso concreto, a empregadora tem conhecimento das faltas desde, pelo menos, o dia 1 de outubro. O prazo de 60 dias para instaurar o procedimento disciplinar está, pois, a decorrer, devendo a empregadora agir dentro desse prazo.\n\nPor outro lado, o n.º 1 do artigo 329.º fixa o prazo de prescrição do direito disciplinar em um ano após a prática da infração. As faltas ocorreram a partir de 1 de outubro, pelo que o prazo de prescrição ainda não decorreu.\n\nAcresce que, nos termos do n.º 3 do artigo 353.º do Código do Trabalho, a notificação da nota de culpa ao trabalhador interrompe a contagem dos prazos estabelecidos nos n.ºs 1 ou 2 do artigo 329.º, pelo que a empregadora deve notificar Bernardo da nota de culpa dentro do prazo de 60 dias para evitar a caducidade do direito de aplicar a sanção.\n\n**D. Da observância do procedimento disciplinar**\n\nA empregadora, ao pretender despedir Bernardo por justa causa, deve observar rigorosamente o procedimento previsto nos artigos 353.º e seguintes do Código do Trabalho, sob pena de o despedimento ser ilícito, nos termos do artigo 382.º, n.º 2, do Código do Trabalho.\n\nAssim, a empregadora deve:\na) Comunicar por escrito a Bernardo a intenção de proceder ao seu despedimento, juntando nota de culpa com a descrição circunstanciada dos factos imputados (artigo 353.º, n.º 1);\nb) Remeter cópias da comunicação e da nota de culpa à comissão de trabalhadores, se existir, e à associação sindical, caso Bernardo seja representante sindical (artigo 353.º, n.º 2);\nc) Conceder a Bernardo o prazo de 10 dias úteis para consultar o processo e responder à nota de culpa, podendo juntar documentos e solicitar diligências probatórias (artigo 355.º, n.º 1);\nd) Realizar as diligências probatórias requeridas na resposta, salvo se patentemente dilatórias ou impertinentes (artigo 356.º, n.º 1);\ne) Apresentar cópia integral do processo à comissão de trabalhadores e, se aplicável, à associação sindical, que podem emitir parecer em 5 dias úteis (artigo 356.º, n.º 5);\nf) Proferir decisão fundamentada, por escrito, no prazo de 30 dias após recebidos os pareceres ou decorrido o prazo para o efeito, ponderando as circunstâncias do caso, a adequação do despedimento à culpabilidade do trabalhador e os pareceres dos representantes dos trabalhadores (artigo 357.º, n.ºs 1, 4 e 5);\ng) Comunicar a decisão ao trabalhador e, se aplicável, à comissão de trabalhadores ou à associação sindical (artigo 357.º, n.º 6).\n\nA inobservância de qualquer destas formalidades determina a invalidade do procedimento e, consequentemente, a ilicitude do despedimento, nos termos do artigo 382.º, n.º 2, do Código do Trabalho.\n\n**E. Da proporcionalidade da sanção**\n\nA acusação invoca a desproporcionalidade da sanção de despedimento, atendendo à antiguidade de 4 anos e à ausência de prejuízo grave para a empregadora. Contudo, conforme já referido, a alínea g) do n.º 1 do artigo 351.º do Código do Trabalho dispensa a prova de prejuízo ou risco quando o número de faltas atinge cinco seguidas ou 10 interpoladas. Bernardo faltou 12 dias úteis consecutivos, ultrapassando largamente esse limite.\n\nA apreciação da proporcionalidade da sanção deverá ser feita pela empregadora no momento da decisão final, nos termos do artigo 357.º, n.º 4, do Código do Trabalho, ponderando as circunstâncias do caso e a adequação do despedimento à culpabilidade do trabalhador. Não cabe ao tribunal, nesta fase, substituir-se à empregadora nessa apreciação, uma vez que não houve ainda qualquer decisão de despedimento.\n\n**F. Da eventual justificação das faltas**\n\nA acusação alega que a ausência pode ser justificada por doença ou outra causa, que Bernardo poderá invocar em sede de resposta à nota de culpa. Com efeito, o ónus de justificar as faltas recai sobre o trabalhador, nos termos da alínea g) do n.º 1 do artigo 351.º do Código do Trabalho, que exclui as faltas justificadas. Até ao momento, Bernardo não apresentou qualquer justificação, pelo que as faltas são, para todos os efeitos legais, não justificadas. A eventual justificação deverá ser apresentada no prazo de resposta à nota de culpa, nos termos do artigo 355.º do Código do Trabalho.\n\n**G. Conclusão**\n\nFace ao exposto, conclui-se que:\n1. Não houve, até à data, qualquer despedimento de Bernardo, pelo que não há que declarar a sua ilicitude;\n2. A ausência de 12 dias úteis consecutivos sem justificação é suscetível de constituir justa causa de despedimento, nos termos da alínea g) do n.º 1 do artigo 351.º do Código do Trabalho;\n3. A empregadora deve instaurar o competente procedimento disciplinar, observando rigorosamente as formalidades previstas nos artigos 353.º e seguintes do Código do Trabalho, sob pena de o despedimento ser ilícito;\n4. O procedimento disciplinar deve ser instaurado dentro dos 60 dias subsequentes ao conhecimento da infração, nos termos do artigo 329.º, n.º 2, do Código do Trabalho;\n5. A eventual justificação das faltas deverá ser apresentada por Bernardo no prazo de resposta à nota de culpa.\n\n**IV. DECISÃO**\n\nPelo exposto, o Tribunal decide:\n\na) **Julgar improcedente** o pedido de declaração de ilicitude do despedimento formulado pela acusação, por inexistência de ato de despedimento;\n\nb) **Absolver** a empregadora “MetalGuerreiros, Lda.” do pedido de reintegração e de pagamento de indemnização de antiguidade e demais créditos laborais, por não se verificar a ilicitude do despedimento;\n\nc) **Reconhecer** à empregadora o direito de instaurar o competente procedimento disciplinar contra Bernardo, com observância das formalidades previstas nos artigos 353.º e seguintes do Código do Trabalho, no prazo de 60 dias subsequentes ao conhecimento da infração, nos termos do artigo 329.º, n.º 2, do Código do Trabalho;\n\nd) **Notificar** a empregadora de que a inobservância de qualquer das formalidades do procedimento disciplinar determina a invalidade do procedimento e a ilicitude do despedimento, nos termos do artigo 382.º, n.º 2, do Código do Trabalho.\n\nSem custas, por não haver vencimento na ação.\n\nNotifique-se.\n\nTribunal do Trabalho, [data].\n\nO Juiz de Direito"
+  "verdict": "**SENTENÇA**\n\n**Processo n.º [a atribuir]**\n**Tribunal do Trabalho de [a atribuir]**\n\n**Autor:** João Silva\n**Réu:** Construções Rápidas, Lda.\n\n---\n\n**I. FACTOS PROVADOS**\n\nCom relevância para a decisão da causa, consideram-se provados os seguintes factos:\n\n1. A Ré é uma sociedade comercial que se dedica à atividade de construção civil e que, à data dos factos, empregava 120 trabalhadores.\n2. Em 2 de janeiro de 2024, Autor e Ré celebraram um contrato de trabalho a termo certo, reduzido a escrito, para o exercício das funções de soldador.\n3. O contrato teve a duração de seis meses, de 2 de janeiro a 1 de julho de 2024, com um período experimental de 30 dias e uma retribuição base mensal de 1.200 euros, sem diuturnidades.\n4. Como motivo justificativo do termo, o contrato indicou a “substituição de trabalhador ausente”, sem que fossem indicados o nome do trabalhador substituído ou as datas de início e termo da respetiva ausência.\n5. Durante o período experimental, em janeiro de 2024, o Autor prestou 20 horas suplementares, distribuídas por 10 dias, a pedido do seu supervisor hierárquico.\n6. A Ré não pagou qualquer valor pelas horas suplementares prestadas, nem concedeu ao Autor descanso compensatório.\n7. O contrato caducou em 1 de julho de 2024.\n8. A Ré não pagou ao Autor qualquer compensação por caducidade do contrato.\n9. Em agosto de 2024, já após o termo do contrato, o Autor gozou 10 dias úteis de férias que lhe foram atribuídos pela Ré.\n10. A Ré recusou-se a pagar o subsídio de férias correspondente aos dias de férias gozados, alegando que, por se tratar de um contrato a termo, não haveria lugar a esse direito.\n11. Ao longo de todo o contrato, o supervisor hierárquico do Autor dirigiu-se repetidamente a este, em frente aos colegas, chamando-o de “incompetente”, “lento” e “inútil”, proferindo expressões humilhantes e vexatórias.\n12. O Autor não apresentou queixa formal, mas sofreu de ansiedade e insónia, tendo recorrido a apoio psicológico.\n\n---\n\n**II. FACTOS NÃO PROVADOS**\n\nNão se provaram, com relevância para a decisão, os seguintes factos:\n\n1. Que o supervisor hierárquico não tivesse competência para determinar a prestação de trabalho suplementar.\n2. Que a Ré tivesse conhecimento das expressões proferidas pelo supervisor e não tivesse adotado qualquer medida.\n3. Que o volume de negócios da Ré fosse inferior a 10.000.000 euros.\n4. Que o Autor tivesse reclamado, durante a execução do contrato ou após a cessação, o pagamento dos créditos ora reclamados, antes da propositura da ação.\n\n---\n\n**III. FUNDAMENTAÇÃO DE DIREITO**\n\n**A. Questão prévia: da validade do contrato a termo certo**\n\nO Autor sustenta que o contrato a termo certo é nulo por falta de indicação do trabalhador substituído e das datas da ausência, devendo ser convertido em contrato sem termo. A Ré defende a validade do contrato, alegando que o motivo justificativo foi indicado de forma suficiente e que a falta de menção não foi impugnada pelo trabalhador.\n\nVejamos.\n\nO artigo 141.º, n.º 1, alínea e), do Código do Trabalho exige que o contrato a termo contenha a “indicação do termo estipulado, ou da duração previsível do contrato, e do respetivo motivo justificativo”. O n.º 3 do mesmo artigo esclarece que “a indicação do motivo justificativo do termo deve ser feita com menção expressa dos factos que o integram, devendo estabelecer-se a relação entre a justificação invocada e o termo estipulado”.\n\nNo caso concreto, o contrato limitou-se a indicar a “substituição de trabalhador ausente”, sem identificar o trabalhador substituído nem as datas da respetiva ausência. Esta omissão impede a verificação da causa justificativa e a determinação da duração previsível da substituição, não sendo possível estabelecer a relação entre a justificação invocada e o termo estipulado, como exige o n.º 3 do artigo 141.º.\n\nA Ré alega que a falta de menção não determina automaticamente a nulidade e que o trabalhador aceitou a validade do contrato. Contudo, o artigo 147.º, n.º 1, alínea c), do Código do Trabalho, na redação aplicável, determina que se considera sem termo o contrato celebrado em violação do disposto no n.º 1 do artigo 143.º, e o n.º 2 do mesmo artigo estabelece a conversão em contrato sem termo nas situações aí previstas. A jurisprudência tem entendido que a falta de indicação do trabalhador substituído e das datas da ausência constitui vício que afeta a estipulação do termo, determinando a conversão do contrato em contrato sem termo, por não ser possível aferir da verificação da causa justificativa.\n\nAcresce que a circunstância de o trabalhador não ter impugnado o contrato durante a sua execução não sana o vício, pois trata-se de matéria de ordem pública, não disponível pelas partes. A Ré invoca o princípio da boa-fé, mas a boa-fé não pode legitimar a violação de normas imperativas.\n\nAssim, procede o pedido de declaração de nulidade da estipulação do termo e a conversão do contrato em contrato de trabalho sem termo.\n\n**Consequências da conversão**\n\nConvertido o contrato em contrato sem termo, a cessação ocorrida em 1 de julho de 2024 não pode ser qualificada como caducidade, mas antes como despedimento. Não tendo a Ré observado qualquer procedimento disciplinar ou invocado justa causa, o despedimento é ilícito, nos termos do artigo 381.º do Código do Trabalho.\n\nContudo, o Autor não pediu expressamente a declaração de ilicitude do despedimento nem a reintegração, tendo formulado pedido subsidiário de compensação por caducidade. Importa, pois, apreciar os pedidos formulados.\n\nO Autor pede, em primeiro lugar, a conversão do contrato em contrato sem termo “com as consequências legais, incluindo a indemnização por despedimento ilícito ou, subsidiariamente, a compensação por caducidade”. O pedido de indemnização por despedimento ilícito não foi quantificado nem fundamentado, pelo que não pode ser deferido. O pedido subsidiário de compensação por caducidade será apreciado infra, mas note-se que, convertido o contrato em sem termo, a compensação por caducidade do contrato a termo não é devida, pois a cessação não ocorreu por caducidade. Ainda assim, o Autor tem direito a compensação pela cessação do contrato sem termo, nos termos do artigo 366.º, n.º 1, do Código do Trabalho, aplicável por remissão, mas tal não foi pedido.\n\nAssim, e sem prejuízo da conversão, a compensação por caducidade não é devida, por incompatibilidade com a natureza do contrato sem termo. O pedido de pagamento de 480 euros a título de compensação por caducidade improcede.\n\n**B. Das horas suplementares**\n\nO Autor reclama o pagamento de 20 horas suplementares prestadas em janeiro de 2024, a pedido do supervisor, sem retribuição nem descanso compensatório. A Ré alega que o direito está prescrito e que não foi provado que o supervisor tivesse competência para autorizar o trabalho suplementar.\n\nO artigo 268.º do Código do Trabalho estabelece que o trabalho suplementar é pago com os acréscimos legais (25% pela primeira hora ou fração e 37,5% pelas horas subsequentes, em dia útil). O n.º 4 do mesmo artigo dispõe que “é exigível o pagamento de trabalho suplementar cuja prestação tenha sido prévia e expressamente determinada, ou realizada de modo a não ser previsível a oposição do empregador”.\n\nNo caso, ficou provado que as horas foram prestadas a pedido do supervisor hierárquico, o que constitui determinação prévia e expressa. A Ré não alegou nem provou que o supervisor não tivesse competência para o efeito, pelo que a prestação é imputável à Ré. O período experimental não afasta o direito à retribuição do trabalho suplementar, pois o artigo 268.º não exclui a sua aplicação durante o período experimental.\n\nQuanto à prescrição, o artigo 337.º, n.º 1, do Código do Trabalho estabelece que o crédito emergente de contrato de trabalho prescreve decorrido um ano a partir do dia seguinte àquele em que cessou o contrato de trabalho. O contrato cessou em 1 de julho de 2024. A ação foi proposta em data não indicada nos autos, mas considerando que o Autor gozou férias em agosto de 2024 e que a ação foi proposta após esse período, é razoável concluir que a ação foi intentada dentro do prazo de um ano a contar da cessação. Assim, não se verifica a prescrição.\n\nProcede, pois, o pedido de pagamento das horas suplementares.\n\n**Cálculo**\n\nA retribuição horária do Autor, considerando a retribuição base mensal de 1.200 euros e o período normal de trabalho de 40 horas semanais (artigo 271.º do Código do Trabalho), é calculada da seguinte forma: 1.200 euros / (40 horas x 4,33 semanas) = 1.200 / 173,2 = 6,93 euros/hora (valor aproximado). Para efeitos de cálculo, utiliza-se a fórmula legal: retribuição horária = (retribuição mensal x 12) / (52 x 40) = (1.200 x 12) / 2.080 = 14.400 / 2.080 = 6,92 euros/hora.\n\nAs 20 horas suplementares foram prestadas em 10 dias, presumindo-se que sejam horas em dias úteis. Aplicando os acréscimos legais: as primeiras 10 horas (uma por dia) são pagas com acréscimo de 25%, e as restantes 10 horas com acréscimo de 37,5%.\n\nValor da primeira hora de cada dia: 6,92 x 1,25 = 8,65 euros. Total para 10 horas: 86,50 euros.\nValor das horas subsequentes: 6,92 x 1,375 = 9,52 euros. Total para 10 horas: 95,20 euros.\nTotal devido: 86,50 + 95,20 = 181,70 euros.\n\nAcresce que, não tendo sido concedido descanso compensatório, o Autor tem direito ao pagamento das horas com os acréscimos legais, o que se reflete no cálculo supra.\n\n**C. Do subsídio de férias**\n\nO Autor gozou 10 dias úteis de férias em agosto de 2024, após o termo do contrato, e a Ré recusou-se a pagar o respetivo subsídio, alegando que, por se tratar de contrato a termo, não haveria lugar a esse direito.\n\nO artigo 239.º, n.º 1, do Código do Trabalho estabelece que, no ano da admissão, o trabalhador tem direito a dois dias úteis de férias por cada mês de duração do contrato, até 20 dias, cujo gozo pode ter lugar após seis meses completos de execução do contrato. Tendo o contrato durado seis meses, o Autor teria direito a 12 dias úteis de férias. Gozou 10 dias, pelo que lhe restam 2 dias não gozados.\n\nO artigo 264.º do Código do Trabalho estabelece que, além da retribuição do período de férias, o trabalhador tem direito a subsídio de férias, compreendendo a retribuição base e outras prestações retributivas, correspondentes à duração mínima das férias. O n.º 3 dispõe que o subsídio deve ser pago antes do início do período de férias e proporcionalmente em caso de gozo interpolado.\n\nO direito ao subsídio de férias é independente da natureza do contrato e não depende de o gozo ocorrer após o termo do contrato, desde que as férias tenham sido efetivamente gozadas. A Ré atribuiu 10 dias de férias ao Autor, que os gozou, pelo que o subsídio correspondente é devido. A tese da liberalidade não procede, pois as férias são um direito legal e o subsídio é a contrapartida retributiva.\n\nAssim, é devido o subsídio de férias proporcional aos 10 dias gozados. Considerando que o subsídio de férias corresponde à retribuição base correspondente à duração mínima das férias (22 dias úteis), o valor diário é de 1.200 / 22 = 54,55 euros. Para 10 dias: 545,50 euros. Contudo, o Autor não quantificou o pedido, pelo que se fixará em liquidação posterior, nos termos do artigo 609.º do Código de Processo Civil.\n\n**D. Da compensação por caducidade**\n\nComo já se referiu, convertido o contrato em contrato sem termo, a cessação não ocorreu por caducidade, pelo que a compensação prevista no artigo 344.º, n.º 2, do Código do Trabalho não é devida. Improcede, pois, este pedido.\n\n**E. Do assédio moral e danos não patrimoniais**\n\nO Autor alega ter sido vítima de assédio moral pelo supervisor hierárquico, que repetidamente o chamou de “incompetente”, “lento” e “inútil”, em frente aos colegas, causando-lhe ansiedade e insónia, com recurso a apoio psicológico. A Ré nega o assédio, alegando que se tratou de críticas legítimas ao desempenho, no exercício do poder de direção, e que não houve queixa formal nem prova dos danos.\n\nO artigo 29.º do Código do Trabalho proíbe o assédio, definindo-o como “o comportamento indesejado, nomeadamente o baseado em fator de discriminação, praticado aquando do acesso ao emprego ou no próprio emprego, trabalho ou formação profissional, com o objetivo ou o efeito de perturbar ou constranger a pessoa, afetar a sua dignidade, ou de lhe criar um ambiente intimidativo, hostil, degradante, humilhante ou desestabilizador”. O n.º 4 do mesmo artigo confere à vítima o direito de indemnização.\n\nNo caso, ficou provado que o supervisor, ao longo de todo o contrato, dirigiu repetidamente ao Autor expressões humilhantes e vexatórias, em frente aos colegas. Tais comportamentos, pela sua reiteração e natureza, excedem o legítimo exercício do poder de direção e configuram assédio moral, afetando a dignidade do trabalhador e criando um ambiente humilhante e desestabilizador. A Ré não alegou nem provou que o supervisor não tivesse competência para dirigir o trabalho do Autor, pelo que responde pelos seus atos.\n\nA ausência de queixa formal não impede a apreciação judicial dos factos, pois o direito à indemnização decorre da violação do dever de respeito e proteção da dignidade do trabalhador (artigo 127.º, n.º 1, alínea a), do Código do Trabalho). A Ré invoca o artigo 483.º do Código Civil, mas este artigo, na redação do Código do Trabalho, não tem o sentido invocado; a responsabilidade civil extracontratual rege-se pelo artigo 483.º do Código Civil, que não foi citado na sua redação correta. A Ré citou o artigo 798.º do Código Civil, que não existe no Código do Trabalho, pelo que tal argumento não pode ser considerado.\n\nOs danos não patrimoniais (ansiedade, insónia, apoio psicológico) estão provados e têm nexo causal com a conduta do supervisor. Assim, o Autor tem direito a indemnização por danos não patrimoniais, a fixar equitativamente, nos termos do artigo 496.º do Código Civil, aplicável subsidiariamente. Considerando a gravidade dos factos, a sua reiteração ao longo de seis meses e o impacto na saúde do Autor, fixa-se a indemnização em 3.000 euros.\n\n**F. Das contra-ordenações**\n\nO Autor pede a condenação da Ré nas contra-ordenações graves e muito graves correspondentes. Contudo, o Tribunal do Trabalho não é competente para aplicar coimas em processo contraordenacional, que segue os trâmites do regime geral das contra-ordenações laborais (artigo 554.º do Código do Trabalho). Assim, não há lugar a condenação em coimas nesta sede, sem prejuízo de participação à Autoridade para as Condições do Trabalho.\n\n**G. Da prescrição**\n\nA Ré alega a prescrição dos créditos. Como já se referiu, o prazo de prescrição é de um ano a contar da cessação do contrato (artigo 337.º, n.º 1, do Código do Trabalho). Tendo o contrato cessado em 1 de julho de 2024 e considerando a data provável da ação (após agosto de 2024), não se verifica a prescrição.\n\n**H. Da litigância de má-fé**\n\nNão se verificam os pressupostos da litigância de má-fé.\n\n---\n\n**IV. DECISÃO**\n\nPelo exposto, o Tribunal decide:\n\n1. **Julgar parcialmente procedente** a ação e, em consequência:\n\n   a) **Declarar** a nulidade da estipulação do termo no contrato de trabalho celebrado entre Autor e Ré, convertendo-se o mesmo em contrato de trabalho sem termo, com efeitos desde 2 de janeiro de 2024.\n\n   b) **Condenar** a Ré a pagar ao Autor a quantia de **181,70 euros** (cento e oitenta e um euros e setenta cêntimos) a título de trabalho suplementar prestado em janeiro de 2024, acrescida de juros de mora à taxa legal desde a data de exigibilidade até efetivo pagamento.\n\n   c) **Condenar** a Ré a pagar ao Autor o subsídio de férias correspondente aos 10 dias úteis de férias gozados em agosto de 2024, em montante a liquidar em execução de sentença, nos termos do artigo 609.º do Código de Processo Civil, calculado com base na retribuição base mensal de 1.200 euros.\n\n   d) **Condenar** a Ré a pagar ao Autor a quantia de **3.000 euros** (três mil euros) a título de indemnização por danos não patrimoniais decorrentes do assédio moral.\n\n2. **Absolver** a Ré do pedido de pagamento de compensação por caducidade do contrato a termo, no valor de 480 euros.\n\n3. **Absolver** a Ré do pedido de condenação em coimas por contra-ordenações, sem prejuízo de participação à Autoridade para as Condições do Trabalho.\n\n4. **Não condenar** em custas a Ré na parte em que decaiu, fixando-se as custas em conformidade com o disposto no Código de Processo Civil.\n\nNotifique-se.\n\n---\n\n**Tribunal do Trabalho, [data]**\n\n**O Juiz de Direito**"
 }
