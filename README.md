@@ -91,6 +91,7 @@ relatorio_completo.json: O registo completo do debate (dossiê do intérprete, a
 
 ### 📁 Estrutura do Projeto
 
+```
 tribunal-llm/
 ├── data/                   # Ficheiros de texto do Código do Trabalho e outputs
 ├── scripts/                # Scripts de teste isolados (RAG, agentes, etc.)
@@ -113,3 +114,4 @@ tribunal-llm/
 ├── Requirements.txt        # Dependências do projeto
 ├── .env                    # Documento com as Api Keys 
 └── Caso.txt                # O caso prático a julgar
+```
